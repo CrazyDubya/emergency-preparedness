@@ -1,0 +1,9 @@
+langchain
+transformers
+sentence-transformers
+faiss-cpu
+pdfplumber
+torch
+langchain-community
+beautifulsoup4
+pypdf

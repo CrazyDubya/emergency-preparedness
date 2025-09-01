@@ -1,0 +1,34 @@
+# Enhanced Emergency Preparedness System Requirements
+# Original requirements
+pandas>=1.5.0
+matplotlib>=3.5.0
+seaborn>=0.11.0
+numpy>=1.21.0
+sqlite3  # Built-in with Python
+requests>=2.28.0
+python-dateutil>=2.8.0
+
+# New stateful and API requirements
+fastapi>=0.100.0
+uvicorn>=0.23.0
+pydantic>=2.0.0
+python-jose[cryptography]>=3.3.0
+passlib[bcrypt]>=1.7.4
+python-multipart>=0.0.6
+
+# GUI requirements
+streamlit>=1.25.0
+plotly>=5.15.0
+pillow>=9.5.0
+
+# Additional utilities
+click>=8.1.0
+PyJWT>=2.8.0
+python-dotenv>=1.0.0
+httpx>=0.24.0  # For async HTTP requests
+websockets>=11.0.0  # For WebSocket support
+
+# Optional production requirements
+gunicorn>=21.0.0  # For production WSGI
+redis>=4.6.0  # For session storage (optional)
+psycopg2-binary>=2.9.0  # For PostgreSQL support (optional)

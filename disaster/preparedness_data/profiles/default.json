@@ -1,0 +1,53 @@
+{
+  "meta": {
+    "version": "1.0",
+    "created": "2025-08-13T23:01:58.934643",
+    "last_modified": "2025-08-13T23:01:58.934672",
+    "profile_id": "d32265ee7de9"
+  },
+  "family": {
+    "adults": 0,
+    "children": 0,
+    "pets": 0,
+    "special_needs": [],
+    "last_updated": null
+  },
+  "location": {
+    "type": null,
+    "housing": null,
+    "ownership": null,
+    "geographic_risks": [],
+    "last_updated": null
+  },
+  "risk_assessment": {
+    "matrix": null,
+    "top_risks": [],
+    "preparedness_score": 0,
+    "last_updated": null
+  },
+  "supplies": {
+    "inventory_status": {},
+    "shopping_list": [],
+    "expiry_alerts": [],
+    "last_updated": null
+  },
+  "contacts": {
+    "emergency_contacts": [],
+    "verified": false,
+    "last_updated": null
+  },
+  "drills": {
+    "completed": [],
+    "scheduled": [],
+    "performance_history": [],
+    "last_updated": null
+  },
+  "preferences": {
+    "notification_frequency": "weekly",
+    "drill_difficulty": "intermediate",
+    "report_format": "detailed",
+    "auto_backup": true,
+    "last_updated": null
+  },
+  "activities": {}
+}
