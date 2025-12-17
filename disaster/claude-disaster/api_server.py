@@ -4,7 +4,7 @@ FastAPI Server for Emergency Preparedness System
 RESTful API with authentication and real-time features
 """
 
-from fastapi import FastAPI, HTTPException, Depends, status, BackgroundTasks
+from fastapi import FastAPI, HTTPException, Depends, status, BackgroundTasks, Request
 from fastapi.security import HTTPBearer, HTTPAuthorizationCredentials
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import JSONResponse, StreamingResponse
@@ -12,8 +12,6 @@ from pydantic import BaseModel
 from typing import Dict, List, Optional, Any
 import uvicorn
 import json
-import jwt
-import hashlib
 from datetime import datetime, timedelta
 import asyncio
 import logging
@@ -23,40 +21,56 @@ from pathlib import Path
 from integrated_preparedness_system import IntegratedPreparednessSystem
 from user_profile_manager import UserProfileManager
 from backup_manager import BackupManager
+from security import (
+    SecureConfig, JWTManager, RateLimiter,
+    get_secure_config, get_rate_limiter
+)
+from exceptions import (
+    InvalidAPIKeyError, TokenExpiredError, PermissionDeniedError,
+    AuthenticationError
+)
 
 # Configure logging
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
+# Initialize secure configuration
+secure_config = get_secure_config()
+rate_limiter = get_rate_limiter()
+
+# Initialize JWT manager
+try:
+    jwt_manager = JWTManager(secure_config.secret_key)
+except Exception as e:
+    logger.warning(f"JWT manager not available: {e}")
+    jwt_manager = None
+
 # FastAPI app initialization
 app = FastAPI(
     title="Emergency Preparedness API",
     description="Complete disaster readiness platform API",
-    version="3.0.0",
-    docs_url="/docs",
-    redoc_url="/redoc"
+    version="3.1.0",
+    docs_url="/docs" if secure_config.is_debug_mode else None,
+    redoc_url="/redoc" if secure_config.is_debug_mode else None
 )
 
-# CORS middleware
+# CORS middleware with secure configuration
+allowed_origins = secure_config.allowed_origins
+if not allowed_origins and secure_config.is_debug_mode:
+    # Allow all origins only in debug mode
+    allowed_origins = ["*"]
+    logger.warning("CORS: Allowing all origins (debug mode)")
+
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],  # Configure appropriately for production
+    allow_origins=allowed_origins,
     allow_credentials=True,
-    allow_methods=["*"],
-    allow_headers=["*"],
+    allow_methods=["GET", "POST", "PUT", "DELETE"],
+    allow_headers=["Authorization", "Content-Type"],
 )
 
 # Security
 security = HTTPBearer()
-SECRET_KEY = "emergency_preparedness_secret_key_change_in_production"
-ALGORITHM = "HS256"
-
-# In-memory storage for demo (use proper database in production)
-api_keys = {
-    "admin_key": {"user_id": "admin", "role": "admin", "profile": "admin"},
-    "user_key": {"user_id": "user1", "role": "user", "profile": "default"},
-    "gui_key": {"user_id": "gui", "role": "user", "profile": "default"}  # Embedded GUI key
-}
 
 # Global system instances (in production, use dependency injection)
 systems = {}
@@ -91,38 +105,129 @@ class AlertSubscription(BaseModel):
     notification_method: str = "api"
 
 # Authentication functions
-def create_access_token(data: dict, expires_delta: Optional[timedelta] = None):
-    """Create JWT access token"""
-    to_encode = data.copy()
-    if expires_delta:
-        expire = datetime.utcnow() + expires_delta
-    else:
-        expire = datetime.utcnow() + timedelta(hours=24)
-    to_encode.update({"exp": expire})
-    encoded_jwt = jwt.encode(to_encode, SECRET_KEY, algorithm=ALGORITHM)
-    return encoded_jwt
+async def verify_api_key(
+    request: Request,
+    credentials: HTTPAuthorizationCredentials = Depends(security)
+) -> Dict[str, Any]:
+    """
+    Verify API key and return user info with rate limiting
 
-def verify_api_key(credentials: HTTPAuthorizationCredentials = Depends(security)):
-    """Verify API key and return user info"""
+    Args:
+        request: FastAPI request object
+        credentials: HTTP Bearer credentials
+
+    Returns:
+        Dictionary with user_id, role, profile, and permissions
+
+    Raises:
+        HTTPException: If authentication fails or rate limit exceeded
+    """
     api_key = credentials.credentials
-    
-    if api_key not in api_keys:
+
+    try:
+        # Validate the API key
+        key_config = secure_config.validate_api_key(api_key)
+
+        # Check rate limit
+        key_hash = SecureConfig.hash_api_key(api_key)[:16]  # Use partial hash as key
+        if not rate_limiter.is_allowed(key_hash, key_config.rate_limit):
+            remaining = rate_limiter.get_remaining(key_hash, key_config.rate_limit)
+            raise HTTPException(
+                status_code=status.HTTP_429_TOO_MANY_REQUESTS,
+                detail=f"Rate limit exceeded. Try again later.",
+                headers={"X-RateLimit-Remaining": str(remaining)}
+            )
+
+        return {
+            "user_id": key_config.user_id,
+            "role": key_config.role,
+            "profile": key_config.profile,
+            "permissions": key_config.permissions
+        }
+
+    except InvalidAPIKeyError:
+        logger.warning(f"Invalid API key attempt from {request.client.host}")
         raise HTTPException(
             status_code=status.HTTP_401_UNAUTHORIZED,
-            detail="Invalid API key"
+            detail="Invalid API key",
+            headers={"WWW-Authenticate": "Bearer"}
         )
-    
-    return api_keys[api_key]
+
+
+async def verify_jwt_token(
+    request: Request,
+    credentials: HTTPAuthorizationCredentials = Depends(security)
+) -> Dict[str, Any]:
+    """
+    Verify JWT token and return user info
+
+    For endpoints that use JWT instead of API key authentication
+    """
+    if jwt_manager is None:
+        raise HTTPException(
+            status_code=status.HTTP_503_SERVICE_UNAVAILABLE,
+            detail="JWT authentication not available"
+        )
+
+    token = credentials.credentials
+
+    try:
+        payload = jwt_manager.verify_token(token, "access")
+        return {
+            "user_id": payload["sub"],
+            "role": payload.get("role", "user"),
+            "permissions": payload.get("permissions", [])
+        }
+
+    except TokenExpiredError:
+        raise HTTPException(
+            status_code=status.HTTP_401_UNAUTHORIZED,
+            detail="Token has expired",
+            headers={"WWW-Authenticate": "Bearer"}
+        )
+    except AuthenticationError as e:
+        logger.warning(f"Invalid token from {request.client.host}: {e}")
+        raise HTTPException(
+            status_code=status.HTTP_401_UNAUTHORIZED,
+            detail="Invalid token",
+            headers={"WWW-Authenticate": "Bearer"}
+        )
+
+
+def require_role(required_role: str):
+    """Dependency to require a specific role"""
+    async def role_checker(user_info: dict = Depends(verify_api_key)):
+        if user_info["role"] != required_role and user_info["role"] != "admin":
+            raise HTTPException(
+                status_code=status.HTTP_403_FORBIDDEN,
+                detail=f"Requires {required_role} role"
+            )
+        return user_info
+    return role_checker
+
+
+def require_permission(required_permission: str):
+    """Dependency to require a specific permission"""
+    async def permission_checker(user_info: dict = Depends(verify_api_key)):
+        permissions = user_info.get("permissions", [])
+        if "*" not in permissions and required_permission not in permissions:
+            raise HTTPException(
+                status_code=status.HTTP_403_FORBIDDEN,
+                detail=f"Requires {required_permission} permission"
+            )
+        return user_info
+    return permission_checker
+
 
 def get_system(user_info: dict = Depends(verify_api_key)) -> IntegratedPreparednessSystem:
     """Get or create system instance for user"""
     user_id = user_info["user_id"]
-    profile = user_info["profile"]
-    
+    profile = user_info.get("profile", "default")
+
     if user_id not in systems:
         systems[user_id] = IntegratedPreparednessSystem(profile=profile)
         logger.info(f"Created system instance for user: {user_id}")
-    
+
     return systems[user_id]
 
 # API Routes
@@ -160,29 +265,51 @@ async def health_check():
 # Authentication endpoints
 
 @app.post("/auth/login")
-async def login(request: LoginRequest):
-    """Authenticate with API key and get access token"""
-    if request.api_key not in api_keys:
+async def login(request: LoginRequest, req: Request):
+    """Authenticate with API key and get JWT access token"""
+    try:
+        # Validate API key
+        key_config = secure_config.validate_api_key(request.api_key)
+
+        if jwt_manager is None:
+            # Return API key info if JWT not available
+            return {
+                "access_token": request.api_key,
+                "token_type": "bearer",
+                "user_id": key_config.user_id,
+                "role": key_config.role,
+                "profile": request.profile or key_config.profile,
+                "jwt_available": False
+            }
+
+        # Create JWT access token
+        access_token = jwt_manager.create_access_token(
+            user_id=key_config.user_id,
+            role=key_config.role,
+            permissions=key_config.permissions
+        )
+
+        # Create refresh token
+        refresh_token = jwt_manager.create_refresh_token(key_config.user_id)
+
+        logger.info(f"User {key_config.user_id} logged in from {req.client.host}")
+
+        return {
+            "access_token": access_token,
+            "refresh_token": refresh_token,
+            "token_type": "bearer",
+            "user_id": key_config.user_id,
+            "role": key_config.role,
+            "profile": request.profile or key_config.profile,
+            "expires_in": 3600  # 1 hour
+        }
+
+    except InvalidAPIKeyError:
+        logger.warning(f"Failed login attempt from {req.client.host}")
         raise HTTPException(
             status_code=status.HTTP_401_UNAUTHORIZED,
             detail="Invalid API key"
         )
-    
-    user_info = api_keys[request.api_key]
-    
-    # Create access token
-    access_token = create_access_token(
-        data={"sub": user_info["user_id"], "role": user_info["role"]},
-        expires_delta=timedelta(hours=24)
-    )
-    
-    return {
-        "access_token": access_token,
-        "token_type": "bearer",
-        "user_id": user_info["user_id"],
-        "role": user_info["role"],
-        "profile": request.profile or user_info["profile"]
-    }
 
 # Profile management endpoints
 

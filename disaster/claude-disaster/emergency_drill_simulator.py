@@ -8,10 +8,19 @@ import json
 import sqlite3
 import random
 import time
+import logging
 from datetime import datetime, timedelta
-from typing import Dict, List, Optional, Tuple
+from typing import Dict, List, Optional, Tuple, Any
 from dataclasses import dataclass
 import threading
+
+from exceptions import (
+    DrillError, DrillScenarioNotFoundError, DrillAlreadyRunningError,
+    DrillValidationError, DatabaseError, DatabaseConnectionError,
+    DatabaseQueryError
+)
+
+logger = logging.getLogger(__name__)
 
 @dataclass
 class DrillScenario:
@@ -73,74 +82,83 @@ class EmergencyDrillSimulator:
             }
         }
     
-    def init_database(self):
+    def init_database(self) -> None:
         """Initialize database for drill scenarios and results"""
-        conn = sqlite3.connect(self.db_path)
-        cursor = conn.cursor()
-        
-        cursor.execute('''
-            CREATE TABLE IF NOT EXISTS drill_scenarios (
-                id INTEGER PRIMARY KEY AUTOINCREMENT,
-                name TEXT NOT NULL,
-                disaster_type TEXT NOT NULL,
-                difficulty TEXT,
-                duration_minutes INTEGER,
-                objectives TEXT,
-                decision_points TEXT,
-                success_criteria TEXT,
-                family_roles TEXT,
-                created_date TEXT DEFAULT CURRENT_TIMESTAMP
-            )
-        ''')
-        
-        cursor.execute('''
-            CREATE TABLE IF NOT EXISTS drill_results (
-                id INTEGER PRIMARY KEY AUTOINCREMENT,
-                scenario_id INTEGER,
-                participant_name TEXT,
-                family_size INTEGER,
-                start_time TEXT,
-                end_time TEXT,
-                decisions_made TEXT,
-                objectives_completed TEXT,
-                score INTEGER,
-                time_taken REAL,
-                performance_grade TEXT,
-                lessons_learned TEXT,
-                created_date TEXT DEFAULT CURRENT_TIMESTAMP,
-                FOREIGN KEY (scenario_id) REFERENCES drill_scenarios (id)
-            )
-        ''')
-        
-        cursor.execute('''
-            CREATE TABLE IF NOT EXISTS decision_analytics (
-                id INTEGER PRIMARY KEY AUTOINCREMENT,
-                scenario_id INTEGER,
-                decision_point TEXT,
-                option_chosen TEXT,
-                outcome TEXT,
-                time_to_decide REAL,
-                stress_level INTEGER,
-                created_date TEXT DEFAULT CURRENT_TIMESTAMP,
-                FOREIGN KEY (scenario_id) REFERENCES drill_scenarios (id)
-            )
-        ''')
-        
-        cursor.execute('''
-            CREATE TABLE IF NOT EXISTS family_member_actions (
-                id INTEGER PRIMARY KEY AUTOINCREMENT,
-                drill_result_id INTEGER,
-                member_name TEXT,
-                member_age INTEGER,
-                assigned_role TEXT,
-                actions_taken TEXT,
-                performance_score INTEGER,
-                FOREIGN KEY (drill_result_id) REFERENCES drill_results (id)
-            )
-        ''')
-        
-        conn.commit()
-        conn.close()
+        conn = None
+        try:
+            conn = sqlite3.connect(self.db_path)
+            cursor = conn.cursor()
+
+            cursor.execute('''
+                CREATE TABLE IF NOT EXISTS drill_scenarios (
+                    id INTEGER PRIMARY KEY AUTOINCREMENT,
+                    name TEXT NOT NULL,
+                    disaster_type TEXT NOT NULL,
+                    difficulty TEXT,
+                    duration_minutes INTEGER,
+                    objectives TEXT,
+                    decision_points TEXT,
+                    success_criteria TEXT,
+                    family_roles TEXT,
+                    created_date TEXT DEFAULT CURRENT_TIMESTAMP
+                )
+            ''')
+
+            cursor.execute('''
+                CREATE TABLE IF NOT EXISTS drill_results (
+                    id INTEGER PRIMARY KEY AUTOINCREMENT,
+                    scenario_id INTEGER,
+                    participant_name TEXT,
+                    family_size INTEGER,
+                    start_time TEXT,
+                    end_time TEXT,
+                    decisions_made TEXT,
+                    objectives_completed TEXT,
+                    score INTEGER,
+                    time_taken REAL,
+                    performance_grade TEXT,
+                    lessons_learned TEXT,
+                    created_date TEXT DEFAULT CURRENT_TIMESTAMP,
+                    FOREIGN KEY (scenario_id) REFERENCES drill_scenarios (id)
+                )
+            ''')
+
+            cursor.execute('''
+                CREATE TABLE IF NOT EXISTS decision_analytics (
+                    id INTEGER PRIMARY KEY AUTOINCREMENT,
+                    scenario_id INTEGER,
+                    decision_point TEXT,
+                    option_chosen TEXT,
+                    outcome TEXT,
+                    time_to_decide REAL,
+                    stress_level INTEGER,
+                    created_date TEXT DEFAULT CURRENT_TIMESTAMP,
+                    FOREIGN KEY (scenario_id) REFERENCES drill_scenarios (id)
+                )
+            ''')
+
+            cursor.execute('''
+                CREATE TABLE IF NOT EXISTS family_member_actions (
+                    id INTEGER PRIMARY KEY AUTOINCREMENT,
+                    drill_result_id INTEGER,
+                    member_name TEXT,
+                    member_age INTEGER,
+                    assigned_role TEXT,
+                    actions_taken TEXT,
+                    performance_score INTEGER,
+                    FOREIGN KEY (drill_result_id) REFERENCES drill_results (id)
+                )
+            ''')
+
+            conn.commit()
+            logger.info(f"Drill simulator database initialized: {self.db_path}")
+
+        except sqlite3.Error as e:
+            logger.error(f"Failed to initialize drill database: {e}")
+            raise DatabaseConnectionError(self.db_path, e)
+        finally:
+            if conn:
+                conn.close()
     
     def create_earthquake_drill(self) -> int:
         """Create a comprehensive earthquake drill scenario"""
@@ -405,49 +423,104 @@ class EmergencyDrillSimulator:
                      decision_points: List[Dict], success_criteria: Dict,
                      family_roles: List[str]) -> int:
         """Save a drill scenario to database"""
-        conn = sqlite3.connect(self.db_path)
-        cursor = conn.cursor()
-        
-        cursor.execute('''
-            INSERT INTO drill_scenarios (name, disaster_type, difficulty, duration_minutes,
-                                        objectives, decision_points, success_criteria, family_roles)
-            VALUES (?, ?, ?, ?, ?, ?, ?, ?)
-        ''', (name, disaster_type, difficulty, duration_minutes,
-              json.dumps(objectives), json.dumps(decision_points),
-              json.dumps(success_criteria), json.dumps(family_roles)))
-        
-        scenario_id = cursor.lastrowid
-        conn.commit()
-        conn.close()
-        
-        return scenario_id
+        # Validate inputs
+        if not name or not name.strip():
+            raise DrillValidationError("Scenario name is required", "name")
+        if not disaster_type or not disaster_type.strip():
+            raise DrillValidationError("Disaster type is required", "disaster_type")
+        if duration_minutes <= 0:
+            raise DrillValidationError("Duration must be positive", "duration_minutes")
+        if not objectives:
+            raise DrillValidationError("At least one objective is required", "objectives")
+
+        conn = None
+        try:
+            conn = sqlite3.connect(self.db_path)
+            cursor = conn.cursor()
+
+            cursor.execute('''
+                INSERT INTO drill_scenarios (name, disaster_type, difficulty, duration_minutes,
+                                            objectives, decision_points, success_criteria, family_roles)
+                VALUES (?, ?, ?, ?, ?, ?, ?, ?)
+            ''', (name.strip(), disaster_type.strip(), difficulty, duration_minutes,
+                  json.dumps(objectives), json.dumps(decision_points),
+                  json.dumps(success_criteria), json.dumps(family_roles)))
+
+            scenario_id = cursor.lastrowid
+            conn.commit()
+            logger.info(f"Saved drill scenario '{name}' with ID {scenario_id}")
+            return scenario_id
+
+        except sqlite3.IntegrityError as e:
+            logger.error(f"Integrity error saving scenario: {e}")
+            raise DrillValidationError(f"Failed to save scenario: {e}")
+        except sqlite3.Error as e:
+            logger.error(f"Database error saving scenario: {e}")
+            raise DatabaseQueryError("INSERT INTO drill_scenarios", self.db_path, e)
+        finally:
+            if conn:
+                conn.close()
     
-    def run_drill(self, scenario_id: int, participant_name: str, family_size: int = 4) -> Dict:
-        """Run an interactive emergency drill"""
-        conn = sqlite3.connect(self.db_path)
-        cursor = conn.cursor()
-        
-        cursor.execute("SELECT * FROM drill_scenarios WHERE id = ?", (scenario_id,))
-        scenario_row = cursor.fetchone()
-        
-        if not scenario_row:
-            conn.close()
-            return {"error": "Scenario not found"}
-        
-        # Parse scenario data
-        scenario = {
-            "id": scenario_row[0],
-            "name": scenario_row[1],
-            "disaster_type": scenario_row[2],
-            "difficulty": scenario_row[3],
-            "duration_minutes": scenario_row[4],
-            "objectives": json.loads(scenario_row[5]),
-            "decision_points": json.loads(scenario_row[6]),
-            "success_criteria": json.loads(scenario_row[7]),
-            "family_roles": json.loads(scenario_row[8])
-        }
-        
-        conn.close()
+    def run_drill(self, scenario_id: int, participant_name: str, family_size: int = 4) -> Dict[str, Any]:
+        """Run an interactive emergency drill
+
+        Args:
+            scenario_id: ID of the drill scenario to run
+            participant_name: Name of the participant
+            family_size: Number of family members participating
+
+        Returns:
+            Dictionary containing drill results
+
+        Raises:
+            DrillScenarioNotFoundError: If scenario doesn't exist
+            DrillValidationError: If parameters are invalid
+            DrillAlreadyRunningError: If a drill is already in progress
+            DatabaseError: If database operation fails
+        """
+        # Validate inputs
+        if not participant_name or not participant_name.strip():
+            raise DrillValidationError("Participant name is required", "participant_name")
+        if family_size < 1 or family_size > 20:
+            raise DrillValidationError("Family size must be between 1 and 20", "family_size")
+
+        # Check if drill is already running
+        if self.current_drill is not None:
+            raise DrillAlreadyRunningError(self.current_drill.get("disaster_type", "unknown"))
+
+        conn = None
+        try:
+            conn = sqlite3.connect(self.db_path)
+            cursor = conn.cursor()
+
+            cursor.execute("SELECT * FROM drill_scenarios WHERE id = ?", (scenario_id,))
+            scenario_row = cursor.fetchone()
+
+            if not scenario_row:
+                raise DrillScenarioNotFoundError(scenario_id)
+
+            # Parse scenario data
+            scenario = {
+                "id": scenario_row[0],
+                "name": scenario_row[1],
+                "disaster_type": scenario_row[2],
+                "difficulty": scenario_row[3],
+                "duration_minutes": scenario_row[4],
+                "objectives": json.loads(scenario_row[5]),
+                "decision_points": json.loads(scenario_row[6]),
+                "success_criteria": json.loads(scenario_row[7]),
+                "family_roles": json.loads(scenario_row[8])
+            }
+
+        except sqlite3.Error as e:
+            logger.error(f"Database error loading scenario: {e}")
+            raise DatabaseQueryError("SELECT FROM drill_scenarios", self.db_path, e)
+        finally:
+            if conn:
+                conn.close()
+
+        # Mark drill as running
+        self.current_drill = scenario
         
         # Initialize drill
         start_time = datetime.now()
@@ -609,38 +682,72 @@ class EmergencyDrillSimulator:
         else:
             print(f"\n⚠️  Significant improvement needed. Practice regularly!")
         
+        # Clear drill state
+        self.current_drill = None
+
+        logger.info(f"Drill completed: {scenario['name']} - Score: {total_score}, Grade: {performance_grade}")
+
         return {
             "drill_result_id": drill_result_id,
             "score": total_score,
             "grade": performance_grade,
             "time": total_time,
             "decisions": decisions_made,
-            "lessons": lessons
+            "lessons": lessons,
+            "success": True
         }
-    
+
     def save_drill_result(self, scenario_id: int, participant_name: str,
                          family_size: int, start_time: str, end_time: str,
                          decisions_made: List[Dict], objectives_completed: List[str],
                          score: int, time_taken: float, performance_grade: str,
                          lessons_learned: List[str]) -> int:
-        """Save drill results to database"""
-        conn = sqlite3.connect(self.db_path)
-        cursor = conn.cursor()
-        
-        cursor.execute('''
-            INSERT INTO drill_results (scenario_id, participant_name, family_size,
-                                     start_time, end_time, decisions_made, objectives_completed,
-                                     score, time_taken, performance_grade, lessons_learned)
-            VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
-        ''', (scenario_id, participant_name, family_size, start_time, end_time,
-              json.dumps(decisions_made), json.dumps(objectives_completed),
-              score, time_taken, performance_grade, json.dumps(lessons_learned)))
-        
-        result_id = cursor.lastrowid
-        conn.commit()
-        conn.close()
-        
-        return result_id
+        """Save drill results to database
+
+        Args:
+            scenario_id: ID of the scenario that was run
+            participant_name: Name of the participant
+            family_size: Number of family members
+            start_time: ISO format start timestamp
+            end_time: ISO format end timestamp
+            decisions_made: List of decisions made during drill
+            objectives_completed: List of completed objectives
+            score: Total score achieved
+            time_taken: Time taken in minutes
+            performance_grade: Grade string
+            lessons_learned: List of lessons learned
+
+        Returns:
+            ID of the saved drill result
+
+        Raises:
+            DatabaseQueryError: If save operation fails
+        """
+        conn = None
+        try:
+            conn = sqlite3.connect(self.db_path)
+            cursor = conn.cursor()
+
+            cursor.execute('''
+                INSERT INTO drill_results (scenario_id, participant_name, family_size,
+                                         start_time, end_time, decisions_made, objectives_completed,
+                                         score, time_taken, performance_grade, lessons_learned)
+                VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+            ''', (scenario_id, participant_name, family_size, start_time, end_time,
+                  json.dumps(decisions_made), json.dumps(objectives_completed),
+                  score, time_taken, performance_grade, json.dumps(lessons_learned)))
+
+            result_id = cursor.lastrowid
+            conn.commit()
+            logger.info(f"Saved drill result ID {result_id} for {participant_name}")
+            return result_id
+
+        except sqlite3.Error as e:
+            logger.error(f"Failed to save drill result: {e}")
+            raise DatabaseQueryError("INSERT INTO drill_results", self.db_path, e)
+        finally:
+            if conn:
+                conn.close()
     
     def get_performance_history(self, participant_name: str) -> Dict:
         """Get drill performance history for a participant"""
