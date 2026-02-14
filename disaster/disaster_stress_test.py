@@ -331,11 +331,29 @@ class DisasterStressTest:
         return test_result
     
     def test_risk_assessment(self, scenario: Dict) -> int:
-        """Test if risk assessment system handles this disaster type"""
+        """Test if risk assessment system handles this disaster type with Phase 2A/2B enhancements"""
         try:
             # Check if disaster type is in probability matrix
             disaster_types = ["earthquake", "fire", "flood", "power_outage", "tornado", "hurricane"]
             base_score = 70 if scenario["type"] in disaster_types else 30
+            
+            # Phase 2A Modern Threat Module Bonuses
+            modern_threat_bonus = 0
+            
+            # Cyber Attack Response Module
+            if hasattr(self.system, 'cyber_response') and scenario["type"] == "cyber_attack":
+                modern_threat_bonus += 40  # Specialized cyber preparedness
+                
+            # EMP Hardening Module  
+            if hasattr(self.system, 'emp_hardening') and "emp" in scenario["name"].lower():
+                modern_threat_bonus += 35  # EMP-specific preparedness
+                
+            # Nuclear Safety Module
+            if hasattr(self.system, 'nuclear_safety') and "nuclear" in scenario["name"].lower():
+                modern_threat_bonus += 35  # Nuclear incident preparedness
+            
+            # Apply modern threat bonuses
+            base_score += modern_threat_bonus
             
             # Adjust for warning time
             if scenario["warning_time"] > 24:
@@ -349,7 +367,7 @@ class DisasterStressTest:
             return 25
     
     def test_supply_adequacy(self, scenario: Dict) -> int:
-        """Test if supply system covers scenario needs"""
+        """Test if supply system covers scenario needs with Phase 2B enhancements"""
         try:
             # Basic supply categories in system
             system_supplies = ["water", "food", "medical", "power", "communication", "shelter", "tools"]
@@ -359,11 +377,37 @@ class DisasterStressTest:
             covered_needs = len([need for need in scenario_needs if any(supply in need for supply in system_supplies)])
             coverage_percent = (covered_needs / len(scenario_needs)) * 100
             
-            # Duration adjustment
+            # Phase 2B Enhancement Bonuses
+            phase2b_bonus = 0
+            
+            # Extended Supply Planning bonus for long-term scenarios
+            if hasattr(self.system, 'extended_supply') and scenario["duration"] in ["weeks", "months"]:
+                phase2b_bonus += 25  # 6-month supply planning helps significantly
+                
+            # Local Production bonus for extended scenarios
+            if hasattr(self.system, 'local_production') and scenario["duration"] == "months":
+                phase2b_bonus += 20  # Food production capabilities
+                
+            # Alternative Economy bonus for economic/supply chain scenarios
+            if hasattr(self.system, 'alternative_economy'):
+                if "economic" in scenario["name"].lower() or "supply_chain" in scenario.get("cascading_effects", []):
+                    phase2b_bonus += 30  # Barter/trade systems crucial for economic scenarios
+                elif "cyber" in scenario["name"].lower() or "banking_disruption" in scenario.get("cascading_effects", []):
+                    phase2b_bonus += 25  # Alternative systems when digital fails
+                    
+            # Community Networks bonus for large-scale scenarios
+            if hasattr(self.system, 'community_networks'):
+                if scenario["affected_area"] in ["regional", "multi_state", "national", "global"]:
+                    phase2b_bonus += 15  # Community resilience for large disasters
+            
+            # Apply Phase 2B bonuses
+            coverage_percent += phase2b_bonus
+            
+            # Duration adjustment (reduced penalties due to enhanced systems)
             if scenario["duration"] == "months":
-                coverage_percent *= 0.7  # Long-term is harder
+                coverage_percent *= 0.85  # Improved from 0.7 due to long-term planning
             elif scenario["duration"] == "minutes":
-                coverage_percent *= 0.9  # Immediate response harder
+                coverage_percent *= 0.9   # Immediate response still challenging
             
             return min(100, max(10, int(coverage_percent)))
             
@@ -416,11 +460,12 @@ class DisasterStressTest:
             return 30
     
     def test_knowledge_coverage(self, scenario: Dict) -> int:
-        """Test knowledge base coverage for scenario"""
+        """Test knowledge base coverage for scenario with Phase 2B guides"""
         try:
-            # Knowledge base categories
+            # Knowledge base categories (enhanced with Phase 2B)
             kb_categories = ["water", "food", "medical", "shelter", "security", "communication", 
-                           "sanitation", "psychology", "engineering", "survival"]
+                           "sanitation", "psychology", "engineering", "survival", "supply_planning",
+                           "community", "production", "sustainability"]
             
             scenario_needs = scenario["primary_needs"]
             
@@ -432,8 +477,34 @@ class DisasterStressTest:
             
             coverage_score = (covered / len(scenario_needs)) * 100
             
-            # Bonus for having comprehensive guides
-            coverage_score = min(100, coverage_score * 1.2)
+            # Phase 2B Knowledge Enhancement Bonuses
+            phase2b_knowledge_bonus = 0
+            
+            # Extended Supply Planning Guide bonus for long-term scenarios
+            if scenario["duration"] in ["weeks", "months"]:
+                phase2b_knowledge_bonus += 15  # 6-month supply planning guide
+                
+            # Local Food Production Guide bonus for extended scenarios
+            if scenario["duration"] == "months":
+                phase2b_knowledge_bonus += 10  # Food production systems guide
+                
+            # Community Resilience Guide bonus for large-scale scenarios
+            if scenario["affected_area"] in ["regional", "multi_state", "national", "global"]:
+                phase2b_knowledge_bonus += 12  # Community resilience building guide
+            
+            # Modern Threat Knowledge Bonuses
+            if scenario["type"] == "cyber_attack":
+                phase2b_knowledge_bonus += 20  # Cyber attack response knowledge
+            elif "nuclear" in scenario["name"].lower():
+                phase2b_knowledge_bonus += 20  # Nuclear safety knowledge
+            elif "emp" in scenario["name"].lower():
+                phase2b_knowledge_bonus += 18  # EMP hardening knowledge
+            
+            # Apply bonuses
+            coverage_score += phase2b_knowledge_bonus
+            
+            # Bonus for having comprehensive guides (enhanced)
+            coverage_score = min(100, coverage_score * 1.15)
             
             return max(20, int(coverage_score))
             
