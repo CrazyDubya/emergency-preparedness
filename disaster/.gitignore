@@ -70,11 +70,10 @@ disaster_stress_test_results_*.json
 .cache/
 *.cache
 
-# Local data
-preparedness_data/*.db
+# Local data (runtime; do not commit)
+preparedness_data/
 vector_store/
-knowledge_base.db
-drill_simulator.db
+*.db
 
 # Backup files
 *.backup
