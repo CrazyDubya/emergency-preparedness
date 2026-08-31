@@ -1,22 +1,28 @@
 # emergency-preparedness
 
-A disaster preparedness system for households and neighbourhoods — risk assessment, supply planning, contacts, drills, and a searchable knowledge base.
-
-The code lives under `disaster/`, which has its own detailed README.
+A disaster preparedness system. The code is under `disaster/`, which has its own README describing it as a "professional-grade disaster preparedness platform for families and communities" with 16 integrated modules.
 
 ## What's here
 
-- `disaster/core/` — sixteen modules: `disaster_probability_matrix.py` and `interactive_risk_assessment.py` for risk; `materials_calculator.py` and `data_manager.py` for supplies; `emergency_contacts_manager.py` and `communication_emergency_plan.py` for coordination; `emergency_drill_simulator.py` for practice; `financial_emergency_planning.py`, `neighborhood_coordination.py`, `intuitive_building_guide.py`, `alert_monitoring_system.py`, `knowledge_base_search.py` and others.
-- `disaster/build_knowledge_base.py` — assembles the guide corpus.
-- `disaster/api_server.py` — HTTP interface to the modules.
+`disaster/core/` holds those modules. Among them:
+
+- Risk — `disaster_probability_matrix.py`, `interactive_risk_assessment.py`, `deep_dive_risk_categories.py`
+- Supplies — `materials_calculator.py`, `data_manager.py`
+- Coordination — `emergency_contacts_manager.py`, `communication_emergency_plan.py`, `neighborhood_coordination.py`
+- Practice — `emergency_drill_simulator.py`
+- Also — `financial_emergency_planning.py`, `intuitive_building_guide.py`, `alert_monitoring_system.py`, `knowledge_base_search.py`, `enhanced_visualizations.py`, `backup_manager.py`, `resilience.py`
+
+Plus `disaster/build_knowledge_base.py` and `disaster/api_server.py`.
 
 ## Running it
 
+From `disaster/README.md`:
+
 ```bash
-python3 disaster/system_test.py    # verify the install
-python3 disaster/run_system.py     # main interface
+python3 system_test.py
+python3 run_system.py
 ```
 
 ## Related
 
-The public `disaster` repository holds the same subject matter as a markdown research library (shelter, medical, water, food, 72-hour timeline). This repository is the software; that one is the reference material.
+The public `disaster` repository holds markdown reference material on the same subject — shelter, medical, water, food, a 72-hour timeline. That one is the library; this one is the software.
