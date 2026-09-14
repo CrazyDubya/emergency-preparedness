@@ -1,5 +1,5 @@
 """
-Ark data model — the presentation-independent core.
+ArkoftheDuck data model — the presentation-independent core.
 
 This module is the "doomsday" heart of the system: it has ZERO third-party
 dependencies and uses only the Python standard library, so it runs anywhere a

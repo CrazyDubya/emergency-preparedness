@@ -1,5 +1,5 @@
 """
-Ark — render-anywhere core.
+ArkoftheDuck — render-anywhere core.
 
 One presentation-independent data model, many renderers, automatic graceful
 degradation. The stdlib-only core guarantees output on any Python, from an
@@ -8,7 +8,7 @@ AR) light up automatically when the environment supports them.
 
 Quick start:
 
-    from ark import Document, Heading, Paragraph, render
+    from arkoftheduck import Document, Heading, Paragraph, render
     doc = Document(title="Hello").add(Heading("Section")).add(Paragraph("Body"))
     print(render(doc))            # auto-selects the best format for this system
     print(render(doc, fmt="html"))

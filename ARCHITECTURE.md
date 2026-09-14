@@ -1,25 +1,25 @@
-# Ark — render-anywhere architecture & merge plan
+# ArkoftheDuck — render-anywhere architecture & merge plan
 
 > One data core. Unlimited formats, systems, and compute tiers. It always works.
 > The doomsday backup that renders on an x86 relic and a supercomputer alike —
 > particularly well on command lines and GUIs today, with a path to 3D/AR later.
 
 This document proposes how to merge the two repositories into a single
-application built around a small, dependency-free rendering core (`ark/`), and
+application built around a small, dependency-free rendering core (`arkoftheduck/`), and
 how the existing code folds into it.
 
 ## 1. The core idea
 
 Separate **what the data is** from **how it is shown**:
 
-- **Data core (`ark/model.py`)** — a semantic `Document` made of `Block`s
+- **Data core (`arkoftheduck/model.py`)** — a semantic `Document` made of `Block`s
   (`Heading`, `Paragraph`, `Table`, `Checklist`, `KeyValues`, `Divider`, ...).
   Pure Python standard library, **zero third-party dependencies**. This is the
   part that must run *everywhere*.
-- **Capabilities (`ark/capabilities.py`)** — detects the current
+- **Capabilities (`arkoftheduck/capabilities.py`)** — detects the current
   system/target: TTY? color? unicode? width? Python version? which optional
   rich libraries are importable?
-- **Renderer registry (`ark/renderer.py`)** — every output format/target is a
+- **Renderer registry (`arkoftheduck/renderer.py`)** — every output format/target is a
   `Renderer` plugin declaring a `tier` (richness), the `targets` it auto-applies
   to, and a `requires(caps)` gate. The registry picks the richest renderer the
   environment supports and **always falls back to plaintext**.
@@ -64,24 +64,24 @@ because compute lives entirely in the renderer tier, not in the data core.
 
 ## 3. Proof of concept (already in this branch)
 
-`ark/` is a working implementation:
+`arkoftheduck/` is a working implementation:
 
-- `python -m ark` auto-selects for the current terminal.
-- `python -m ark --all` renders the sample in every format.
-- `python -m ark --list` / `--caps` show usable renderers and detected caps.
-- `python -m ark -f html -o out.html`, `-f markdown`, `-f json`, `-f csv`, `-f ansi`.
-- `python -m ark --input doc.json` renders any document authored in the JSON schema.
+- `python -m arkoftheduck` auto-selects for the current terminal.
+- `python -m arkoftheduck --all` renders the sample in every format.
+- `python -m arkoftheduck --list` / `--caps` show usable renderers and detected caps.
+- `python -m arkoftheduck -f html -o out.html`, `-f markdown`, `-f json`, `-f csv`, `-f ansi`.
+- `python -m arkoftheduck --input doc.json` renders any document authored in the JSON schema.
 
 Validated: 13 unit tests pass, and the whole thing runs on the **bare system
-`python3` with no site-packages** (`python3 -E -s -m ark`), proving the
+`python3` with no site-packages** (`python3 -E -s -m arkoftheduck`), proving the
 zero-dependency guarantee.
 
 ## 4. How the two existing apps fold in
 
-Both current apps essentially re-implement formatting by hand. Under Ark they
+Both current apps essentially re-implement formatting by hand. Under ArkoftheDuck they
 become **adapters** (produce `Document`s) plus **renderers** (present them):
 
-| Today | Under Ark |
+| Today | Under ArkoftheDuck |
 | --- | --- |
 | `disaster` repo: static markdown library | An ingest adapter turns each guide into a `Document`; the knowledge base is a corpus of `Document`s, renderable to CLI/web/etc. |
 | `visualization_dashboard.py` (ASCII art) | A `Document` + the `ansi`/`plaintext` renderers (kills bespoke ASCII code) |
@@ -102,7 +102,7 @@ Proposed layout:
 
 ```
 <repo root>/
-  ark/                      # render-anywhere core (this branch)
+  arkoftheduck/                      # render-anywhere core (this branch)
   apps/
     preparedness/           # former disaster/ application code
   knowledge/
@@ -125,9 +125,9 @@ below.
 
 ## 6. Roadmap
 
-- **P0 — Core (done):** `ark/` model + capabilities + registry + 6 renderers + CLI + tests.
+- **P0 — Core (done):** `arkoftheduck/` model + capabilities + registry + 6 renderers + CLI + tests.
 - **P1 — Adapters:** preparedness data (risk matrix, supplies, drills, profile) and knowledge guides -> `Document`s.
-- **P2 — Wire in:** replace `visualization_dashboard` ASCII, CLI reports, and API payloads with Ark; keep behavior.
+- **P2 — Wire in:** replace `visualization_dashboard` ASCII, CLI reports, and API payloads with ArkoftheDuck; keep behavior.
 - **P3 — Rich TUI tier:** optional `rich`-backed renderer (auto-detected; degrades to `ansi`/`plaintext`).
 - **P4 — Web/interactive tier:** HTML+JS renderer; fold the Streamlit GUI onto shared `Document`s.
 - **P5 — Spatial tier:** 3D/AR renderer plugins (e.g. WebGL/USD) consuming the exact same documents.
@@ -136,10 +136,10 @@ below.
 
 1. **Canonical repo & name** — confirm `emergency-preparedness` as the monorepo, and the product/engine name (`ark` is a placeholder).
 2. **History strategy** — `git subtree` (preserve) vs clean vendored import for the `disaster` library.
-3. **Scope of first real integration** — which surface to convert first (I suggest `visualization_dashboard` -> Ark, highest bang for the buck).
+3. **Scope of first real integration** — which surface to convert first (I suggest `visualization_dashboard` -> ArkoftheDuck, highest bang for the buck).
 
 ## Status log
 
-- 2026-09-14: Built and validated the `ark/` core PoC (6 renderers, auto-select,
+- 2026-09-14: Built and validated the `arkoftheduck/` core PoC (6 renderers, auto-select,
   plaintext fallback, 13 tests, zero-dependency run confirmed). Repo merge not
   yet performed pending decisions in §7.
