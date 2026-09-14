@@ -1,0 +1,6 @@
+# Python bytecode / caches (repo root)
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
