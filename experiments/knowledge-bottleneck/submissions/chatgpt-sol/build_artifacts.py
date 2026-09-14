@@ -1,11 +1,12 @@
 #!/usr/bin/env python3
 """Pack the already-written blind artifacts toward their byte ceilings.
 
-The model-written core of each artifact is preserved.  Remaining space is filled
+The model-written core of each artifact is preserved. Remaining space is filled
 with normalized source material from the preparedness corpus, in an explicit
-priority order.  This is intentional: at larger budgets the experiment should
+priority order. This is intentional: at larger budgets the experiment should
 measure the point at which retaining primary/source-level detail becomes more
-valuable than further abstractive compression.
+valuable than further abstractive compression, and eventually the point where
+executable source itself is worth retaining as recoverable capability.
 """
 from __future__ import annotations
 
@@ -15,24 +16,20 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[4]
 OUT = Path(__file__).resolve().parent
-KB = ROOT / "disaster" / "knowledge_base"
-DOCS = ROOT / "disaster" / "docs"
-CORE = ROOT / "disaster" / "core"
+DISASTER = ROOT / "disaster"
+KB = DISASTER / "knowledge_base"
+DOCS = DISASTER / "docs"
+CORE = DISASTER / "core"
 
 LIMIT_100K = 102_400
 LIMIT_1M = 1_048_576
 
-# Do not pack these into the blind artifacts.  They are either mostly links,
-# duplicates/aggregate indexes, or domains where decontextualized detail has
-# unusually high misuse or safety cost.
 EXCLUDE_WORDS = {
     "reference_documents", "first_aid_cpr_sources", "knowledge_base.txt",
     "readme", "active_shooter", "weapon", "security", "chemistry",
     "nuclear_safety_module", "contributing", "version_", "dev_log",
 }
 
-# Deliberately narrow 100 KiB expansion: these whole areas must compete for the
-# final ~45 KiB after the synthesized emergency core.
 PREFERRED_100K = [
     "long_term_sustainability/community_resilience_building.md",
     "long_term_sustainability/local_food_production_systems.md",
@@ -53,18 +50,25 @@ CATEGORY_PRIORITY = [
     "modern_threats", "reference",
 ]
 
+ROOT_CODE_ORDER = [
+    "integrated_preparedness_system.py",
+    "api_server.py",
+    "disaster_stress_test.py",
+    "build_knowledge_base.py",
+    "system_test.py",
+    "run_system.py",
+]
+
 
 def bytes_len(s: str) -> int:
     return len(s.encode("utf-8"))
 
 
 def normalize(text: str) -> str:
-    # A literate human is the runtime.  Preserve labels, discard web dependence.
     text = re.sub(r"!\[([^]]*)\]\([^)]*\)", r"[image: \1]", text)
     text = re.sub(r"\[([^]]+)\]\([^)]*\)", r"\1", text)
     text = re.sub(r"https?://\S+", "", text)
     text = text.replace("\r\n", "\n").replace("\r", "\n")
-    # ASCII is an intentional portability choice for the packed reference layer.
     text = text.encode("ascii", "ignore").decode("ascii")
     lines = [re.sub(r"[ \t]+$", "", line) for line in text.splitlines()]
     text = "\n".join(lines)
@@ -77,7 +81,6 @@ def paragraphs(text: str) -> list[str]:
 
 
 def para_key(p: str) -> str:
-    # Ignore cosmetic markdown and whitespace for duplicate detection.
     k = re.sub(r"[#*_`>|=-]", "", p.lower())
     k = re.sub(r"\s+", " ", k).strip()
     return hashlib.sha256(k.encode()).hexdigest()
@@ -90,13 +93,11 @@ def excluded(path: Path) -> bool:
 
 def append_sources(core: str, sources: list[Path], budget: int, note: str) -> str:
     out = core.rstrip()
-    if bytes_len(out + note) <= budget:
+    if note.strip() not in out and bytes_len(out + note) <= budget:
         out += note
     seen = {para_key(p) for p in paragraphs(core)}
-
-    # First pass preserves document coherence.  Near the ceiling, a later pass
-    # can still fit short useful paragraphs skipped because a larger one did not.
     leftovers: list[tuple[str, str]] = []
+
     for path in sources:
         if not path.exists() or excluded(path):
             continue
@@ -114,7 +115,6 @@ def append_sources(core: str, sources: list[Path], budget: int, note: str) -> st
             accepted.append(p)
         if not accepted:
             continue
-
         header = f"\n\n--- SOURCE REFERENCE: {rel} ---\n"
         wrote_header = False
         for p in accepted:
@@ -125,13 +125,10 @@ def append_sources(core: str, sources: list[Path], budget: int, note: str) -> st
             else:
                 leftovers.append((rel, p))
 
-    # Best-fit style second pass: use small skipped paragraphs to consume useful
-    # residual capacity without padding or cutting words mid-sentence.
     for rel, p in sorted(leftovers, key=lambda rp: bytes_len(rp[1])):
         add = f"\n\n[{rel}]\n{p}"
         if bytes_len(out + add) <= budget:
             out += add
-
     return out.rstrip()
 
 
@@ -157,13 +154,24 @@ def paths_for_1m() -> list[Path]:
         if base.exists():
             for ext in ("*.md", "*.txt", "*.csv"):
                 candidates.extend(base.rglob(ext))
-    # If the curated prose corpus cannot occupy the budget, preserve readable
-    # source code last.  It contains algorithms/data structures and is still
-    # human-readable plain text, but ranks below prose knowledge.
     if CORE.exists():
         candidates.extend(CORE.rglob("*.py"))
     candidates = [p for p in candidates if not excluded(p)]
-    return sorted(set(candidates), key=priority)
+    candidates = sorted(set(candidates), key=priority)
+
+    # Source code is the last-tier choice.  It is not necessary to consume the
+    # emergency guidance, but if ~800 KiB of human-facing knowledge already fits,
+    # preserving the offline system's executable logic may restore capabilities
+    # later on any surviving Python-capable computer.
+    root_code: list[Path] = []
+    for name in ROOT_CODE_ORDER:
+        p = DISASTER / name
+        if p.exists() and not excluded(p):
+            root_code.append(p)
+    for p in sorted(DISASTER.glob("*.py")):
+        if p not in root_code and not excluded(p):
+            root_code.append(p)
+    return candidates + root_code
 
 
 def main() -> None:
