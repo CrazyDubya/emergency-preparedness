@@ -25,6 +25,14 @@ class Brain:
     def ingest_dir(self, path: str) -> int:
         return ingest_markdown_dir(self.retriever, path)
 
+    def ingest_dirs(self, paths) -> int:
+        return sum(self.ingest_dir(p) for p in paths)
+
+    def ingest_pdf_dir(self, path: str):
+        """Index PDFs (capability-gated). Returns (indexed, skipped)."""
+        from .pdf_ingest import ingest_pdf_dir
+        return ingest_pdf_dir(self.retriever, path)
+
     def add(self, text: str, title: str = "", ref: str = "") -> None:
         self.retriever.add(text, title=title, ref=ref)
 

@@ -1,12 +1,15 @@
 """
 ArkoftheDuck AI command line.
 
-    python -m arkoftheduckoftheduck.ai "how do I purify water?"        # auto-ingest KB, answer
-    python -m arkoftheduckoftheduck.ai --plan                           # show engine tiers available
-    python -m arkoftheduckoftheduck.ai --caps                           # show detected compute resources
-    python -m arkoftheduckoftheduck.ai "..." --offline                  # force offline-only
-    python -m arkoftheduckoftheduck.ai "..." --format html -o ans.html  # render answer anywhere
-    python -m arkoftheduckoftheduck.ai "..." --corpus path/to/markdown  # choose a corpus dir
+    python -m arkoftheduck.ai "how do I purify water?"     # auto-ingest corpora, answer
+    python -m arkoftheduck.ai --coverage                    # knowledge-base coverage report
+    python -m arkoftheduck.ai --plan                        # engine tiers available now
+    python -m arkoftheduck.ai --caps                        # detected compute resources
+    python -m arkoftheduck.ai "..." --offline               # force offline-only
+    python -m arkoftheduck.ai "..." --pdf                    # also index reference PDFs (needs extractor)
+    python -m arkoftheduck.ai "..." --corpus DIR             # add a corpus (repeatable)
+    python -m arkoftheduck.ai "..." --no-library             # skip the sibling library
+    python -m arkoftheduck.ai "..." --format html -o ans.html
 """
 
 import argparse
@@ -16,35 +19,26 @@ import sys
 
 from .. import render
 from .brain import Brain
+from .corpus import coverage_report, discover_corpora
+from .pdf_ingest import pdf_extractor_available
 from .resources import detect_resources
-
-# Candidate knowledge-base locations, relative to CWD and this file's repo.
-_HERE = os.path.dirname(os.path.abspath(__file__))
-_REPO = os.path.dirname(os.path.dirname(_HERE))
-_KB_CANDIDATES = [
-    os.path.join(os.getcwd(), "knowledge_base"),
-    os.path.join(_REPO, "disaster", "knowledge_base"),
-    os.path.join(_REPO, "knowledge_base"),
-    "/agent/repos/emergency-preparedness/disaster/knowledge_base",
-]
-
-
-def _find_corpus(explicit):
-    if explicit:
-        return explicit if os.path.isdir(explicit) else None
-    for c in _KB_CANDIDATES:
-        if os.path.isdir(c):
-            return c
-    return None
 
 
 def main(argv=None) -> int:
-    p = argparse.ArgumentParser(prog="arkoftheduck.ai", description="Tiered offline-first assistant.")
+    p = argparse.ArgumentParser(prog="arkoftheduck.ai",
+                                description="Tiered offline-first assistant.")
     p.add_argument("query", nargs="*", help="Question to answer.")
-    p.add_argument("--corpus", help="Directory of markdown/text to index.")
+    p.add_argument("--corpus", action="append", default=[],
+                   help="Directory of markdown/text to index (repeatable).")
+    p.add_argument("--no-library", action="store_true",
+                   help="Do not auto-include the sibling reference library.")
+    p.add_argument("--pdf", action="store_true",
+                   help="Also index reference PDFs (needs an extractor lib).")
+    p.add_argument("--coverage", action="store_true",
+                   help="Print a knowledge-base coverage/sparsity report.")
     p.add_argument("--offline", action="store_true", help="Force offline-only engines.")
-    p.add_argument("--format", "-f", help="Render format for the answer (default: auto).")
-    p.add_argument("--out", "-o", help="Write rendered answer to a file.")
+    p.add_argument("--format", "-f", help="Render format (default: auto).")
+    p.add_argument("--out", "-o", help="Write output to a file.")
     p.add_argument("--k", type=int, default=3, help="Passages to retrieve.")
     p.add_argument("--plan", action="store_true", help="Show engine tiers that would run.")
     p.add_argument("--caps", action="store_true", help="Show detected compute resources.")
@@ -59,29 +53,40 @@ def main(argv=None) -> int:
             "cpus": res.cpus, "ram_mb": res.ram_mb,
             "ml_runtimes": sorted(res.ml_runtimes),
             "has_local_model": res.has_local_model,
-            "local_model_path": res.local_model_path,
             "has_remote": res.has_remote,
-            "remote_endpoint": res.remote_endpoint,
+            "pdf_extractor": pdf_extractor_available(),
             "offline_only": res.offline_only,
         }, indent=2))
         return 0
 
+    corpora = discover_corpora(explicit=args.corpus or None,
+                               include_library=not args.no_library)
+
+    if args.coverage:
+        # Report on the first (app) corpus by convention.
+        target = corpora[0] if corpora else ""
+        sys.stdout.write(render(coverage_report(target), fmt=args.format))
+        return 0
+
     brain = Brain()
-    corpus = _find_corpus(args.corpus)
-    if corpus:
-        n = brain.ingest_dir(corpus)
-        print("Indexed %d files from %s (%d passages)" % (n, corpus, len(brain.retriever)),
-              file=sys.stderr)
+    if corpora:
+        n = brain.ingest_dirs(corpora)
+        print("Indexed %d files from %d corpora (%d passages): %s"
+              % (n, len(corpora), len(brain.retriever),
+                 ", ".join(os.path.basename(c) for c in corpora)), file=sys.stderr)
     else:
-        # Minimal built-in corpus so the tool is useful even with no KB present.
-        brain.add("To purify water: bring it to a rolling boil for at least one "
-                  "minute (three minutes above 2000m). Boiling kills bacteria, "
-                  "viruses, and parasites. Let it cool before drinking.",
+        brain.add("To purify water, bring it to a rolling boil for one minute "
+                  "(three minutes above 2000m); let it cool before drinking.",
                   title="Water Purification", ref="builtin")
-        brain.add("Store at least 3 gallons of water per person for a 72-hour kit "
-                  "(1 gallon/person/day). Rotate stored water every 6 months.",
-                  title="Water Storage", ref="builtin")
-        print("No knowledge base found; using built-in mini corpus.", file=sys.stderr)
+        print("No corpus found; using built-in mini corpus.", file=sys.stderr)
+
+    if args.pdf:
+        for c in corpora:
+            idx, skipped = brain.ingest_pdf_dir(c)
+            if idx or skipped:
+                note = ("indexed %d, skipped %d" % (idx, skipped)) if pdf_extractor_available() \
+                    else ("skipped %d (no PDF extractor installed)" % skipped)
+                print("PDFs in %s: %s" % (os.path.basename(c), note), file=sys.stderr)
 
     if args.plan:
         print("Engine plan (highest capacity first):")

@@ -87,7 +87,10 @@ class Retriever:
 def ingest_markdown_dir(retriever: Retriever, root: str, max_files: int = 500) -> int:
     """Split markdown files under `root` into passages and index them."""
     count = 0
-    for dirpath, _dirs, files in os.walk(root):
+    for dirpath, dirs, files in os.walk(root):
+        # Skip hidden dirs (e.g. .git) and virtualenvs when ingesting a repo root.
+        dirs[:] = [d for d in dirs if not d.startswith(".") and d not in
+                   ("node_modules", "__pycache__", "venv")]
         for fn in sorted(files):
             if not fn.lower().endswith((".md", ".markdown", ".txt")):
                 continue

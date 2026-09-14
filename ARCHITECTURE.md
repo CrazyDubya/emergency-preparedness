@@ -175,6 +175,29 @@ Honest limitation: tier-0 is keyword retrieval, so a query like "treat a burn"
 can match DVD-"burning"; that is precisely the gap the local/remote tiers close
 when capacity permits.
 
+## 5c. Corpus & the sparsity problem
+
+The offline floor is only as good as its corpus. Measuring the current one
+surfaced three separate sparsity problems, now addressed:
+
+- **Siloed library.** The app knowledge base is only ~137 KiB of actionable
+  markdown; the richer `disaster` reference library (~410 KiB) lived in a
+  separate repo and was not indexed. `ai/corpus.py:discover_corpora()` now finds
+  and ingests both (index grew from 37 files/814 passages to 57 files/1650
+  passages), and answers now cite library guides (`TOPIC_WATER.md`, etc.).
+- **PDF dead weight.** ~30 MB of authoritative FEMA/CISA/Ready.gov material was
+  locked in 11 PDFs the text retriever couldn't read. `ai/pdf_ingest.py` adds a
+  **capability-gated** PDF tier: if an extractor (pypdf/PyPDF2/pdfminer) is
+  importable it indexes them (all 11 in ~5 s), otherwise it skips cleanly — the
+  zero-dependency floor is preserved.
+- **Broken stubs.** `ai/corpus.py:coverage_report()` (rendered as an
+  ArkoftheDuck Document) flags thin/PDF-only categories. It revealed that
+  `chemistry`, `engineering`, and `survival` are **broken download placeholders**
+  (404/HTML masquerading as `.pdf`), not real content.
+
+CLI: `python -m arkoftheduck.ai --coverage`, `... --pdf`, `... --corpus DIR`,
+`... --no-library`.
+
 ## 6. Roadmap
 
 - **P0 — Core (done):** `arkoftheduck/` model + capabilities + registry + 6 renderers + CLI + tests.
