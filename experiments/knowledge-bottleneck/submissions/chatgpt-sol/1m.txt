@@ -1,0 +1,1251 @@
+FIELD LIBRARY FOR DISRUPTED INFRASTRUCTURE - 1 MiB BUDGET
+
+MISSION
+Preserve enough practical knowledge for ordinary people to survive a severe disruption, reduce avoidable injury and disease, organize a community, maintain essential systems, and recover capability. This is not a substitute for local expertise. Where functioning authorities, clinicians, utilities, engineers, manufacturers, or verified current instructions are available, use them. Precise rules vary by equipment, climate, law, disease, chemical, medication, and structure.
+
+READ THIS FIRST
+A disaster creates secondary disasters. Avoid creating the second casualty. Immediate order of attention:
+1 unsafe scene: fire, flood, gas/chemical, electricity, collapse, violence;
+2 massive bleeding and absent/abnormal breathing;
+3 carbon monoxide, drowning, lethal heat/cold;
+4 safe water and sanitation;
+5 accountability, medicines, shelter, food;
+6 communications, power, logistics;
+7 repair and longer recovery.
+
+A useful operating rule: STABILIZE -> ISOLATE HAZARD -> ACCOUNT FOR PEOPLE -> INVENTORY -> COMMUNICATE -> REASSESS.
+
+Search this file by CAPITAL headings or ordinary keywords. The early chapters are meant for use during crisis; later chapters preserve slower recovery knowledge.
+
+======================================================================
+PART I - IMMEDIATE LIFE SAFETY
+======================================================================
+
+1. SCENE SAFETY
+
+Look before acting. Fire, smoke, gas, toxic vapor, downed lines, energized water, moving floodwater, unstable buildings, traffic, machinery, confined spaces, chemical contamination, and violence routinely injure rescuers.
+
+Leave a burning building, rapidly rising flood, strong unknown fumes, visibly unstable structure, or area under evacuation order. Property can be replaced. Close doors behind you during fire when safe. Once out, stay out.
+
+Treat every downed electrical conductor as energized. Stay away from the wire and anything touching it. Wet ground, fences, rails, vehicles, and puddles can conduct. Do not wade to a breaker panel. If a power line lands on a vehicle, remaining inside is usually safer unless fire forces exit; avoid simultaneously touching vehicle and ground.
+
+Gas odor/hissing: avoid flame, smoking, switches, engines, and deliberate sparks; leave and contact gas utility/fire service from a safe location if possible. Never search for a leak with flame.
+
+Floodwater can contain sewage, fuel, sharp debris, holes, fast current, and electricity. Do not drive or walk into moving water simply because another person did.
+
+Confined spaces such as tanks, sewers, pits, silos, utility vaults, and some basements can contain too little oxygen or toxic gases without warning odor. Do not enter to rescue without proper atmospheric testing, ventilation, equipment, and trained backup. Multiple fatalities commonly occur when would-be rescuers follow the first casualty.
+
+2. ACCOUNTABILITY
+
+Count people. Write names and status. Identify missing persons and people dependent on: powered/refrigerated medical equipment, critical medicines, mobility or communication aids, caregivers, pregnancy care, infant feeding, oxygen, dialysis, or other regular services. Assign simple roles and a next check-in time.
+
+3. MASSIVE BLEEDING
+
+Use gloves/barrier if available without delaying lifesaving care. Expose only enough to find bleeding. Apply firm continuous direct pressure with gauze or clean cloth. Do not repeatedly lift the pad to check; add material on top if soaked.
+
+Deep compressible wounds may be packed tightly with gauze/clean cloth and then held under firm pressure. Do not pack open chest/abdominal wounds or around embedded objects.
+
+For life-threatening arm/leg bleeding that pressure/packing cannot control rapidly, use a commercial tourniquet when available. Apply above wound, not over a joint; tighten until bleeding stops; note time; do not periodically loosen. Do not remove deeply embedded objects; stabilize and control bleeding around them.
+
+4. UNRESPONSIVE / CPR / AED
+
+If a person is unresponsive and not breathing normally, call for help and obtain an AED if possible. For sudden adult/teen collapse, give chest compressions on a firm surface in center chest, hard and fast about 100-120/min, allowing full recoil. Follow AED voice/picture prompts. Continue until normal breathing, trained help takes over, the scene becomes unsafe, or you cannot continue.
+
+If trained in full CPR, use it. Drowning, overdose, children/infants, and respiratory arrest especially benefit from ventilation; use age-appropriate trained techniques. Do not delay CPR while trying to obtain a perfect diagnosis.
+
+5. CHOKING
+
+If conscious and coughing/speaking/breathing effectively, encourage cough. If unable to breathe/speak/cough, summon help and perform standard choking first aid you know. Technique differs for infants and during pregnancy/large body shape. If unresponsive, begin CPR; remove an object only if visible, never blind-sweep.
+
+6. SHOCK
+
+Possible shock: weakness, pale/cool/clammy skin, rapid breathing, confusion, fainting, deterioration after trauma. Stop bleeding, keep lying in a tolerable position, protect from heat/cold, reassure, and arrange evacuation. Avoid food/drink for a severely injured, vomiting, poorly conscious person or likely surgical patient.
+
+7. HEAD, NECK, SPINE
+
+Major fall/crash/diving injury/head blow plus neck/back pain, weakness/numbness, confusion, repeated vomiting, worsening headache, seizure, unequal pupils, or loss of consciousness: minimize unnecessary movement and seek urgent care. Airway, breathing, bleeding, fire/flood, and other immediate threats outrank ideal immobilization.
+
+8. BURNS
+
+Stop exposure safely. Thermal burn: cool with clean cool running water when available. Avoid ice directly on significant burns and butter/grease/toothpaste/powders. Remove rings/watches/tight objects before swelling if not stuck. Cover loosely with clean non-stick material.
+
+Urgent: large/deep burns; face/hands/genitals/major joints; circumferential burns; electrical/chemical/inhalation burns; breathing difficulty; significant burns in very young/old/frail people.
+
+Chemical exposure: protect yourself, remove contaminated clothing, brush dry chemical off before water unless product guidance says otherwise, and irrigate liquid contamination with abundant clean water. Do not neutralize acid with base or vice versa on the body. Eye chemical exposure: immediate prolonged irrigation while arranging care.
+
+Electrical injury may cause internal damage/heart rhythm problems despite small skin marks. Disconnect power before touching casualty.
+
+9. WOUNDS
+
+Wash hands. Rinse dirty wound generously with safe water. Remove only easily accessible loose debris; do not dig deeply. Mild soap around wound is reasonable. Avoid repeatedly pouring harsh household chemicals into tissue. Cover with clean dressing; change wet/dirty dressings.
+
+Bites, deep punctures, crush injuries, gross contamination, retained objects, loss of function, infection signs, or uncertain tetanus status deserve professional care. Infection signs: increasing/spreading redness, warmth, swelling, pain, pus, fever, red streaks, systemic illness.
+
+10. FRACTURES AND SPRAINS
+
+Severe deformity, exposed bone, major swelling, inability to use/bear weight, focal severe pain: suspect fracture. Control bleeding. Do not repeatedly manipulate. Pad/splint in position found when practical; support joints above/below; check color/warmth/sensation/circulation before and after. Open fracture: clean loose covering, no pushing bone back, urgent care.
+
+Minor sprain: protect/rest, comfortable compression without impaired circulation, elevation, short wrapped cold applications. Severe/persistent dysfunction may be fracture or tendon/ligament injury.
+
+11. EYE
+
+Loose particle: irrigate. Chemical: immediate copious irrigation. Penetrating/embedded object: do not remove or press; shield without pressure. Sudden vision loss, severe pain, chemical/penetrating trauma needs urgent evaluation.
+
+12. POISONING
+
+Protect rescuer. Move away from airborne source to fresh air if safe. Remove contaminated clothing and isolate it. For unknown ingestion, do not automatically induce vomiting. Keep label/container/sample information. Use poison-control/emergency advice whenever communication exists.
+
+======================================================================
+PART II - ILLNESS AND BASIC MEDICAL CONTINUITY
+======================================================================
+
+13. DEHYDRATION
+
+Give frequent small amounts of safe fluid when awake and able to swallow. Severe warning signs: inability to keep fluids down, very little urine, fainting/marked dizziness, confusion, extreme lethargy, shock, or severe dehydration in infant/older adult.
+
+Emergency oral rehydration when commercial ORS unavailable: 1 liter safe water + 6 level teaspoons sugar + 1/2 level teaspoon salt. Measure carefully; too much salt is dangerous. Give small frequent portions after diarrhea/vomiting. Continue breastfeeding. Bloody diarrhea, severe abdominal pain, persistent high fever, shock, or severe dehydration needs medical care.
+
+14. FEVER / RESPIRATORY ILLNESS
+
+Rest, fluids, comfortable temperature. OTC medicines only according to label/contraindications. Urgent signs: difficulty breathing, blue/gray lips, severe chest pain, new confusion, seizure, inability to stay awake, stiff neck with serious illness, or rapid deterioration.
+
+For contagious respiratory illness: stay apart from vulnerable people when practical, improve ventilation/filtration, cover coughs, wash hands, use well-fitting masks when appropriate. Pathogen-specific current guidance outranks generic advice.
+
+15. MEDICATION CONTINUITY
+
+For each person record drug name, strength, dose/schedule, indication, allergies, prescriber/pharmacy, storage. Keep original labels. Do not share prescriptions casually or double missed doses without instructions. Some drugs tolerate temperature excursions; others do not. Keep refrigerated medicine cool but not frozen and seek product-specific stability guidance as soon as possible.
+
+Read ACTIVE INGREDIENTS on OTC products; combination cold remedies can duplicate acetaminophen or other drugs. NSAIDs may be risky with kidney disease, ulcers, anticoagulants/bleeding, severe dehydration, and some pregnancy stages. Aspirin has special risks and is generally avoided in children/teens with viral illness.
+
+Do not treat leftover antibiotics as universal emergency medicine. Choice, allergy, kidney function, pregnancy, infection site, organism, dose/duration, and source control matter. Preserve labeled prescribed courses and seek clinical advice.
+
+16. DIABETES
+
+Insulin interruption can become life-threatening, particularly in type 1 diabetes. Prioritize insulin, glucose monitoring if available, food/water, power/cooling appropriate to product, and medical contact. Confusion, vomiting, deep/rapid breathing, severe dehydration, very high glucose/ketones when measurable, or inability to keep fluids down needs urgent care. Do not improvise major insulin-dose changes from a generic field manual.
+
+17. ASTHMA / SEVERE ALLERGY
+
+Keep prescribed rescue inhalers/epinephrine accessible. Follow personal action plan and product instructions. Severe breathing trouble, inability to speak normally, cyanosis, collapse, or anaphylaxis is emergency. Use prescribed epinephrine promptly for known anaphylaxis according to training/device instructions and seek emergency care; symptoms can recur.
+
+18. SEIZURE
+
+Protect from traffic/fire/water/sharp objects; cushion head; loosen restrictive clothing. Do not restrain forcefully and do not put objects in mouth. After convulsions, check breathing and place safely on side when appropriate. Seek emergency care for first seizure, prolonged/repeated seizure, injury, pregnancy, breathing problem, water-related seizure, or failure to recover normally.
+
+19. STROKE / HEART ATTACK
+
+Stroke signs can include sudden face droop, arm weakness, speech trouble, vision/balance change, severe sudden neurologic deficit. Note time last known well and seek emergency care immediately; treatment is time-dependent.
+
+Possible heart attack: pressure/pain/discomfort in chest sometimes radiating to arm/jaw/back, shortness of breath, sweating, nausea, unusual weakness; presentations vary. Stop exertion and seek emergency services. Do not drive a dangerously ill person if emergency transport is available.
+
+20. DENTAL
+
+Brush/floss with safe water. Tooth pain with facial/neck swelling, fever, difficulty swallowing/breathing, or swelling toward eye is urgent. Do not put aspirin, bleach, fuels, caustic chemicals, or unknown remedies on gums. A lost filling/crown can sometimes be protected temporarily with commercial dental repair material; definitive dental care remains needed.
+
+21. MENTAL HEALTH UNDER CRISIS
+
+Acute stress can impair memory and judgment. Give concrete tasks, food/water/rest, factual updates, familiar routines, and social connection. Children benefit from calm truthful explanations appropriate to age. Watch for severe confusion, inability to function, dangerous impulsivity, psychosis, or suicidal intent; reduce access to immediate hazards and seek professional/crisis help when available.
+
+======================================================================
+PART III - WATER
+======================================================================
+
+22. WATER PRIORITY
+
+Known-safe stored water is best. A common preparedness target is ~1 US gallon/4 L per person/day for drinking/basic sanitation, with more in heat, illness, pregnancy/lactation, heavy work, and for pets. Do not intentionally dehydrate people while spending potable water on low-value cleaning.
+
+23. SOURCES
+
+Prefer: sealed commercial water; properly stored potable water; verified treated supply. Possible household reserves: clean ice, food liquids, conventional tank water heater if clean and safely isolated, potable plumbing. Toilet tank water is only potentially usable if free of cleaning chemicals/contamination. Never drink toilet bowl water.
+
+Avoid as drinking sources: hydronic heating boilers/radiators, waterbeds, floodwater, chemically treated pools/spas, seawater, industrial runoff, water with fuel/solvent/pesticide/firefighting-foam contamination. Microbial treatment cannot remove every chemical.
+
+24. BIOLOGICAL TREATMENT
+
+Cloudy water: settle and prefilter through clean cloth/filter. Boil clear water at rolling boil >=1 minute; above about 6,500 ft/2,000 m use 3 minutes. Cool covered in a clean vessel.
+
+Commercial filters differ. Many backpacking microfilters remove bacteria/protozoa but not viruses; particulate filters do not remove dissolved chemicals. Activated carbon can reduce some compounds/tastes but not all. Read verified specifications.
+
+Chemical disinfectants depend on exact concentration, turbidity, temperature, contact time, organism. Household bleach strength varies; use only plain unscented disinfecting bleach and exact current instructions for its concentration. Do not universalize an old drops-per-gallon formula.
+
+25. CHEMICAL CONTAMINATION
+
+Boiling can concentrate salts/metals/nonvolatile chemicals and does not make fuel/solvent/pesticide-contaminated water safe. When source is chemically suspect, seek another source or treatment designed/tested for contaminant. Odorless/colorless water may still be unsafe.
+
+26. DISTILLATION
+
+Distillation: boil water and separately condense vapor. It removes salts and many nonvolatile contaminants but costs fuel and some volatile chemicals can co-distill. Equipment materials must tolerate heat and produce clean condensate. Seawater can be desalinated by distillation, but direct drinking of seawater worsens dehydration.
+
+27. RAINWATER
+
+Roof runoff can carry bird feces, dust, wildfire ash, lead/roof chemicals. A system typically uses a clean catchment, first-flush diversion, screened covered storage, and treatment appropriate to use. After industrial fire/chemical release, source may be unsuitable despite microbial treatment.
+
+28. WELLS
+
+Flood can contaminate wells. Clear appearance is not proof. Protect wellhead from surface drainage; after flood, use alternative safe water until well can be inspected/disinfected/tested. Do not dump arbitrary chemicals into wells.
+
+29. STORAGE
+
+Food-grade container, clean cap/opening, never formerly toxic-chemical container. Label SAFE/UNTREATED/NONPOTABLE. Store away from fuels/pesticides and excessive heat/sun. Pour rather than dipping hands/cups. Rotate/inspect.
+
+30. WATER MASS AND GRAVITY
+
+1 L water ~1 kg. 1 US gallon ~8.34 lb/3.78 kg. A 55-gallon drum contains ~459 lb/208 kg water plus container. Floors/shelves/roofs may fail under tanks.
+
+Water head creates pressure: ~2.31 ft water per psi; ~10 m head ~1 bar/100 kPa. Actual flow also depends on pipe diameter, length, roughness, valves.
+
+31. SIPHON
+
+A filled hose can transfer liquid from a higher reservoir surface to a lower outlet while continuity is maintained. It does not create energy and cannot deliver above source indefinitely. Never mouth-siphon fuel/chemicals.
+
+======================================================================
+PART IV - SANITATION AND PUBLIC HEALTH
+======================================================================
+
+32. HANDS
+
+Soap + safe water after toilet/diaper/waste, before food/eating, before/after wound care, after raw animal products. Friction/rinsing matters. Alcohol sanitizer >=60% useful when hands not visibly dirty, but not universal for some diarrheal pathogens or chemicals.
+
+33. SEWER FAILURE
+
+If sewer backup or official warning says system unavailable, stop flushing. Use lined sturdy bucket/disabled toilet with absorbent dry material. Close/contain waste, isolate from food/water/children/animals. Wash hands after handling.
+
+Do not assume urine/feces sterile. Disposal depends on groundwater, soil, density, flood risk, rules. Keep human waste far from wells, waterways, food gardens, high groundwater/flood zones. Prefer controlled collection when restored.
+
+34. GARBAGE
+
+Separate human waste, food waste, ordinary dry trash, sharps, batteries/electronics, chemicals. Secure from rodents/insects. Do not burn plastic, electronics, batteries, treated/painted wood, unknown chemical waste; toxic smoke can cause severe exposure.
+
+35. CLEANING
+
+Cleaning removes dirt; disinfection reduces microbes. Clean visibly dirty surfaces before disinfecting. Follow product label concentration/contact time. Never mix bleach with ammonia, acids/vinegar, toilet cleaners, or unknown products: toxic gas can form. Ventilate and protect skin/eyes as label requires.
+
+36. FLOOD CLEANUP
+
+Assume floodwater/mud contaminated by sewage/chemicals. Turn off power upstream when possible; do not enter energized water. Wear boots/gloves/eye protection. Porous materials soaked by sewage may require disposal. Dry buildings quickly when structurally safe to reduce mold. Respirators reduce particles but do not make toxic atmospheres safe.
+
+37. RODENTS
+
+Secure food/waste. Ventilate closed rodent-infested area before cleaning. Avoid dry sweeping/vacuuming droppings that aerosolizes dust; wet/disinfect using current public-health procedure where possible. Wear gloves and appropriate respiratory protection.
+
+38. PESTS
+
+Eliminate standing water, cover food/waste, screen openings, use bed nets/repellents as appropriate. Vector-borne disease ecology varies by region; local health guidance is valuable.
+
+======================================================================
+PART V - FOOD
+======================================================================
+
+39. POWER OUTAGE FOOD SAFETY
+
+Keep fridge/freezer closed. Use thermometer when available. Cold perishables are generally safest <=40 F/4 C. Duration above safe temperature, starting temperature, ambient heat, and food type matter. When uncertain after prolonged warming, discard high-risk food; smell/taste cannot prove safety.
+
+High-risk: meat/poultry/fish, eggs, dairy, cooked leftovers, cooked rice/pasta, cut melons, sprouts, many prepared foods.
+
+A full unopened freezer usually holds safe temperature longer than half-full; actual condition/thermometer/ice crystals matter more than a clock alone.
+
+40. CANS AND JARS
+
+Discard bulging, leaking, badly seam-damaged, heavily corroded, spurting/foaming suspicious containers. Never taste suspicious canned food. Home-canned low-acid foods can cause botulism when not processed with validated pressure-canning methods; toxin may have no smell/taste.
+
+41. COOKING WITHOUT GRID
+
+Outdoor combustion default. Never run generators, charcoal grills, gasoline engines, or outdoor-rated combustion appliances indoors/garage. Camp propane/butane equipment only where manufacturer explicitly permits. Ventilation does not convert outdoor-only appliance into safe indoor appliance. Keep CO alarms.
+
+42. PANTRY DESIGN
+
+Store familiar foods. Categories: grains/oats/rice/pasta; beans/lentils; canned meat/fish/beans/produce; nut/seed butters; shelf-stable milk; oils/fats; salt/sugar; spices; medically appropriate foods. FIFO rotation. Protect from heat/moisture/pests. Fats become rancid faster than salt/sugar/dry white rice.
+
+43. NUTRITION
+
+Short crisis: water + adequate calories. Longer: protein, essential fats, vitamins/minerals, fiber, variety. Needs differ by age, size, work, illness, pregnancy/lactation. Children are not scaled-down adults. Do not create severe micronutrient deficiency through monotonous long-term rationing.
+
+44. COOKING EFFICIENCY
+
+Use lids, soak dry beans/grains where food safety allows, match pot to burner, batch-cook only if leftovers can be kept safe, use pressure cooker only when intact and understood. Insulated retained-heat cooking can finish some foods after boiling but requires safe time/temperature practice.
+
+45. DRYING
+
+Drying inhibits microbes by reducing available water, but incomplete drying permits mold/spoilage. Protect drying food from insects/dust and package only after adequately dry/cool. Meat drying requires validated food-safety methods; not every sun-dried meat is safe.
+
+46. FERMENTATION
+
+Successful fermentation depends on correct salt/acidity/time/temperature and excluding contamination; recipes vary. Use validated methods. Mold, putrid odor, unexpected colors/textures can signal failure. Fermentation is not a substitute for proper low-acid canning.
+
+47. CANNING
+
+Water-bath canning is for sufficiently acidic foods using validated recipes. Low-acid vegetables/meat require pressure canning at validated pressure/time adjusted for altitude and equipment. Oven canning/open-kettle improvisation is not equivalent. If validated procedure unavailable, choose another preservation method rather than guess.
+
+======================================================================
+PART VI - FIRE, AIR, TEMPERATURE, SHELTER
+======================================================================
+
+48. CARBON MONOXIDE
+
+CO is colorless/odorless. Headache, dizziness, nausea, weakness, confusion, chest pain, collapse; multiple people/pets ill in same enclosed place is a major clue. Get everyone to fresh air and seek emergency care; do not re-enter until source controlled.
+
+49. GENERATORS
+
+Outdoors well away from doors/windows/vents/crawlspaces/attached garages; exhaust away. Never basement/garage/enclosed porch/shed attached to living area. Protect from rain without enclosing exhaust. Cool before refueling. Proper transfer equipment is required to connect generator to building wiring; never backfeed through an outlet or male-to-male cord.
+
+50. FIRE
+
+Smoke alarms. Exit early. Close doors behind if safe. Crawl low only as needed under smoke. No elevators unless responders direct. Meet outside. Stay out. Extinguisher only for small contained fire with escape behind you and correct extinguisher; if not controlled quickly, leave.
+
+51. WILDFIRE SMOKE
+
+Cleaner indoor air, filtration, reduce infiltration when appropriate and not creating CO/heat danger. Well-fitting N95/P100 reduces particles, not CO or many gases, and supplies no oxygen.
+
+52. COLD
+
+Stay dry, block wind/rain, layer, insulate from ground. Smaller safe zone easier to warm. Hypothermia: shivering, clumsiness, confusion, slurred speech, drowsiness; severe cases may stop shivering. Handle gently, remove wet clothing, insulate, warm torso gradually, urgent care. Warm sweet drink only if alert/swallowing. No alcohol.
+
+53. FROSTBITE
+
+Protect from further cold; do not rub/snow. Refreezing after thaw is especially damaging; avoid thawing deeply frozen tissue if refreezing unavoidable. Seek care.
+
+54. HEAT
+
+Shade, airflow, reduce exertion, fluids, wet/cool skin. Heat exhaustion: sweating, weakness, dizziness, headache, nausea. Heat stroke = altered mental status/collapse/seizure with dangerous overheating: cool immediately and aggressively while arranging emergency care. Remove excess clothes, wet/fan; cold-water immersion can be highly effective when feasible and safely monitored. Do not delay cooling for transport.
+
+55. PASSIVE BUILDING COMFORT
+
+Cold: reduce drafts that do not compromise combustion ventilation; zone rooms; daytime sun; nighttime insulation; ground insulation.
+Heat: exterior shade first, close sun-exposed coverings when hotter outside, ventilate when outside cooler, cross-flow/high exhaust, reduce internal heat, use lower/shaded floors. High humidity reduces evaporative cooling.
+
+======================================================================
+PART VII - ELECTRIC POWER
+======================================================================
+
+56. PRIORITIES
+
+Power life-critical medical equipment first, then communications/information and lighting, then food preservation, then lesser loads. Electric resistance heating/cooking consumes batteries rapidly.
+
+57. FORMULAS
+
+DC/simple resistive: V=I*R; P=V*I; Wh=W*h. Example 12 V * 5 A=60 W; 4 h=240 Wh before losses. Battery nominal Wh roughly V*Ah, but usable fraction depends chemistry, discharge rate, temperature, age, inverter losses.
+
+58. BATTERY SAFETY
+
+Lead-acid/vehicle: huge short-circuit current; fuse positive conductors near source; avoid jewelry/tools bridging posts; observe polarity; ventilate charging; no sparks/flames. Starting batteries dislike repeated deep discharge.
+
+Lithium: swollen, hissing, venting, smoking, unusually hot, or severely damaged pack = stop use, isolate from combustibles if safe, do not puncture. Fires can reignite.
+
+59. SOLAR
+
+Typical small system: panel -> compatible charge controller -> battery -> DC loads or suitable inverter. Do not connect arbitrary panel directly to bare lithium cells. Match voltage/chemistry/current. Partial shade can greatly reduce output. Angle toward unobstructed sun; keep clean.
+
+60. WIRES/FUSES
+
+Undersized wire overheats. Fuse/breaker protects conductor. Put DC battery fuse near source. Long low-voltage runs have greater voltage drop; larger conductor reduces resistance. Do not increase fuse size to stop nuisance trips without finding why.
+
+61. EXTENSION CORDS
+
+Correct rating, intact insulation, dry connections, uncoil high loads, no rugs/doors/pinch, grounding intact. Space heaters/kettles/hot plates are high-current.
+
+62. MAINS
+
+Do not use low-voltage knowledge as license for live mains repair. Generators, solar, neutral/ground faults, damaged panels, moisture, and multiple feeds create hidden hazards. De-energize, verify, and use qualified workers when available.
+
+======================================================================
+PART VIII - COMMUNICATIONS
+======================================================================
+
+63. FAMILY/COMMUNITY PLAN
+
+Paper contact list. Near-home, out-of-neighborhood, out-of-region meeting points. Out-of-area relay contact. Known check-in windows. Everyone knows plan.
+
+64. MESSAGE FORMAT
+
+TIME | FROM | LOCATION | STATUS | NEED | NEXT ACTION/CHECK.
+Use exact numbers and units. Preserve original source/time through relays.
+
+65. CELL
+
+Brief SMS can pass congestion better than voice. Reduce repeated calls. Battery: lower brightness, disable unnecessary radios/apps, airplane mode when no network while periodically checking needed service, keep phone warm in extreme cold, avoid fully draining.
+
+66. RADIO
+
+Listen first. Plain language. Concise. Repeat important numbers. Log. FRS simple short range; GMRS/amateur rules vary. Terrain/antenna height/buildings/repeaters dominate real range. Marketing range is not promise.
+
+67. STORE-AND-FORWARD HUMAN NETWORK
+
+When networks fragment: fixed bulletin points + runners + scheduled radio windows. Give each message ID and copy. Runners carry duplicates, not sole record. A person moving between neighborhoods can synchronize lists of needs, offers, hazards, missing people, and verified news.
+
+68. RUMOR CONTROL
+
+Label DIRECT OBSERVATION / RELAYED / UNVERIFIED. Record timestamp. High-impact claim requires corroboration when safe. Correction must be sent over same channels. Never turn ambiguous observation into precise catastrophe through repetition.
+
+69. PRIORITY TRAFFIC
+
+P1 immediate life threat; P2 evacuation/missing/injury; P3 water/medical/infrastructure; P4 welfare/logistics; P5 routine. Do not clog scarce channel with repeated status.
+
+======================================================================
+PART IX - NAVIGATION AND EVACUATION
+======================================================================
+
+70. EVACUATION
+
+Go early when ordered or when hazard clearly worsens. Take people, meds, IDs, water, clothes, mobility aids, communications, pets if possible. Property delay kills.
+
+71. ROUTES
+
+Primary + alternate + walking fallback. Hazard-specific avoidance: low crossings in flood, coast in tsunami, damaged bridges after quake, smoke/fire corridors, unstable slopes after rain, tunnels/underground during flooding.
+
+72. MAP
+
+Paper map; north; scale; home; hospitals/clinics; shelters; water; high ground; bridges; industrial hazards; alternate routes. Mark closures with time/source.
+
+73. COMPASS
+
+Magnetic north differs from true/grid; declination matters for precise long travel. Keep compass away from metal/magnets/electronics while reading. For short urban navigation, cross-check landmarks and street geometry.
+
+74. LOST
+
+STOP. Calm. Last known point, route, daylight/weather/water/injury, likely search. If rescuers know route, remaining near it can help unless unsafe. Signal with whistle/light/contrast/radio. If moving, leave dated direction note.
+
+======================================================================
+PART X - HAZARD-SPECIFIC ACTIONS
+======================================================================
+
+75. EARTHQUAKE
+
+During: Drop, Cover, Hold On; protect head/neck; away from glass. Do not run through falling exterior debris. After: aftershocks, shoes/gloves, fire/gas/electric check, leave seriously damaged buildings, avoid elevators, conserve communications.
+
+76. FLOOD
+
+Higher ground early. Never walk/drive/swim through moving floodwater. Leave basement if rapid flood possible. After: electrical, wells, food, medicines, mud, porous building materials may be contaminated.
+
+77. HURRICANE
+
+Evacuate storm-surge zones when ordered. Upper floor is not guaranteed refuge from surge. In a safe nonflooding building during high wind, small interior room away from windows. Eye calm is temporary.
+
+78. TORNADO
+
+Basement/storm shelter or small interior lowest safe floor, away windows. Protect head/neck. Manufactured homes are vulnerable; sturdy designated shelter if time.
+
+79. TSUNAMI
+
+Strong/long coastal earthquake, sudden sea retreat/rise, natural warning, official alert: immediately inland/uphill. Do not watch. Waves can continue for hours; first not necessarily largest.
+
+80. WILDFIRE
+
+Leave early. Do not rely on ordinary mask/garden hose against fire front. Take meds/documents/water; route away from smoke/fire; close openings if time. N95 reduces particles, not CO.
+
+81. LANDSLIDE/DEBRIS FLOW
+
+Move out of channel/path toward stable higher ground. Burn scars plus intense rain increase debris-flow risk. Do not cross active flow.
+
+82. LIGHTNING
+
+If thunder, seek substantial building/hard-topped vehicle. Avoid isolated tree, open ridge/field, open water, conductive fence, plumbing/wired appliances during close storm. Tent is not lightning protection.
+
+83. WINTER VEHICLE STRANDING
+
+If safe road location and rescue likely, vehicle gives shelter/visibility. Signal, insulate, ration fuel. Clear snow from exhaust before periodic engine use; CO can enter vehicle. Never idle in enclosed garage.
+
+84. CHEMICAL RELEASE
+
+Follow shelter/evacuation directions. Shelter: close openings, shut outdoor-air ventilation if directed/safe, interior room, monitor. Decontaminate by removing/isolation of outer clothing and water rinsing as appropriate. Particle mask/wet cloth does not protect from most toxic gas.
+
+85. RADIOLOGICAL FALLOUT
+
+Get inside substantial building quickly; increase distance from exterior/roof and shielding mass. Basement/building center often better. Remove outer clothes carefully/bag away; shower gently with soap/water. Stay sheltered until reliable instructions/measurements. Potassium iodide only for radioactive iodine thyroid protection and only when health authorities advise.
+
+86. RESPIRATORY OUTBREAK
+
+Ventilation/filtration, staying home when ill, reducing crowded close exposure, well-fitting masks where indicated, hygiene, protecting high-risk people. Exact transmission/current guidance depends pathogen.
+
+======================================================================
+PART XI - HOME SYSTEMS AND REPAIR
+======================================================================
+
+87. KNOW CONTROLS
+
+Before disaster identify water main, gas control, electrical main, heating shutoff, sewer cleanout if any. Label tool needed. Shutting systems down without reason can complicate safe restoration.
+
+88. GAS
+
+Leak signs -> leave, no sparks, utility/fire service. Many gas systems require qualified restart; do not casually cycle. Never test with flame.
+
+89. BURST PIPE
+
+If safe, shut nearest valve/main. Relieve pressure/drain as appropriate. Keep water from energized equipment. Temporary clamp/rubber patch may slow leak; monitor and arrange permanent repair.
+
+90. ROOF LEAK
+
+Interior damage preferable to fall. Avoid wet/icy/windy/dark/damaged roofs. Catch water, move valuables, protect electrical areas. External tarp only with safe access/fall protection.
+
+91. STRUCTURAL WARNING
+
+Major new cracks, leaning wall/chimney, sagging floor/roof, foundation displacement, fire damage, partial collapse, unusual ongoing movement/noises -> leave if collapse plausible. Do not diagnose major structure from text.
+
+92. WATER DAMAGE
+
+Stop source. De-energize safely. Remove standing water when electrical/structural/contamination risks controlled. Dry fast through drainage, airflow, dehumidification if power. Sewage-contaminated porous materials often require removal.
+
+93. TOOLS
+
+General: adjustable wrench, pliers, screwdrivers, hammer, hand saw/hacksaw, utility knife, tape measure, fasteners, repair/duct tape, cord/rope, buckets, shovel, pry bar, tarps/plastic, gloves, eye protection, headlamp, extinguisher. Manual tools remain useful without fuel/battery.
+
+94. LADDER
+
+Stable level base, correct orientation/angle, three points contact, no top-step misuse, no electrical lines, no boxes/chairs, spotter when useful. Do not carry awkward loads while climbing.
+
+95. JACK/LIFT
+
+Jack lifts; rated stands/cribbing support. Never crawl beneath vehicle/load on jack alone. Chock wheels, stable ground, correct lift point.
+
+======================================================================
+PART XII - MECHANICAL PRINCIPLES
+======================================================================
+
+96. LEVER AND TORQUE
+
+Torque = force x perpendicular distance. Longer handle gives more torque but can snap fastener/tool. Use gradual force, correct tool fit, body positioned away from sudden release.
+
+97. PULLEYS
+
+Ideal mechanical advantage roughly number of rope segments supporting moving load; friction reduces. More advantage means more rope travel. Anchor must handle load/tension. Never stand under load; unknown ropes/anchors not for people.
+
+98. FRICTION/LUBRICATION
+
+Clean contamination first. Correct lubricant reduces wear; wrong lubricant can attack seals or attract abrasive dirt. Keep petroleum away from oxygen systems and manufacturer-prohibited locations.
+
+99. BEARINGS/SHAFTS
+
+Heat/noise/vibration often signals lubrication loss, misalignment, looseness, contamination, or overload. Stop before catastrophic failure when possible. Mark original alignment before disassembly. Keep parts ordered/labeled.
+
+100. FASTENERS
+
+Correct driver/wrench size prevents rounding. Penetrating oil/time may help corrosion. Tighten multi-bolt patterns progressively/crosswise where applicable. Do not substitute unknown high loads on random hardware. Locking methods vary.
+
+101. THREADS
+
+Common right-hand thread loosens counterclockwise viewed from fastener head; exceptions exist. Forcing wrong direction destroys parts. Metric/imperial fasteners can look similar but mismatch; preserve labeled bins.
+
+102. CHAINS/BELTS
+
+Guard before operation. De-energize before adjustment. Correct tension is neither slack nor overtight; alignment matters. Replace severely cracked/frayed components; do not reach into moving drives.
+
+103. BICYCLES
+
+A maintained bicycle is resilient transport. Tires inflated within sidewall/rim limits, brakes contact rim/rotor correctly, wheels secure, chain lubricated lightly and wiped, steering/bearings without dangerous play. Patch tubes: find cause in tire before replacement or puncture repeats.
+
+======================================================================
+PART XIII - MATERIALS AND CONSTRUCTION BASICS
+======================================================================
+
+104. LOAD PATH
+
+Structures survive when loads have continuous path to ground. Temporary bracing works through triangles. A rectangle without diagonal bracing racks. Do not remove posts/walls/beams without understanding whether load-bearing.
+
+105. WATER WEIGHT
+
+Large stored water is a structural load. 200 L ~200 kg; 55 gal ~459 lb. Concentrated tanks can overload floors. Spread/support only where structure designed.
+
+106. WOOD
+
+Moisture drives rot/mold; keep dry and ventilated. Fasteners near end grain can split; predrill when appropriate. Knots/splits reduce strength. Wood strength varies species/grade/direction. Charred/fire-damaged members require assessment.
+
+107. MASONRY
+
+Brick/block strong in compression, weak in tension/out-of-plane motion. Cracks/stair-step patterns after quake or bulging/leaning walls can be dangerous. Do not stand near unsupported damaged masonry.
+
+108. CONCRETE
+
+Concrete strength depends mix, compaction, curing, reinforcement. Adding excess water makes placement easy but weakens cured material. Structural concrete design is not a recipe to improvise in crisis.
+
+109. TARPS/SHEETING
+
+Wind loads become large. Secure many points, avoid pockets that collect water, protect from sharp edges, provide drainage. A tightly wrapped occupied space needs safe ventilation and must not trap combustion exhaust.
+
+110. ROPE/KNOT FUNCTIONS
+
+Bowline: fixed loop; figure-eight family: stopper/loop; clove hitch: quick temporary attachment; two half-hitches: secure line; trucker's hitch: tension. Practice. Knots reduce rope strength; life safety uses rated rope/hardware/training.
+
+======================================================================
+PART XIV - VEHICLES AND FUEL
+======================================================================
+
+111. CO
+
+Never idle vehicle in garage/enclosed space, even with garage door open. Exhaust can accumulate/enter building.
+
+112. FUEL
+
+Use approved containers, lawful storage quantities, cool/ventilated location away from ignition/living areas. Gasoline vapor travels/ignites readily. No mouth siphoning. Fuel ages; rotate/stabilize according to product/equipment guidance.
+
+113. TIRE CHANGE
+
+Stable location away traffic; hazards, parking brake, wheel chock; loosen lug nuts slightly before lifting; manufacturer jack point; never body under jack-supported car; install wheel; hand-start nuts; tighten progressively cross/star; final torque to manufacturer spec when wrench available; recheck.
+
+114. COOLING SYSTEM
+
+Hot pressurized coolant causes burns. Never remove radiator cap hot. Overheating engine: stop safely, shut down, allow cooling, inspect leaks/belts/level only when safe. Running severely overheated can destroy engine.
+
+115. BATTERY JUMP
+
+Vehicle-specific instructions matter, especially hybrids/EVs. Standard 12 V systems: correct polarity is critical; keep sparks away from batteries; do not attempt frozen/damaged battery. Modern vehicles may have designated jump points. EV high-voltage systems are not DIY emergency power sources unless manufacturer-designed output exists.
+
+======================================================================
+PART XV - FOOD PRODUCTION
+======================================================================
+
+116. GARDEN AS SYSTEM
+
+Garden requires sunlight, clean soil, water, seed, fertility, labor, pest control, timing, preservation. It is future resilience, not immediate famine relief.
+
+117. CROP PORTFOLIO
+
+Choose locally suitable mix: calorie crops (potatoes/sweet potatoes/corn where climate fits), legumes, quick greens, roots, squash/storage crops, herbs, fruits/perennials. Diversity reduces weather/pest failure. Local extension/farmer knowledge beats generic calendars.
+
+118. SOIL CONTAMINATION
+
+Do not grow food blindly in industrial sites, flood sediment, sewage-contaminated soil, demolition/lead-paint debris, or structure-fire ash. Raised known-clean soil helps but contaminated water/dust can still transfer.
+
+119. SOIL FERTILITY
+
+Plants need macronutrients N-P-K plus other nutrients and workable pH/structure. Organic matter improves water holding, aggregation, and biology. More fertilizer is not always better; excess can burn plants/pollute water. Observe deficiencies and test soil when possible.
+
+120. COMPOST
+
+Balance moist nitrogen-rich materials with dry carbon-rich material, provide air/moisture. Keep hazardous chemicals, unknown ash, treated wood, pet/human feces out of ordinary food-garden compost. Finished compost should smell earthy rather than putrid.
+
+121. MULCH
+
+Organic mulch suppresses weeds, reduces evaporation, buffers soil temperature. Keep thick wet mulch from plant stems/building wood where rot/pests may result.
+
+122. IRRIGATION
+
+Water roots, preferably morning/when evaporation low. Drip/root delivery conserves. Avoid fecally contaminated water on crops, especially foods eaten raw. Overwatering can suffocate roots/drive disease.
+
+123. SEED STORAGE
+
+Cool, dry, dark, labeled crop/variety/year. Viability differs. Open-pollinated varieties generally save more predictably than hybrids, but cross-pollination and biennial crops require species knowledge. Keep some seed reserve rather than planting all.
+
+124. SUCCESSION
+
+Stagger fast crops so entire harvest does not mature at once. Plant season-extension only when frost/heat protection feasible. Track planting date, weather, variety, yield; local records become more valuable each year.
+
+125. PEST MANAGEMENT
+
+Identify before treating. Healthy diverse crops, rotation, sanitation, row covers, hand removal, traps, beneficial insects, and targeted least-toxic controls often outperform indiscriminate pesticide use. Follow pesticide labels; more concentration is not better and can poison people/pollinators/water.
+
+126. LIVESTOCK PRINCIPLE
+
+Animals convert feed/water into food but add disease, waste, shelter, veterinary, breeding, predator, and winter-feed burdens. Do not acquire animals without a sustainable feed/water/waste plan. Quarantine new/sick animals where appropriate. Human food scraps alone rarely meet balanced livestock nutrition.
+
+127. CHICKENS
+
+Need clean water, balanced feed, secure ventilated shelter, predator protection, dry bedding, space, calcium appropriate to laying birds, disease observation. Egg production varies breed/age/daylight/health. Wash hands after poultry contact; raw eggs/meat carry pathogens.
+
+128. POLLINATION
+
+Many crops depend on insects; some self/wind pollinate. Habitat diversity and avoiding broad insecticides during bloom supports pollinators. Hand pollination may help some garden crops but is labor-intensive.
+
+======================================================================
+PART XVI - COMMUNITY RESILIENCE
+======================================================================
+
+129. ORGANIZE SKILLS
+
+Make roster: medical/nursing, first aid, electrical, plumbing, mechanical, construction, radio, agriculture, cooking, childcare, elder/disability care, languages, logistics, mediation, teaching. Skills can be more valuable than duplicated gadgets.
+
+130. DAILY OPERATIONS
+
+At fixed time: headcount/medical; hazards/weather; water; sanitation; food; power/fuel; communications; work teams; security; next check. Written log. Buddy system for hazardous/off-site tasks.
+
+131. ZONING
+
+Separate clean food/water, sleeping, sick care, toilets/waste, fuel/chemicals, repair/dust. Mark unsafe buildings/rooms. One-way dirty-to-clean workflows where possible.
+
+132. INVENTORY
+
+Item | unit | quantity | condition | owner/community | daily use | location | minimum reserve. Count physically. Standard units. Damaged/questionable stock not counted as full stock.
+
+133. RATIONING
+
+Ration only after measuring supply, population, expected resupply, minimum health needs. Publish rules. Protect life-critical medical and water needs. Recalculate from actual burn rate. Arbitrary secret rationing destroys trust.
+
+134. SECURITY
+
+Locks, lighting, controlled access, neighbor awareness, discretion, buddy travel, de-escalation, conflict resolution, safeguarding children/vulnerable people. Avoid traps/electrified barriers/uncontrolled fire that can harm allies/responders. The best security preserves cooperation.
+
+135. GOVERNANCE
+
+Emergency authority should be limited, recorded, reviewable, and shared. Separate decision, custody, and audit of scarce communal resources where possible. Rotate roles to prevent burnout/capture. Record significant decisions and reasons. Create appeal/mediation path. Protect minority/vulnerable groups from majority panic.
+
+136. COMMUNITY HEALTH SURVEILLANCE
+
+Track counts, not gossip: new diarrhea, respiratory illness, fever/rash, injuries, deaths, animal die-offs, water failures. Time/location clusters may reveal shared source. Protect privacy while reporting enough to detect outbreak. Isolate suspected common source (water/food/air) while investigating.
+
+137. MUTUAL AID
+
+Map neighboring capabilities and contact points. Agreements should state what can be shared, request/approval process, transport, record/return/replacement, and limits. Do not promise resources you cannot deliver.
+
+138. VOLUNTEERS
+
+Register name/skills/limitations/contact, brief hazards, assign supervisor/buddy, appropriate PPE, check-in/out. Uncoordinated volunteers can become casualties or duplicate work.
+
+======================================================================
+PART XVII - LOGISTICS AND RECORDS
+======================================================================
+
+139. BURN RATE
+
+Days remaining = usable stock / average daily use. Track actual rolling average. Example 90 L / 15 L/day = 6 days. Include uncertainty/reserve.
+
+140. PRIORITIZATION
+
+Use impact x urgency x feasibility. Life safety > systems preventing many casualties > scarce enabling tools > comfort. Repair a shared water pump before decorative property. Preserve a functioning diagnostic/communication tool rather than cannibalizing it for a trivial part.
+
+141. WORK ORDERS
+
+Problem; location; risk; requested result; responsible person; materials/tools; lockout/isolation; start/finish; test; follow-up. This prevents forgotten temporary repairs.
+
+142. SHIFT HANDOFF
+
+What changed; unresolved hazards; people needing follow-up; inventory exceptions; equipment status; messages pending; next decisions. Written handoff beats memory.
+
+143. INCIDENT LOG
+
+Date/time | source | observation | decision | action | result | next check. Distinguish direct observation from inference.
+
+144. MEDICAL LOG
+
+Person | allergies | baseline conditions | event | symptoms/vitals if measured | treatment | medication/time | response | evacuation priority.
+
+145. RECORDS
+
+Protect IDs, deeds/leases, insurance, prescriptions, account/utility contacts, birth/marriage docs, licenses, equipment manuals, maps, photos. Duplicate paper + encrypted/offline digital where possible. Keep sensitive credentials private.
+
+146. DISASTER SCAMS
+
+Verify independently. Urgency + secrecy + irreversible payment/credentials = warning. Photograph/document work and contracts. Do not let property urgency override identity/payment checks.
+
+======================================================================
+PART XVIII - MEASUREMENT, UNITS, MATH
+======================================================================
+
+147. UNITS
+
+1 L=1000 mL. 1 kg=1000 g. 1 m=100 cm=1000 mm.
+1 US gal=3.785 L. 1 qt=0.946 L. 1 lb=0.454 kg. 1 oz mass=28.35 g. 1 in=2.54 cm. 1 ft=0.3048 m. 1 mi=1.609 km. 1 acre=43,560 ft2 ~=4047 m2.
+
+148. TEMPERATURE
+
+C=(F-32)*5/9. F=C*9/5+32.
+0 C=32 F; 20 C=68 F; 37 C=98.6 F; 100 C=212 F at sea level; boiling temperature decreases at altitude.
+
+149. GEOMETRY
+
+Rectangle area=L*W. Triangle=base*height/2. Circle area=pi*r^2. Circumference=2*pi*r. Rectangular volume=L*W*H. Cylinder volume=pi*r^2*h. Use consistent units.
+
+150. PERCENT
+
+Percent=value/total*100. Percent change=(new-old)/old*100. Grade %=rise/run*100.
+
+151. PROPORTION
+
+If a/b=c/d, unknown d=b*c/a. Unit analysis catches many errors: write units through calculation and ensure final unit matches need.
+
+152. ESTIMATION
+
+Order-of-magnitude first. If exact calculation says a family needs 3 mL water/day or a shelf holds 50 tons, unit/error is obvious. Cross-check by independent method.
+
+153. ERROR
+
+Measurement precision cannot exceed weakest measurement. Repeating a rough number to six decimals does not make it accurate. Record assumptions/ranges.
+
+======================================================================
+PART XIX - PHYSICS THAT HELPS REPAIR
+======================================================================
+
+154. FORCE
+
+Weight force near Earth proportional to mass; mass does not vanish in water though buoyancy reduces apparent weight. Dynamic loads (impact, bouncing, wind) can exceed static load.
+
+155. PRESSURE
+
+Pressure=force/area. Narrow contact raises pressure. Hydraulic systems transmit pressure through fluid; small piston force can produce larger force on larger piston at cost of movement volume, but components must be rated.
+
+156. ENERGY
+
+Energy changes form; no machine produces net energy from nothing. Efficiency <100%. Claims of perpetual motion indicate error/fraud. This principle saves scarce resources from useless projects.
+
+157. POWER
+
+Power=energy/time. High-power tasks drain stores quickly even if short. Heating water/home is energy-intensive.
+
+158. HEAT
+
+Heat moves by conduction, convection, radiation. Insulation slows transfer; reflective barriers mainly affect radiation and need appropriate air space; wind increases convective loss; wet insulation often performs poorly.
+
+159. PHASE CHANGE
+
+Evaporation cools but consumes water and works best in dry air. Condensation releases heat and causes moisture problems. Freezing water expands and can burst pipes/containers.
+
+160. CENTERS OF GRAVITY
+
+A load tips when center of gravity moves beyond support footprint. Keep heavy items low, widen base, secure tall shelves/tanks, avoid side loads on ladders.
+
+======================================================================
+PART XX - CHEMISTRY SAFETY AND USEFUL PRINCIPLES
+======================================================================
+
+161. LABELS
+
+Keep chemicals in original labeled containers. Never beverage bottles. Never mix unknown products. Separate fuels, oxidizers, acids/bases, pesticides from food/water/meds.
+
+162. BLEACH
+
+Sodium hypochlorite degrades with time/heat and concentrations differ. Never mix with ammonia or acids. Use product label for surface/water disinfection concentrations. More is not automatically safer.
+
+163. ACID/BASE
+
+Strong acids/bases burn tissue. Dilution can release heat; laboratory rule for many acids is add acid slowly to water, not water to concentrated acid, but untrained emergency users should avoid handling concentrated reagents. Do not neutralize chemical skin burns with opposite reagent; irrigate.
+
+164. COMBUSTION
+
+Fuel + oxidizer + ignition can cause fire/explosion; vapors may travel to remote ignition. Incomplete combustion produces CO/soot. Enclosed fires consume oxygen. Never use flammable liquids to accelerate indoor fires.
+
+165. SOLVENTS
+
+Many are volatile, flammable, toxic by inhalation/skin. Use ventilation, no ignition, compatible gloves, sealed storage. Do not use gasoline as cleaner.
+
+166. BATTERY CHEMISTRY
+
+Lead-acid contains corrosive acid and can emit explosive hydrogen during charging. Lithium-ion stores high energy and can thermal-runaway when damaged/overcharged. Alkaline leaks are caustic. Protect eyes/skin and follow chemistry-specific cleanup.
+
+167. WATER pH
+
+pH alone does not prove water safe. Clear neutral-pH water can contain microbes/metals/solvents; odd pH may signal contamination but is not full test.
+
+======================================================================
+PART XXI - WORKSHOP PRACTICE
+======================================================================
+
+168. SAFE DISASSEMBLY
+
+Photograph/draw before; mark orientation; use trays/bags; label fasteners; work clean; note shim/washer order; do not force hidden clips; preserve seals/gaskets; reassemble incrementally and test.
+
+169. DIAGNOSIS
+
+Verify complaint -> inspect obvious damage/power/fuel -> isolate subsystem -> measure -> change one variable -> test. Random part swapping consumes spares and creates faults.
+
+170. ELECTRICAL TROUBLESHOOTING LOW VOLTAGE
+
+Check source voltage, fuse, connectors/corrosion, switch, load. A voltage reading with no load may hide high-resistance connection; voltage drop under load can reveal. Avoid shorting probes. Know meter mode before connecting; current mode across a voltage source can cause short.
+
+171. MECHANICAL TROUBLESHOOTING
+
+Noise location, heat, smell, vibration, leakage, play, binding, load dependence. Stop before catastrophic damage. Compare with known-good similar mechanism when available.
+
+172. PARTS MANAGEMENT
+
+Bins labeled by machine/type; keep donor machine record; dimensions/thread/polarity/voltage; never mix unknown critical fasteners. Save manuals and exploded diagrams.
+
+173. CORROSION CONTROL
+
+Dry/clean, protect with coating/oil where appropriate, rinse salt, avoid trapping water. Dissimilar metals plus electrolyte can galvanically corrode; isolate when practical.
+
+======================================================================
+PART XXII - BUILDING WATER, HEAT, VENTILATION
+======================================================================
+
+174. PLUMBING
+
+Know supply shutoff. Freeze risk: protect pipes from cold airflow, maintain safe building heat, drain vulnerable systems if appropriate. Frozen pipe: never use open flame; thaw gently after ensuring line can tolerate and shutoff known because hidden split may leak on thaw.
+
+175. DRAINS
+
+Traps hold water to block sewer gas. Long disuse can dry traps; adding water restores seal. Sewer backup: stop water use/flushing and isolate area. Never enter sewer/confined systems.
+
+176. VENTILATION
+
+Fresh air controls moisture, odors, airborne disease, some indoor pollutants. But outdoor smoke/chemical events may require temporary isolation/filtration. Combustion appliances require designed venting; do not seal vents to save heat.
+
+177. STEAM/HOT WATER HEAT
+
+Boilers/steam systems operate hot/pressurized. Do not modify safety valves or add cold water to dangerously overheated equipment contrary to manufacturer/professional procedures. Leaks/scalding/CO require shutdown/qualified service where possible.
+
+178. WOOD STOVES
+
+Use only installed systems with proper chimney/clearances/hearth. Creosote/chimney fire risk rises with poor burning/maintenance. Do not improvise stovepipes through combustible walls/roofs without rated components/clearances.
+
+======================================================================
+PART XXIII - INFORMATION PRESERVATION
+======================================================================
+
+179. REDUNDANCY
+
+Keep critical knowledge in multiple forms: printed quick cards; plain text; standard image/PDF where devices exist; removable media; distributed copies. Proprietary/cloud-only knowledge can vanish with account/network failure.
+
+180. FILE FORMATS
+
+Plain UTF-8 text is durable. CSV for simple tables. Standard images (PNG/JPEG) for diagrams. PDF useful for fixed pages but requires reader. Keep README explaining archive structure and checksums when possible.
+
+181. CHECKSUMS
+
+A cryptographic hash can detect corruption when software exists; multiple copies allow recovery. Even without hash tools, file sizes and printed page counts provide crude integrity check.
+
+182. INDEX
+
+A corpus nobody can navigate is partly lost. Maintain alphabetical subject index, scenario index, skill index, and "first hour" entry point. Use stable section IDs so radio/printed references can say WATER-24 rather than quote whole text.
+
+183. LOCAL KNOWLEDGE
+
+Record wells, shutoffs, bridges, generators, clinics, skilled people, local hazards, planting dates, equipment parts, radio channels, evacuation routes. Local context often exceeds generic encyclopedia value.
+
+184. TEACHING
+
+For each critical skill: explain purpose; show; learner performs; correct; learner teaches another. Keep competence matrix. Skills disappear if only one person knows them.
+
+======================================================================
+PART XXIV - EDUCATION AND SCIENTIFIC METHOD
+======================================================================
+
+185. PROBLEM SOLVING
+
+Observe -> define problem -> list constraints -> propose explanations/solutions -> test smallest safe discriminating step -> record result -> update. Separate "we know" from "we think."
+
+186. CONTROL/COMPARISON
+
+When testing garden treatment/repair/process, change one important variable and keep comparison when practical. Otherwise improvement may be coincidence.
+
+187. RECORD NEGATIVE RESULTS
+
+Failed approaches prevent repetition. Note conditions, quantities, date, outcome. Do not erase failures because they are embarrassing.
+
+188. SOURCES
+
+Prefer direct measurement, manufacturer/manual, trained local expert, public-health/engineering standards, multiple independent credible references. Popular repetition is not validation.
+
+189. UNCERTAINTY
+
+Use ranges and confidence. "Tank contains 180-220 L" is more honest/useful than false 200.000 L. Decisions should reflect worst plausible case when stakes high.
+
+======================================================================
+PART XXV - ECONOMIC CONTINUITY
+======================================================================
+
+190. CASH/LEDGER
+
+When electronic payments fail, use paper ledger: date | parties | item/service | unit | amount | payment/credit | signatures if significant. Reconcile daily.
+
+191. BARTER
+
+Agree unit/quality/delivery before exchange. Perishability and future promises need explicit terms. Avoid exploiting desperate people; predatory exchange destroys long-term trust/security.
+
+192. COMMUNITY STORES
+
+Separate donations, communal reserve, loans, and private goods physically/on ledger. Two-person verification for high-value withdrawals. Regular public inventory summaries without revealing security-sensitive exact locations.
+
+193. PRICES
+
+Scarcity changes value, but arbitrary price controls or unrecorded favoritism can cause shortages/conflict. For emergency communal distribution, transparent ration/priority may work better than ad-hoc bidding.
+
+======================================================================
+PART XXVI - CHILDREN, PREGNANCY, DISABILITY, OLDER ADULTS
+======================================================================
+
+194. INFANTS
+
+Established breastfeeding reduces dependence on clean water/equipment when possible. Formula: exact manufacturer dilution with safe water/clean preparation; never stretch with extra water. Keep infant warm but not overheated; feeding/wet diapers/alertness are useful observations. Ill infants can deteriorate quickly.
+
+195. CHILDREN
+
+More rapid dehydration/heat loss, smaller medication margins, choking hazards, inability to self-report. Assign an adult. Preserve routine/play/comfort. Do not use adult drug doses by guess.
+
+196. PREGNANCY
+
+Prioritize hydration, nutrition, infection/heat protection and obstetric access. Heavy bleeding, seizure, severe headache/vision change, severe abdominal pain, difficulty breathing, labor concerns, or marked reduction in established fetal movement needs urgent obstetric evaluation.
+
+197. OLDER ADULTS
+
+Acute confusion is illness until proven otherwise, not simply age. Check oxygen/breathing, hydration, infection, heat/cold, glucose where relevant, medications, head injury/stroke. Prevent falls; maintain glasses/hearing aids/mobility.
+
+198. DISABILITY
+
+Ask the person what assistance works. Preserve mobility devices, communication boards/AAC, chargers, hearing batteries, service-animal needs, feeding/continence supplies. Shelter/evacuation plan must be physically accessible.
+
+======================================================================
+PART XXVII - PRACTICAL CHECKLISTS
+======================================================================
+
+199. FIRST HOUR
+
+[ ] scene safe / evacuation decision
+[ ] headcount/missing
+[ ] severe bleeding/breathing
+[ ] fire/gas/CO/electric/flood controlled or isolated
+[ ] critical medicines/equipment
+[ ] safe water status
+[ ] weather/official info
+[ ] family/community contact message
+[ ] safe shelter zone
+[ ] written log started
+
+200. FIRST DAY
+
+[ ] sanitation/toilet
+[ ] food refrigeration triage
+[ ] battery/power budget
+[ ] water inventory/burn rate
+[ ] medicines/allergies list
+[ ] vulnerable-person check
+[ ] alternate shelter/evac routes
+[ ] communication schedule
+[ ] waste zones
+[ ] neighbors/skills inventory
+[ ] night lighting/fire/CO plan
+
+201. PROLONGED OUTAGE
+
+[ ] 7/30/90-day water/food/fuel projections
+[ ] safe cooking system
+[ ] hygiene/laundry plan
+[ ] medical resupply plan
+[ ] repair/maintenance schedule
+[ ] garden/food production if horizon warrants
+[ ] community governance/resource rules
+[ ] schooling/child routine
+[ ] records/insurance/aid
+[ ] redundant communications
+[ ] skill cross-training
+
+202. GO-BAG
+
+ID/copies; meds/list; water/bottle/treatment; ready food; weather clothing; sturdy shoes; flashlight; power bank/cable; radio if useful; paper map/contacts; first-aid/bleeding supplies; hygiene; cash; keys; glasses; mobility/infant/pet items; small tools as lawful/appropriate. Bag weight must be carryable by actual user.
+
+203. HOME CACHE
+
+Water/storage/treatment; familiar shelf-stable food/opener; essential meds; first aid/bleeding; lights/batteries/power banks; radio; smoke/CO alarms/extinguisher; seasonal bedding/clothes; sanitation bags/buckets/soap; PPE; tools/tarps/cord; maps/contacts/cash; chargers; special-needs supplies.
+
+======================================================================
+PART XXVIII - DECISION RULES
+======================================================================
+
+204. WHEN TO LEAVE
+
+Leave when remaining exposes people to uncontrolled fire, toxic release, flood, collapse, official evacuation, or loss of life-critical environmental control with safer shelter available. Do not let sunk cost/property attachment dominate.
+
+205. WHEN TO SHELTER
+
+Shelter when outside hazard is greater, structure is sound, supplies adequate, and movement adds exposure. Chemical/radiological events may favor temporary shelter. Flood/fire may reverse that quickly. Maintain triggers for reassessment.
+
+206. WHEN TO REPAIR
+
+Repair when failure threatens life/system capability and job can be isolated/performed within skill/tools. Defer when it requires live electricity, unstable heights/structures, confined spaces, unknown pressurized systems, or creates greater hazard.
+
+207. WHEN TO DISCARD FOOD/WATER
+
+Discard/avoid when chemical contamination suspected; container compromised; high-risk food spent uncertain prolonged time warm; can bulging/leaking; visible mold where food type makes trimming unsafe; unknown source with no feasible treatment. Calories are valuable, but severe foodborne illness can be worse.
+
+208. WHEN INFORMATION CONFLICTS
+
+Prefer direct current official local hazard data for evacuation/utilities; trained professional for individual high-risk medical/structural case; product-specific manufacturer instructions for equipment/chemicals; multiple independent sources for uncertain claims. Record disagreement rather than silently averaging incompatible advice.
+
+======================================================================
+PART XXIX - COMPACT REFERENCE
+======================================================================
+
+209. CONVERSIONS
+
+L to US gal: /3.785. US gal to L: *3.785.
+kg to lb: *2.205. lb to kg: *0.454.
+cm to in: /2.54. in to cm: *2.54.
+km to mi: *0.6214. mi to km: *1.609.
+C to F: *9/5+32. F to C: (F-32)*5/9.
+
+210. COMMON WATER WEIGHTS
+
+1 L ~1 kg/2.2 lb.
+5 US gal ~41.7 lb/18.9 kg.
+20 L ~44 lb/20 kg.
+55 US gal ~459 lb/208 kg.
+275 US gal tote water alone ~2,294 lb/~1040 kg.
+Do not place tanks on unsupported residential floors/roofs casually.
+
+211. ELECTRIC EXAMPLES
+
+Phone battery roughly tens of Wh; laptop often tens of Wh; fridge cycles at hundreds of W with starting surge; electric space/water heating often thousands of W. Exact device label wins. A 1 kWh battery can theoretically deliver 100 W for 10 h, but real usable time is less due losses/reserve/temperature.
+
+212. WATER BOILING
+
+Biological treatment: rolling boil 1 min, or 3 min above ~6,500 ft/2,000 m. Boiling does not remove salt/fuel/metals/most chemicals.
+
+213. ORS
+
+1 L safe water + 6 level tsp sugar + 1/2 level tsp salt. Measure carefully.
+
+214. CPR MEMORY
+
+Unresponsive + not breathing normally -> help/AED -> center-chest hard/fast 100-120/min; trained full CPR when known.
+
+215. BLEEDING MEMORY
+
+PRESS -> PACK if appropriate -> TOURNIQUET for uncontrolled life-threatening limb bleed -> TIME -> do not loosen.
+
+216. CO MEMORY
+
+Generator/charcoal/engine: OUTSIDE, away openings. CO has NO smell/color. Several people with headache/nausea/confusion indoors -> fresh air now.
+
+======================================================================
+PART XXX - RECOVERY PRIORITIES BY TIME HORIZON
+======================================================================
+
+217. 0-24 HOURS
+
+Life safety; evacuation/shelter; medical stabilization; water; fire/CO; sanitation; communications; medicine/power dependencies; food cold-chain; weather/info.
+
+218. DAYS 2-7
+
+Reliable water production/storage; waste system; calorie plan; battery/fuel budget; cleaning; wound/illness monitoring; community roles; resupply routes; basic repair; sleep/security; records.
+
+219. WEEKS 2-8
+
+Prevent chronic disease: nutrition variety, sanitation, vector control, mental health/routine. Repair building envelope/water/power. Establish mutual aid, tool/parts library, local food production appropriate season, recurring communication, schooling, financial/administrative recovery.
+
+220. MONTHS+
+
+Durable water, sanitation, local food, energy maintenance, transport, health access, workshop/spares, governance/audit, education/apprenticeship, archive/manuals, seed/parts inventories, trade links, redundant institutions.
+
+======================================================================
+PART XXXI - CIVILIZATION-PRESERVING PRINCIPLES
+======================================================================
+
+221. STANDARDIZE
+
+Standard units, labels, connectors, message formats, container sizes, spare parts, maintenance logs where feasible. Standardization makes scarce parts/skills interchangeable.
+
+222. MAINTAIN
+
+Preventive maintenance usually costs less than replacement. Inspect, clean, lubricate, tighten, dry, rotate, exercise, test. Record intervals and failures.
+
+223. REDUNDANCY
+
+Two different methods for critical functions: stored water + treatment; grid + battery; cellular + radio + paper; primary + alternate route; two trained people per skill. Redundancy should fail differently, not share one hidden dependency.
+
+224. MODULARITY
+
+Separate systems so one failure does not contaminate all: multiple water containers instead of one; smaller electrical circuits; quarantined sick area; separate records; spare modules.
+
+225. FEEDBACK
+
+Measure outcomes. Water inventory/day, illness counts, battery voltage/energy, crop yield, repair failures. Adjust based on data, not optimism.
+
+226. DOCUMENT
+
+Future people need reasons, not just instructions. Record why valve is closed, why bridge unsafe, why ration changed, why machine modified. Undocumented improvisation becomes future hazard.
+
+227. CROSS-TRAIN
+
+Every critical role has backup. Demonstrate -> learner performs -> learner teaches. Keep skill matrix. A lone expert is a single point of failure.
+
+228. PRESERVE OPTIONS
+
+Avoid irreversible actions when uncertain: do not consume all seed, drain all batteries, burn all lumber, dismantle functioning machine, contaminate clean container, or commit all people to one route.
+
+229. TRUST
+
+Transparent logs, consistent rules, correction of mistakes, shared workload, fair process preserve cooperation. Social trust is infrastructure.
+
+230. EVIDENCE
+
+Observe -> hypothesize -> test safe discriminating step -> record -> update. Separate direct observation, inference, and rumor. Preserve failed experiments to prevent repetition.
+
+======================================================================
+ALPHABETICAL INDEX
+======================================================================
+
+AED 4
+AGRICULTURE 116-128
+AIR QUALITY 51,84,86,176
+ANTIBIOTICS 15
+ASTHMA 17
+BATTERY 58,61,211
+BLEACH 24,162
+BLEEDING 3,215
+BURNS 8
+CANNING 40,47
+CARBON MONOXIDE 48,49,216
+CHEMICAL RELEASE 84
+CHILDREN 195
+CHOKING 5
+COLD 52-53
+COMMUNICATION 63-69
+COMMUNITY 129-138
+COMPOST 120
+CONSTRUCTION 104-110
+CPR 4,214
+DENTAL 20
+DIABETES 16
+DIARRHEA/ORS 13,213
+DISABILITY 198
+DISINFECTION 35
+DOCUMENTS 145,179-184
+EARTHQUAKE 75
+ELECTRICITY 56-62,170,211
+EVACUATION 70-74,204-205
+EYE 11
+FALLOUT 85
+FIRE 50
+FLOOD 36,76
+FOOD 39-47
+FRACTURE 10
+FUEL 49,112
+GARDEN 116-128
+GAS 88
+GENERATOR 49
+GOVERNANCE 135
+HEAT 54
+HURRICANE 77
+HYPOTHERMIA 52
+ILLNESS 13-21
+INFANT 194
+INFORMATION 179-189
+LANDSLIDE 81
+LIGHTNING 82
+LOGISTICS 139-146
+LOST 74
+MAP 72-73
+MECHANICS 96-103
+MEDICATION 15
+MENTAL HEALTH 21
+MOLD 36
+NAVIGATION 70-74
+OLDER ADULT 197
+PANDEMIC/OUTBREAK 86
+PESTS 37-38,125
+POISON 12
+POWER 56-62
+PREGNANCY 196
+RADIO 66-69
+RAINWATER 27
+RATIONING 133,139
+RECORDS 143-146
+REPAIR 87-110,168-178
+RESPIRATORY 14,86
+ROPE 97,110
+SANITATION 32-38
+SEIZURE 18
+SHELTER 55
+SHOCK 6
+SOLAR 59
+SPRAIN 10
+STROKE 19
+STRUCTURE 91,104-110
+TEMPERATURE 52-55
+TOILET 33
+TOOLS 93-95
+TORNADO 78
+TOURNIQUET 3
+TSUNAMI 79
+VEHICLE 83,111-115
+WATER 22-31
+WILDFIRE 51,80
+WINTER 83
+WOUNDS 9
+
+END OF FIELD LIBRARY
