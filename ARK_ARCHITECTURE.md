@@ -123,6 +123,58 @@ Either is a discrete, mostly-mechanical step. I did **not** perform it yet
 because it is the one hard-to-reverse action and depends on the two choices
 below.
 
+## 5b. Intelligence layer (`ark/ai/`) — same philosophy, applied to AI
+
+The AI capability mirrors the renderer stack: a tiny engine that always works,
+scaling up to bigger brains only when capacity permits, always degrading back.
+
+- **Compute detection (`ai/resources.py`)** — CPU count, RAM, importable ML
+  runtimes (llama.cpp / ctransformers / gpt4all / transformers), a configured
+  local model (`ARK_LOCAL_MODEL`), and a remote endpoint+key
+  (`ARK_LLM_ENDPOINT` / `ARK_LLM_API_KEY`). `ARK_AI_OFFLINE=1` is the doomsday
+  switch that caps everything at the offline floor.
+- **Engine registry (`ai/engine.py`)** — tiered `Engine`s; the Brain picks the
+  highest tier capacity permits and catches runtime failures to drop down.
+- **Tier 0 `extractive` (`ai/retrieval.py`)** — a pure-stdlib TF-IDF retriever
+  over the knowledge base. Answers by returning the most relevant passages with
+  citations. No model, no GPU, no network, negligible RAM/CPU — **always
+  available**. This is the "small functional AI".
+- **Tier `local` (`ai/local_model.py`)** — an on-device quantized model
+  (llama.cpp / ctransformers / gpt4all), used only if a runtime + model file are
+  present; synthesizes an answer grounded in retrieved passages (RAG).
+- **Tier `remote` (`ai/remote.py`)** — an OpenAI-compatible endpoint over stdlib
+  `urllib`, used only if configured and reachable; the biggest brain, purely a
+  bonus.
+
+Every answer is an `ark.Document`, so the same reply renders on a CLI, as
+Markdown/JSON, or as a web page — intelligence and rendering share one core.
+
+```
+   query --> [ retrieve grounding passages (always) ] --> context
+                                   |
+             pick highest tier capacity permits (degrade on failure)
+     remote-llm (tier 60) ---> local-model (tier 30) ---> extractive (tier 0, ALWAYS)
+                                   |
+                             ark.Document --> render anywhere
+```
+
+Validated end-to-end: extractive answers over the real 37-guide knowledge base
+(814 passages) on the **bare system python3, zero dependencies**; RAG synthesis
+via a mock OpenAI endpoint when configured; automatic fallback to extractive
+when the endpoint is down; and `--offline` forcing the floor. 24 unit tests pass
+(13 render + 11 AI). Try it:
+
+```
+python -m ark.ai "how do I purify drinking water"   # offline extractive
+python -m ark.ai --plan          # show engine tiers available now
+python -m ark.ai --caps          # detected compute resources
+python -m ark.ai "..." --offline # force the doomsday floor
+```
+
+Honest limitation: tier-0 is keyword retrieval, so a query like "treat a burn"
+can match DVD-"burning"; that is precisely the gap the local/remote tiers close
+when capacity permits.
+
 ## 6. Roadmap
 
 - **P0 — Core (done):** `ark/` model + capabilities + registry + 6 renderers + CLI + tests.
@@ -131,6 +183,10 @@ below.
 - **P3 — Rich TUI tier:** optional `rich`-backed renderer (auto-detected; degrades to `ansi`/`plaintext`).
 - **P4 — Web/interactive tier:** HTML+JS renderer; fold the Streamlit GUI onto shared `Document`s.
 - **P5 — Spatial tier:** 3D/AR renderer plugins (e.g. WebGL/USD) consuming the exact same documents.
+- **AI-P0 — Intelligence floor (done):** stdlib TF-IDF extractive engine + tiered registry + local/remote engines with graceful fallback (`ark/ai/`).
+- **AI-P1:** ship a small quantized on-device model as the default `local` tier (llama.cpp/gguf), auto-detected.
+- **AI-P2:** better offline retrieval (BM25, embeddings if a runtime exists), semantic fallback so queries like "treat a burn" resolve correctly offline.
+- **AI-P3:** tool/agent use over the same `Document` model (fill checklists, compute supplies) at higher tiers.
 
 ## 7. Open decisions (need your input)
 
