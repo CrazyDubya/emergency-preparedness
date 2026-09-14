@@ -1,13 +1,13 @@
 """
-Ark command-line entrypoint.
+ArkoftheDuck command-line entrypoint.
 
-    python -m ark                     # auto-render the sample for this terminal
-    python -m ark --format html       # force a specific format
-    python -m ark --format html -o out.html
-    python -m ark --all               # render the sample in every format
-    python -m ark --list              # list renderers available on this system
-    python -m ark --caps              # show detected capabilities
-    python -m ark --input doc.json    # render a document from JSON (ark schema)
+    python -m arkoftheduck                     # auto-render the sample for this terminal
+    python -m arkoftheduck --format html       # force a specific format
+    python -m arkoftheduck --format html -o out.html
+    python -m arkoftheduck --all               # render the sample in every format
+    python -m arkoftheduck --list              # list renderers available on this system
+    python -m arkoftheduck --caps              # show detected capabilities
+    python -m arkoftheduck --input doc.json    # render a document from JSON (ark schema)
 """
 
 import argparse
@@ -49,7 +49,7 @@ def _doc_from_json(data: dict) -> Document:
 
 
 def main(argv=None) -> int:
-    p = argparse.ArgumentParser(prog="ark", description="Render anywhere. It always works.")
+    p = argparse.ArgumentParser(prog="arkoftheduck", description="Render anywhere. It always works.")
     p.add_argument("--format", "-f", help="Renderer id (default: auto-select best).")
     p.add_argument("--all", action="store_true", help="Render in every registered format.")
     p.add_argument("--list", action="store_true", help="List renderers usable on this system.")

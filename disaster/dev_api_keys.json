@@ -1,0 +1,49 @@
+{
+  "api_keys": {
+    "admin": {
+      "key_hash": "46d74f2e17ca9220713571e83c870725adf4213f952748f827c9804a38864dc3",
+      "user_id": "admin",
+      "role": "admin",
+      "profile": "default",
+      "rate_limit": 1000,
+      "created_at": "2026-09-14T02:59:50.152705",
+      "expires_at": null,
+      "enabled": true,
+      "permissions": [
+        "*"
+      ]
+    },
+    "user": {
+      "key_hash": "ea67aab7f82f19c977d46e74cc265c8f5f2a8bd21be0b96520c37d78d7ee9cdb",
+      "user_id": "user",
+      "role": "user",
+      "profile": "default",
+      "rate_limit": 100,
+      "created_at": "2026-09-14T02:59:50.152723",
+      "expires_at": null,
+      "enabled": true,
+      "permissions": [
+        "read",
+        "drill",
+        "supply"
+      ]
+    },
+    "gui": {
+      "key_hash": "16ea32ba2e6433043f36d833aaf54c01f02ffaa43fdfcbf930b6ac0c7136f759",
+      "user_id": "gui",
+      "role": "user",
+      "profile": "default",
+      "rate_limit": 500,
+      "created_at": "2026-09-14T02:59:50.152726",
+      "expires_at": null,
+      "enabled": true,
+      "permissions": [
+        "read",
+        "drill",
+        "supply",
+        "alert"
+      ]
+    }
+  },
+  "updated_at": "2026-09-14T02:59:50.153278"
+}

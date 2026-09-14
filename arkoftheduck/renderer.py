@@ -114,5 +114,5 @@ class Registry:
 
 
 # Process-wide default registry. Renderers register themselves on import via
-# ark.renderers (see ark/renderers/__init__.py).
+# arkoftheduck.renderers (see ark/renderers/__init__.py).
 registry = Registry()
