@@ -7,9 +7,9 @@ import unittest
 
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
-from ark import Document, Heading, Paragraph, Table, Checklist, ChecklistItem, KeyValues, render, registry
-from ark.capabilities import Capabilities
-from ark.sample import build_sample
+from arkoftheduck import Document, Heading, Paragraph, Table, Checklist, ChecklistItem, KeyValues, render, registry
+from arkoftheduck.capabilities import Capabilities
+from arkoftheduck.sample import build_sample
 
 
 def caps(color=False, unicode=True, target="terminal", width=80):

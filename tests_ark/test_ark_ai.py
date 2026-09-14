@@ -1,4 +1,4 @@
-"""Tests for the ark.ai tiered intelligence layer. Stdlib only."""
+"""Tests for the arkoftheduck.ai tiered intelligence layer. Stdlib only."""
 
 import io
 import json
@@ -8,12 +8,12 @@ import unittest
 
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
-from ark import render
-from ark.ai import Brain, Passage, registry
-from ark.ai.engine import AI_TIER, Answer, Engine, EngineUnavailable
-from ark.ai.remote import RemoteLLMEngine
-from ark.ai.resources import ComputeResources, detect_resources
-from ark.ai.retrieval import ExtractiveEngine, Retriever
+from arkoftheduck import render
+from arkoftheduck.ai import Brain, Passage, registry
+from arkoftheduck.ai.engine import AI_TIER, Answer, Engine, EngineUnavailable
+from arkoftheduck.ai.remote import RemoteLLMEngine
+from arkoftheduck.ai.resources import ComputeResources, detect_resources
+from arkoftheduck.ai.retrieval import ExtractiveEngine, Retriever
 
 
 def make_brain():

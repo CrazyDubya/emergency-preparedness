@@ -1,0 +1,49 @@
+{
+  "api_keys": {
+    "admin_a09cc05c": {
+      "key_hash": "eb85ccce984fbeeb8a15c3f7fe3d98b83df1b5013c2f2d8514c78ce0452f6cef",
+      "user_id": "admin",
+      "role": "admin",
+      "profile": "default",
+      "rate_limit": 100,
+      "created_at": "2026-09-14T02:53:04.466571",
+      "expires_at": null,
+      "enabled": true,
+      "permissions": [
+        "*"
+      ]
+    },
+    "user_1e151bb2": {
+      "key_hash": "5cde7e9c3ca5803b9c398f7672ded97f60007744644726ff529a145c2c971403",
+      "user_id": "user",
+      "role": "user",
+      "profile": "default",
+      "rate_limit": 100,
+      "created_at": "2026-09-14T02:53:04.466824",
+      "expires_at": null,
+      "enabled": true,
+      "permissions": [
+        "read",
+        "drill",
+        "supply"
+      ]
+    },
+    "gui_c2473f39": {
+      "key_hash": "356713bc3ec2715e4168d758109114a6a508cda1f24658273d67ef60d179d712",
+      "user_id": "gui",
+      "role": "user",
+      "profile": "default",
+      "rate_limit": 100,
+      "created_at": "2026-09-14T02:53:04.466991",
+      "expires_at": null,
+      "enabled": true,
+      "permissions": [
+        "read",
+        "drill",
+        "supply",
+        "alert"
+      ]
+    }
+  },
+  "updated_at": "2026-09-14T02:53:04.467429"
+}
