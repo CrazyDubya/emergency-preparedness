@@ -1,0 +1,2237 @@
+ARKOFTHEDUCK FIELD MANUAL (100K TIER)
+Plain-language operating manual for ordinary people during severe, prolonged
+infrastructure failure. This is preparedness guidance, NOT a substitute for
+professionals. Whenever real emergency services, clinicians, or official
+instructions are available, they take priority over this document.
+
+=== HOW TO USE THIS ===
+Skim the INDEX. In a crisis, jump to the numbered section you need. Each
+section leads with the single most important action. When a detail is
+context-sensitive and could be dangerous if wrong, this manual gives a
+principle and a "when to escalate" rule instead of false precision.
+
+INDEX
+1 Mindset and the order of survival
+2 Immediate scene safety
+3 Water: find, clear, disinfect, store
+4 Food: safety, rationing, storage
+5 Warmth, cold, heat, and shelter
+6 Air, carbon monoxide, and fire
+7 First aid: the life threats first
+8 Illness, hygiene, and sanitation
+9 Power, light, and fuel
+10 Communications and signaling
+11 Stay-or-go, evacuation, navigation
+12 People: groups, security, vulnerable members
+13 Documents, money, and records
+14 Scenario quick-actions
+15 Longer-term recovery
+16 Kits and checklists
+
+=== 1. MINDSET AND THE ORDER OF SURVIVAL ===
+Panic kills. Stop, breathe, look, plan, act. Adopt "protect life first, then
+capability." Work the ORDER OF LIFE and never skip up the list to comfort while
+a higher threat is unmet:
+- Air: minutes. Blocked airway, smoke, toxic gas, drowning.
+- Severe bleeding and body-core temperature: minutes to an hour.
+- Water: about 3 days without.
+- Food: about 3 weeks without.
+- Morale/social order: degrades over days and can kill through bad decisions.
+Assign roles early (water, security, medical, sanitation, comms). Keep the
+group together, warm, dry, hydrated, informed. Rest and ration effort; injuries
+and mistakes rise with exhaustion. Write things down; memory fails under stress.
+
+=== 2. IMMEDIATE SCENE SAFETY ===
+Do not become the next casualty. Before helping others or entering a structure:
+- Look up, down, around: fire, smoke, downed power lines, gas smell, unstable
+ walls/roof, rising or moving water, sharp debris, traffic.
+- If you smell gas, hear hissing, or see leaning structures or floodwater
+ rising: leave now, move uphill/upwind, do not use switches, flames, or engines.
+- Turn off utilities if you know how and it is safe: gas at the meter (only if
+ you smell gas; needs a wrench; once off, a pro must turn it back on),
+ electricity at the main breaker, water at the main valve.
+- Assume downed lines are live. Stay back at least the length of a bus. If a
+ line touches your car, stay inside unless fire forces you out; then jump clear
+ landing with feet together, and shuffle away without touching car and ground
+ at once.
+
+=== 3. WATER ===
+You need roughly 2-4 liters per person per day for drinking, more for heat,
+work, illness, or nursing. Dehydration degrades judgment fast.
+FIND: stored water, water heater tank, toilet tank (not bowl; not if chemical
+tabs used), pipes, canned vegetable liquid, rain, dew, streams, ponds, snow
+(melt before eating - eating snow chills you and wastes energy).
+MAKE IT SAFE - two steps:
+1) CLEAR it: let sediment settle, then pour through a clean cloth or sand/cloth
+ filter. Clearer water disinfects better.
+2) DISINFECT (kills germs; clearing alone does not):
+ - BOIL (best): bring to a rolling boil 1 minute; 3 minutes above ~2000 m
+ (6500 ft). Cover, cool, store.
+ - BLEACH: plain unscented household bleach (~5-6% sodium hypochlorite). Add
+ about 2 drops per liter (8 drops per gallon), double if cloudy/cold, stir,
+ wait 30 minutes; a faint chlorine smell should remain. If not, repeat once.
+ - SOLAR (SODIS): clear PET bottle, clear water, full sun 6 hours (2 days if
+ cloudy). Last resort.
+ - Commercial filters/tablets: follow their label.
+NOTE: Boiling and bleach kill microbes but do NOT remove chemical/fuel/heavy
+contamination. If water may be chemically polluted (industrial, floodwater
+through chemicals), do not drink it; find another source. Distillation removes
+salt and many chemicals but not all; it is a last resort for salt/brackish water.
+STORE: clean, food-safe, covered containers; keep off the floor; label; rotate.
+
+=== 4. FOOD ===
+Ration from day one; you rarely know how long. Eat perishable/fridge food
+first, then freezer, then shelf-stable. A fridge holds ~4 h closed; a full
+freezer ~48 h. "When in doubt, throw it out" - but do not waste safe food.
+SAFETY: discard food that touched floodwater, is warm and was previously
+refrigerated for >2 h, smells or looks wrong, or is in swollen/leaking/rusted
+cans. You cannot see or smell all toxins; err toward caution with meat, dairy,
+eggs, cooked rice.
+NUTRITION: prioritize calories and salts when active or hot. Do not force food
+if water is scarce - digestion uses water. Sprouting seeds/beans adds vitamins.
+INFANTS: breastfeeding is safest in crisis; if using formula, use safe water.
+
+=== 5. WARMTH, COLD, HEAT, SHELTER ===
+Core temperature is a life threat. Wet + wind + still air steal heat fastest.
+COLD: stay DRY; wet clothing loses most of its insulation. Layer: wicking base,
+insulating mid, wind/water shell. Cover head, neck, hands, feet. Insulate from
+the ground (that is where you lose heat) with anything: cardboard, leaves,
+packs. Make shelter small so your body heat fills it. Share warmth. Move to
+generate heat but do not sweat.
+HYPOTHERMIA signs: intense shivering, then clumsiness, confusion, slurred
+speech, then shivering STOPS (danger). Warm gently: dry them, insulate, skin-to-
+skin, warm sweet drinks if fully alert. Handle gently; do not rub limbs.
+HEAT: rest in shade, loosen clothing, wet skin and fan, drink water with a
+little salt/food. HEATSTROKE (hot skin, confusion, collapse, may stop sweating)
+is deadly: cool aggressively NOW - water, wet cloths, fan, shade, immerse if
+possible - and get help.
+SHELTER PRIORITIES: dry, out of wind, insulated from ground, ventilated (see
+carbon monoxide), defensible from water/fire, near water and signaling.
+
+=== 6. AIR, CARBON MONOXIDE, FIRE ===
+CARBON MONOXIDE (CO) is the most common post-disaster killer after the event.
+It is invisible and odorless. NEVER run generators, engines, charcoal, gas
+grills, camp stoves, or unvented fuel heaters inside a home, tent, garage, or
+near windows. Generators go OUTSIDE, far from and downwind of openings.
+Symptoms: headache, dizziness, nausea, weakness, confusion; multiple people or
+pets sick at once. Response: get everyone to fresh air immediately, then seek
+help. A battery CO alarm is cheap lifesaving gear.
+FIRE - prevent and fight small, flee big:
+- Keep flames away from fuel, fabric, and sleeping people. Never leave open
+ flame unattended.
+- Small fire: smother (lid, dirt, blanket), or use an extinguisher with PASS -
+ Pull pin, Aim at base, Squeeze, Sweep. Grease fire: cover, cut heat, never
+ water. Electrical: cut power, do not use water.
+- If it is spreading or filling a room with smoke, GET OUT and stay out. Crawl
+ low under smoke. Feel doors with the back of your hand; if hot, use another
+ way. Have two exits from every space in your plan.
+STARTING FIRE: gather tinder (dry, fluffy), kindling (pencil to thumb), fuel
+(bigger). Shelter the flame from wind, build small, add air, feed gradually.
+Keep a fire small, contained, and downwind of your shelter.
+
+=== 7. FIRST AID: LIFE THREATS FIRST ===
+Principle: fix what kills fastest, in order, and get to professional care as
+soon as possible. This manual gives principles and escalation, not doses.
+CHECK: Are they responsive? Breathing? Bleeding badly? Approach only if the
+scene is safe.
+NOT BREATHING / NO PULSE: start CPR. Push hard and fast in the center of the
+chest, about 100-120/min, ~5-6 cm deep, let it recoil; minimize pauses. If
+trained and willing, add rescue breaths; if not, hands-only is far better than
+nothing. Use an AED if available and follow its voice.
+CHOKING (cannot cough/speak/breathe): 5 firm back blows between shoulder blades,
+then 5 abdominal thrusts (inward-upward above the navel); alternate. Infant: 5
+back blows then 5 chest thrusts, head low. If they collapse, start CPR.
+SEVERE BLEEDING: press hard directly on the wound with cloth; keep pressing
+(10+ min) and add layers, do not peek. If a limb bleeds uncontrollably, apply a
+tourniquet 5-7 cm above the wound (not on a joint), tighten until bleeding
+stops, note the time, do not loosen. Pack deep wounds with cloth and press.
+SHOCK (pale, cold, clammy, fast weak pulse, confusion): lay flat, keep warm,
+reassure, treat causes (bleeding), sips of water only if fully alert and no
+belly injury. Escalate.
+BURNS: stop the burning; cool with clean cool (not ice) water 20 min; remove
+non-stuck jewelry/clothing; cover loosely clean/non-fluffy. Do not pop blisters
+or apply grease. Large, deep, airway, face, hands, genitals, or electrical/
+chemical burns: escalate urgently. Chemical: brush off dry powder, flush with
+water long.
+FRACTURES/SPRAINS: do not straighten obvious deformities; immobilize/splint in
+found position padding above and below the joint; check the limb stays warm and
+pink (circulation). Open fracture: cover wound, control bleeding, escalate.
+HEAD/SPINE injury: if suspected, keep them still, support the head in line, do
+not move unless in danger; watch breathing.
+UNCONSCIOUS but breathing: place on their side (recovery position) to protect
+the airway; monitor.
+MEDICATIONS: prefer principle over precise dosing you are unsure of. Do not
+guess unfamiliar drug doses. Keep chronic medicines going if you can; ration and
+protect insulin/inhalers/heart/seizure meds; seek resupply early. For pain/fever
+use only medicines the person already tolerates, at labeled adult/child doses;
+never exceed the label; avoid giving aspirin to children. When unsure, wait and
+escalate rather than risk harm.
+WOUND CARE over days: clean hands, irrigate with safe water, keep covered and
+dry, watch for infection (spreading redness, heat, pus, red streaks, fever) -
+infection is the slow killer; escalate for antibiotics if these appear.
+
+=== 8. ILLNESS, HYGIENE, SANITATION ===
+More people die after disasters from disease and dirty water than from the
+event. Hygiene is survival.
+HANDS: wash with soap and safe water before food/medical and after toilet/waste;
+use ash or sanitizer if no soap.
+HUMAN WASTE: keep it far (at least ~30 m / 100 ft and downhill) from water
+sources, kitchens, and living space. Options: existing toilet with manual
+flush (pour water), bucket toilet with lid and bags plus cover material
+(sawdust, soil, lime) to control smell and flies, or a cathole 15-20 cm deep
+buried after. Never contaminate drinking water.
+DIARRHEA/VOMITING is dangerous through dehydration, especially for kids and
+elders. Treat with frequent small sips of oral rehydration: roughly 6 level
+teaspoons sugar + half a level teaspoon salt in 1 liter safe water; keep giving.
+Escalate for bloody stool, high fever, severe dehydration (sunken eyes, no
+urine, lethargy).
+GARBAGE and bodies: separate and cover waste; manage the deceased with respect,
+away from water and food, documented, until authorities can respond.
+PESTS: control flies and mosquitoes (cover water, drain standing water, screens)
+- they spread disease.
+
+=== 9. POWER, LIGHT, FUEL ===
+Conserve first. Turn off nonessential loads. Protect the ability to charge a
+phone/radio.
+PHONE: dim screen, airplane mode when no signal, close apps, keep it warm, one
+device on at a time; text uses less power/bandwidth than calls.
+BATTERIES: keep spares; store cool; do not mix old/new or types; watch for
+leaks. Car battery + inverter can run small loads; do not drain the starting
+battery flat.
+GENERATORS: OUTSIDE only (see CO). Never backfeed into house wiring without a
+proper transfer switch - it can kill line workers and you. Refuel cold/off.
+FUEL: store approved containers, ventilated, away from living space and
+ignition; label and date; stabilize gasoline; keep clear of heat.
+LIGHT: headlamps free hands; ration; candles are a fire risk - never leave lit
+or near fabric/sleep.
+
+=== 10. COMMUNICATIONS AND SIGNALING ===
+Information and coordination save lives; so does being found.
+MONITOR: a battery/hand-crank/solar radio for official broadcasts (AM/FM,
+NOAA weather radio in the US). Follow official evacuation and boil-water orders.
+FAMILY PLAN: agree in advance on an out-of-area contact (often reachable when
+local lines are jammed), two meeting points (near home, outside neighborhood),
+and that TEXT often works when calls fail. Write numbers on paper.
+TWO-WAY RADIO: FRS/GMRS/CB for short range; set a channel and check-in times to
+save battery. Ham radio reaches far if licensed operators are present.
+SIGNAL FOR RESCUE: THREE of anything = distress (3 whistle blasts, 3 fires in a
+triangle, 3 flashes). A whistle beats your voice and lasts longer. Use a mirror/
+shiny object to flash aircraft. Make large ground signals with contrast: V =
+need assistance, X = need medical help, arrow = direction traveled. Keep a
+signal ready; you may get one chance.
+
+=== 11. STAY OR GO: EVACUATION AND NAVIGATION ===
+DECIDE deliberately. STAY if your shelter is safe, you have water/warmth, and
+leaving is more dangerous (e.g., told to shelter in place, or roads are deadly).
+GO if there is fire, flood, structural, gas, or violence threat, if officials
+order evacuation, or if staying means running out of water/heat with no resupply.
+BEFORE LEAVING: grab your go-bag, wear sturdy shoes and layers, fill water, tell
+someone your route and destination, leave a note (who, where, when, condition),
+shut off utilities if appropriate, take documents and medicines.
+ROUTES: prefer official routes; avoid flooded roads - "Turn Around, Don't Drown":
+even 15 cm of moving water can knock you down and 30 cm can float a car. Avoid
+low ground in floods, high open ground in lightning, and downwind of fire/chem.
+NAVIGATION: keep a paper map and compass. Sun rises roughly east, sets west; at
+solar noon shadows point away from the sun (toward true north in the northern
+hemisphere, south in the southern). Note landmarks; mark your trail; travel in
+daylight; do not travel exhausted or in whiteout.
+VEHICLE: keep the tank at least half full pre-crisis; carry water, blankets,
+jumper cables, basic tools; if stranded in cold, run engine only briefly and
+only with a clear exhaust and a cracked window (CO), stay with the vehicle - it
+is shelter and easier to find.
+
+=== 12. PEOPLE: GROUPS, SECURITY, VULNERABLE MEMBERS ===
+Cooperation outperforms isolation. Organize: shared tasks, clear decisions,
+fair rationing, and watch shifts. Calm leadership and routine reduce panic.
+SECURITY: lock/reinforce as reasonable; keep low profile (light/noise/odor
+discipline) if others may be hostile; avoid displaying supplies. De-escalate
+conflict; distance and negotiation beat confrontation. Protect children from
+hazards and from wandering.
+VULNERABLE MEMBERS: plan for infants (warmth, feeding, safe water), elders and
+the ill (medications, mobility, temperature), people with disabilities (assistive
+devices, communication needs), and pets (water, restraint, waste). Keep families
+together; assign a buddy to each dependent person.
+MENTAL HEALTH: expect fear, grief, and stress reactions; they are normal.
+Maintain routines, talk, share tasks, rest, and watch for despair or reckless
+behavior. Purpose and connection keep people alive.
+
+=== 13. DOCUMENTS, MONEY, RECORDS ===
+Keep waterproof copies (paper and/or offline digital) of ID, insurance, medical
+info and medication lists, contacts, property and financial records, and
+photos of home/valuables. Keep some cash in small bills - electronic payment
+may be down. Record decisions, injuries, and who went where; good records speed
+recovery, reunification, and aid/insurance claims.
+
+=== 14. SCENARIO QUICK-ACTIONS ===
+EARTHQUAKE: Drop, Cover, Hold On under sturdy furniture; stay away from windows;
+if in bed, stay and cover your head; do not run outside during shaking. After:
+check for injuries/gas/fire, expect aftershocks, get to open ground if the
+building is damaged.
+FIRE (structure/wildfire): get out and stay out; crawl low under smoke; wildfire
+- evacuate early, close windows, remove flammables near the house, wear
+non-synthetic clothing, go upwind/uphill away from the fire's path.
+FLOOD: move to higher ground before water rises; never walk/drive through
+floodwater; assume it is contaminated and electrified; boil-water rules after.
+TORNADO: go to a small interior room/basement on the lowest floor, cover your
+head and neck; a vehicle/mobile home is unsafe - get to sturdy shelter or lie
+in a low ditch as last resort.
+HURRICANE/CYCLONE: prepare days ahead, evacuate if told, shelter interior away
+from windows during the storm, beware the calm eye, expect flooding and long
+outages after.
+WINTER STORM: stay in, conserve heat to one room, prevent CO, layer, keep pipes
+from freezing (drip), watch for hypothermia.
+EXTREME HEAT: stay cool, hydrate, never leave people/pets in vehicles, check on
+elders, reduce activity to early/late hours.
+POWER OUTAGE: conserve phone, keep fridge/freezer closed, no generators indoors,
+watch for CO and food spoilage, check on neighbors.
+PANDEMIC/DISEASE: distance, hygiene, ventilate, isolate the sick, protect the
+vulnerable, follow official guidance.
+CHEMICAL/HAZMAT: move upwind and uphill, get inside and seal (shelter-in-place)
+or evacuate as ordered, remove and bag contaminated clothing, rinse skin/eyes
+with water.
+NUCLEAR/RADIATION or "dirty" event: get inside a sturdy building, go to the
+center/basement, stay for at least 24 h unless told otherwise (Get Inside, Stay
+Inside, Stay Tuned), remove outer clothing and wash to remove fallout.
+
+=== 15. LONGER-TERM RECOVERY ===
+When immediate threats pass, shift from surviving to sustaining.
+WATER: secure a renewable source (rain catchment off clean roofs, protected
+well/spring) plus ongoing disinfection and safe storage.
+FOOD: transition to production - garden from saved seed, preserve harvests
+(drying, salting, fermenting, canning if equipped), and protect stores from
+pests and damp. Learn a few reliable local calorie crops.
+SHELTER/ENERGY: weatherproof and repair; add insulation; develop safe heating/
+cooking with proper ventilation; small solar/wind if available.
+HEALTH: maintain sanitation discipline, wound care, and medication supply;
+build a simple sick-care routine and isolation plan.
+COMMUNITY: pool skills and labor, trade fairly, share knowledge, care for the
+vulnerable, and rebuild governance and routine. Skills, tools, seeds, and
+trust are the real long-term wealth. Teach others; redundancy of knowledge is
+survival.
+
+=== 16. KITS AND CHECKLISTS ===
+GO-BAG (per person, grab-and-run): water + filter/tablets, high-calorie food,
+weather-appropriate clothing and rain shell, emergency blanket, sturdy shoes,
+flashlight/headlamp + batteries, whistle, multitool/knife, lighter/matches +
+tinder, first-aid basics, personal medications, N95/dust mask, gloves, phone +
+backup battery, paper map, cash, copies of documents, hygiene items, duct tape,
+cordage, and a written contact/plan card.
+HOME (shelter-in-place): 2 weeks water (or the means to disinfect), 2+ weeks
+food, sanitation supplies (bags, cover material, lime), battery/crank radio,
+CO alarm, fire extinguisher, extended first aid and medications, tools to shut
+off utilities, lighting and fuel stored safely, warm bedding.
+SKILLS beat gear: water disinfection, fire, first aid/CPR, navigation, basic
+repair, food preservation, and calm decision-making. Practice before you need
+them. Review and rotate supplies on a schedule.
+
+REMEMBER: protect life first, then capability. Fix the fastest killer in front
+of you, avoid becoming a casualty, keep your people together, and get to real
+help as soon as it exists. Three of anything means help.
+
+
+==================== REPOSITORY REFERENCE LAYER (lower tier) ====================
+
+[src: README.md]
+# Emergency Preparedness Knowledge Base (V3)
+
+[src: README.md]
+Single combined knowledge base for the Emergency Preparedness System. Search and indexing use this entire tree.
+
+[src: README.md]
+| Path | Contents |
+|------|----------|
+| **scenario_specific_plans/** | Earthquake, power failure, winter storm, flood, hurricane, tornado, extreme heat, tsunami, landslide, pandemic, active shooter, commuter emergency plan |
+| **water_and_food/** | Urban water guide, urban food guide |
+| **medicine/** | Advanced first aid, sprains and pain, first aid CPR sources |
+| **evacuation/** | Bug-out bag guide |
+| **communications/** | Communications guide |
+| **power_and_energy/** | Power and energy guide |
+| **security/** | Security guide |
+| **sanitation_and_hygiene/** | Sanitation and hygiene guide |
+| **psychology_and_community/** | Psychology and community guide |
+| **long_term_sustainability/** | 6-month supply planning, community resilience, local food production, financial preparedness |
+| **modern_threats/** | Cyber (offline backup, manual operations), EMP (Faraday cage), nuclear (radiation detection) |
+| **barter_and_trade/** | Barter and trade guide |
+| **home_repair/** | Home repair guide |
+| **reference/** | REFERENCE_DOCUMENTS.md (catalog of Ready.gov, FEMA, CDC, CISA links) |
+| **vulnerable_people/** | Vulnerable people guide |
+| **advanced_skills/** | Essential knots guide |
+
+[src: README.md]
+## Scenario Plans (scenario_specific_plans/)
+
+[src: README.md]
+- `earthquake_plan.md`
+- `power_failure_plan.md`
+- `winter_storm_preparedness.md`
+- `flood_safety.md`
+- `hurricane_preparedness.md`
+- `tornado_preparedness.md`
+- `extreme_heat_preparedness.md`
+- `tsunami_preparedness.md`
+- `landslide_preparedness.md`
+- `pandemic_preparedness.md`
+- `active_shooter_response.md`
+- `commuter_emergency_plan.md`
+
+[src: README.md]
+- `reference/REFERENCE_DOCUMENTS.md` - Catalog of free PDFs and official links (Ready.gov, FEMA, CDC, CISA, NOAA)
+
+[src: README.md]
+- **~40** guides and PDFs (traditional + modern threats + long-term + scenario plans + reference).
+
+[src: README.md]
+- `knowledge_base_search.py` and `build_knowledge_base.py` (optional vector store) index all `.md` and `.pdf` under this directory. Keep one canonical copy of each file; do not split back into separate base vs v2 trees.
+
+[src: power_and_energy/power_and_energy_guide.md]
+This guide covers the essentials of backup power solutions and managing your energy consumption during a power outage.
+
+[src: power_and_energy/power_and_energy_guide.md]
+Having a way to generate your own electricity is a major advantage in a disaster. Here are the most common options, from simplest to most complex.
+
+[src: power_and_energy/power_and_energy_guide.md]
+* **What they are:** Small, portable batteries for charging phones, tablets, and other USB-powered devices.
+* **Pros:** Inexpensive, easy to use, portable.
+* **Cons:** Limited capacity. They won't power large appliances.
+* **Best For:** Keeping your communication devices charged.
+
+[src: power_and_energy/power_and_energy_guide.md]
+### Tier 2: Portable Power Stations (Solar Generators)
+
+[src: power_and_energy/power_and_energy_guide.md]
+* **What they are:** Large, rechargeable battery packs with multiple outlets (AC, DC, USB). They can be recharged via a wall outlet, a car, or solar panels.
+* **Pros:** Silent, no fumes (safe for indoor use), multiple charging options.
+* **Cons:** More expensive than power banks, limited capacity (you can't run a refrigerator for days on end).
+* **Best For:** Running small, essential devices like a laptop, a CPAP machine, or a few lights.
+
+[src: power_and_energy/power_and_energy_guide.md]
+* **What they are:** The traditional solution for backup power.
+* **Pros:** Powerful (can run large appliances like refrigerators and freezers), relatively inexpensive for the amount of power they provide.
+* **Cons:** **NEVER USE INDOORS.** They produce deadly carbon monoxide. They are loud, require a steady supply of gasoline (which can be hard to find in a disaster), and require regular maintenance.
+* **Best For:** Powering essential large appliances.
+
+[src: power_and_energy/power_and_energy_guide.md]
+### Tier 4: Whole-Home Generators / Solar with Battery Backup
+
+[src: power_and_energy/power_and_energy_guide.md]
+* **What they are:** Professionally installed systems that can power your entire home.
+* **Pros:** Seamless, automatic power. High capacity.
+* **Cons:** Very expensive.
+* **Best For:** Long-term, whole-home power solutions.
+
+[src: power_and_energy/power_and_energy_guide.md]
+During an outage, you need to be strategic about your energy use. Your goal is to make your stored power last as long as possible.
+
+[src: power_and_energy/power_and_energy_guide.md]
+* **Know Your Needs:** Before a disaster, figure out which of your devices are essential. Make a list of their power requirements (in watts).
+* **Turn Things Off:** Unplug any device you are not actively using. Even in standby mode, many electronics draw a small amount of power (this is called a "phantom load").
+* **Use Manual Alternatives:** Use a hand-crank can opener instead of an electric one. Use a manual coffee grinder. Look for non-electric alternatives for your daily tasks.
+* **Lighting:** Use flashlights, headlamps, or solar-powered lanterns for light. Avoid using the lights in your home, as they are a significant power drain.
+* **Heating and Cooling:** Your home's heating and cooling systems are likely your biggest energy consumers. Do not attempt to run them on a portable generator. For warmth, focus on heating a single, small room and use blankets and warm clothing. For cooling, use passive methods like opening windows at night and closing them during the day.
+
+[src: power_and_energy/power_and_energy_guide.md]
+By having a modest backup power solution and being mindful of your energy consumption, you can maintain a degree of normalcy and safety during a power outage.
+
+[src: barter_and_trade/barter_and_trade_guide.md]
+When the cash economy fails, commerce doesn't stop. It reverts to its oldest form: barter. This guide covers the basics of a barter economy and how to trade effectively.
+
+[src: barter_and_trade/barter_and_trade_guide.md]
+Not all items are created equal. In a post-disaster economy, value is determined by immediate need and scarcity.
+
+[src: barter_and_trade/barter_and_trade_guide.md]
+### Tier 1: The Essentials (The "Vices")
+
+[src: barter_and_trade/barter_and_trade_guide.md]
+These are small, highly desirable items that are consumed and have an immediate impact on morale and comfort. They are the most liquid and widely accepted barter items.
+
+[src: barter_and_trade/barter_and_trade_guide.md]
+* **Caffeine:** Instant coffee, tea bags.
+* **Nicotine:** Cigarettes, cigars, vape juice.
+* **Alcohol:** Small, sealed bottles of liquor (like airline bottles).
+* **Sugar:** Hard candy, chocolate.
+
+[src: barter_and_trade/barter_and_trade_guide.md]
+### Tier 2: Consumables & Practical Items
+
+[src: barter_and_trade/barter_and_trade_guide.md]
+These are items that people will always need.
+
+[src: barter_and_trade/barter_and_trade_guide.md]
+* **Food:** Canned goods, rice, beans, flour.
+* **Water Purification:** Bleach, purification tablets, spare filters.
+* **Hygiene:** Soap, toothpaste, toilet paper, feminine hygiene products.
+* **Fuel:** Propane canisters, butane, lamp oil, firewood.
+* **Batteries:** All common sizes (AA, AAA, C, D).
+* **First Aid:** Bandages, antiseptic wipes, pain relievers.
+
+[src: barter_and_trade/barter_and_trade_guide.md]
+Your knowledge and abilities are some of the most valuable things you can trade.
+
+[src: barter_and_trade/barter_and_trade_guide.md]
+* **Medical:** First aid, dental care.
+* **Mechanical:** Small engine repair, vehicle maintenance.
+* **Security:** Standing watch, security consulting.
+* **Technical:** Radio repair, gunsmithing.
+* **Domestic:** Sewing, cooking, childcare.
+
+[src: barter_and_trade/barter_and_trade_guide.md]
+These are less liquid, but can be traded for high-value returns.
+
+[src: barter_and_trade/barter_and_trade_guide.md]
+* **Precious Metals:** Gold and silver may retain value, but they are not useful for immediate needs.
+* **Tools:** A good set of tools will always be valuable.
+* **Weapons & Ammunition:** These have obvious value, but trading them carries significant risk.
+
+[src: barter_and_trade/barter_and_trade_guide.md]
+* **Start Small:** Don't start with large, high-value trades. Build trust with small transactions first.
+* **Don't Trade at Home:** If possible, meet in a neutral, public location.
+* **Bring a Friend:** There is safety in numbers. Never trade alone.
+* **Don't Flash Your Stash:** Never reveal the full extent of your supplies. Only bring what you are willing to trade.
+* **Inspect the Goods:** Make sure you are getting what you bargained for before you complete the trade.
+* **Know When to Walk Away:** If a trade feels wrong, it probably is. Trust your gut and walk away.
+
+[src: barter_and_trade/barter_and_trade_guide.md]
+By understanding what is valuable and how to trade safely, you can navigate a barter economy and get the supplies you need.
+
+[src: home_repair/home_repair_guide.md]
+This guide covers the most critical first steps for securing your home and preventing further damage after a disaster.
+
+[src: home_repair/home_repair_guide.md]
+## 1. Safety First: When in Doubt, Get Out
+
+[src: home_repair/home_repair_guide.md]
+Before you even think about repairs, assess the structural safety of your home.
+
+[src: home_repair/home_repair_guide.md]
+* **Look for:**
+ * Large cracks in the foundation or walls.
+ * Sagging ceilings or roof.
+ * The smell of gas or burning insulation.
+* If you see any of these signs, **do not enter**. Have the home inspected by a professional when it is safe to do so.
+
+[src: home_repair/home_repair_guide.md]
+Knowing how to shut off your utilities is one of the most important post-disaster skills.
+
+[src: home_repair/home_repair_guide.md]
+* **When to Shut it Off:** If you see sparks, frayed wires, the smell of burning insulation, or if your home has been flooded.
+* **How to Shut it Off:**
+ 1. Locate your main electrical panel (usually in the garage, basement, or an outside closet).
+ 2. Turn off all the individual circuit breakers first.
+ 3. Flip the main breaker (the large one at the top) to the "Off" position.
+
+[src: home_repair/home_repair_guide.md]
+* **When to Shut it Off:** **Only if you smell gas, hear a hissing sound, or see a broken gas line.**
+* **How to Shut it Off:**
+ 1. Locate your gas meter on the exterior of your house.
+ 2. Use a crescent wrench or a specialized gas shut-off tool to turn the valve a quarter turn until it is perpendicular to the pipe.
+ 3. **NEVER** attempt to turn the gas back on yourself. This must be done by a qualified professional.
+
+[src: home_repair/home_repair_guide.md]
+* **When to Shut it Off:** If you have a burst pipe or if local authorities have issued a boil water alert.
+* **How to Shut it Off:**
+ 1. Locate your home's main water shut-off valve. This is usually where the main water pipe enters your house, often in a basement or on an exterior wall.
+ 2. Turn the valve clockwise to close it.
+
+[src: home_repair/home_repair_guide.md]
+* **Board Up Windows:** Use plywood or other sturdy material to cover broken windows. This will protect your home from the elements and from intruders.
+* **Tarp Your Roof:** If your roof is damaged, a securely fastened tarp can prevent water from getting into your home.
+* **Document Everything:** Before you make any repairs, take photos and videos of all the damage for your insurance claim.
+
+[src: home_repair/home_repair_guide.md]
+This guide covers the immediate, critical steps. For more complex repairs, always consult a professional when it is safe to do so.
+
+[src: psychology_and_community/psychology_and_community_guide.md]
+This guide covers the mental aspects of survival and the practical steps for building a community to weather a crisis.
+
+[src: psychology_and_community/psychology_and_community_guide.md]
+## 1. The Psychology of Survival: The Rule of Threes
+
+[src: psychology_and_community/psychology_and_community_guide.md]
+The most important survival tool is your mind. A common saying in survival training is the "Rule of Threes":
+
+[src: psychology_and_community/psychology_and_community_guide.md]
+* You can survive **3 minutes** without air.
+* You can survive **3 hours** without shelter in a harsh environment.
+* You can survive **3 days** without water.
+* You can survive **3 weeks** without food.
+
+[src: psychology_and_community/psychology_and_community_guide.md]
+This rule highlights the priorities. But underlying all of it is the will to live. Without a positive mental attitude and the will to survive, all the skills and supplies in the world are useless.
+
+[src: psychology_and_community/psychology_and_community_guide.md]
+* **Acceptance:** Accept the reality of the situation. Denial is a dangerous waste of time.
+* **Positivity:** Maintain a positive but realistic outlook. Hope is a powerful motivator.
+* **Focus:** Concentrate on what you can do *right now* to improve your situation. Don't get lost in long-term worries.
+* **Calmness:** Panic leads to bad decisions. When you feel overwhelmed, stop, take a deep breath, and think before you act.
+
+[src: psychology_and_community/psychology_and_community_guide.md]
+In a long-term urban disaster, the lone wolf is a myth. The single most important factor for survival is a strong, cohesive group. A Mutual Assistance Group (MAG) is a pre-planned community of like-minded individuals who agree to pool their resources and skills in an emergency.
+
+[src: psychology_and_community/psychology_and_community_guide.md]
+* **Security:** There is safety in numbers. A group is a much harder target for desperate people.
+* **Shared Resources:** No one person can have all the skills and supplies needed. A group allows for specialization (e.g., one person is a medic, another is a mechanic, another is a gardener).
+* **Shared Workload:** Many hands make light work. A group can share the burden of tasks like standing watch, purifying water, and caring for the sick.
+* **Psychological Support:** A group provides a sense of belonging and shared purpose, which is critical for long-term morale.
+
+[src: psychology_and_community/psychology_and_community_guide.md]
+1. **Start with Your Inner Circle:** Begin with trusted family and close friends.
+2. **Expand to Your Neighborhood:** Get to know your neighbors *before* a disaster. Identify those who are reliable and have useful skills.
+3. **Discuss Expectations:** Have an open and honest conversation about what each member is expected to contribute. This includes skills, supplies, and time.
+4. **Create a Plan:** Develop a simple, written plan that outlines your group's goals, communication methods, and meeting places.
+5. **Practice Together:** Conduct drills and practice your plan. This will build trust and identify weaknesses in your plan before a real emergency.
+
+[src: psychology_and_community/psychology_and_community_guide.md]
+Building a strong community is the ultimate preparedness strategy. Start today by getting to know your neighbors.
+
+[src: communications/communications_guide.md]
+When a disaster strikes, communication networks are often the first casualty. This guide covers how to create a family communication plan and the basics of using radios to stay connected.
+
+[src: communications/communications_guide.md]
+## 1. Family Emergency Communication Plan
+
+[src: communications/communications_guide.md]
+A simple, clear plan is essential for reconnecting with loved ones.
+
+[src: communications/communications_guide.md]
+* **Contact Information:**
+ * Create a physical, waterproof list of all important phone numbers. Don't rely on your phone's contact list.
+ * Include an **Out-of-Town Contact**. It is often easier to make long-distance calls than local ones during a regional disaster. This person can act as a central point of contact for your family.
+* **Meeting Places:** Designate three specific locations:
+ 1. **Neighborhood Meeting Place:** A safe spot near your home (e.g., a specific tree, a neighbor's porch).
+ 2. **Regional Meeting Place:** A location outside your immediate neighborhood, in case you can't get home (e.g., a library, a friend's house).
+ 3. **Out-of-Town Meeting Place:** A location in another city or state, in case of a large-scale evacuation.
+* **Communication Methods:**
+ * **Text Messages First:** Text messages (SMS) often get through when voice calls fail because they use less network bandwidth.
+ * **If You Must Call:** Keep calls brief to conserve your phone's battery and free up the network for others.
+* **Practice the Plan:** Run through your plan with your family. Make sure everyone knows the meeting places and has the contact information.
+
+[src: communications/communications_guide.md]
+**Action Item:** Fill out a family communication plan. You can find excellent, free templates online from sources like Ready.gov.
+
+[src: communications/communications_guide.md]
+When cell phones and the internet are down, radios are your best bet for staying in touch.
+
+[src: communications/communications_guide.md]
+* **FRS (Family Radio Service):**
+ * **License:** None required.
+ * **Power:** Low power (max 2 watts).
+ * **Range:** Short-range (typically 0.5 to 2 miles).
+ * **Best For:** Communicating with family members within a small area (e.g., your neighborhood).
+ * **Notes:** These are the common "walkie-talkies" you can buy in most stores. They are simple to use and a great starting point.
+
+[src: communications/communications_guide.md]
+* **GMRS (General Mobile Radio Service):**
+ * **License:** Required (one license covers your entire immediate family, no test required).
+ * **Power:** Higher power (up to 50 watts).
+ * **Range:** Medium-range (typically 5 to 25 miles).
+ * **Best For:** Communicating over longer distances, like across a town.
+ * **Notes:** GMRS radios can use repeaters, which can significantly extend their range.
+
+[src: communications/communications_guide.md]
+* **Ham Radio (Amateur Radio):**
+ * **License:** Required (must pass a test).
+ * **Power:** High power.
+ * **Range:** Long-range (can be global).
+ * **Best For:** Communicating over very long distances, and for hobbyists who want to be part of a larger community.
+ * **Notes:** Ham radio is the most powerful and versatile option, but it also has the highest barrier to entry.
+
+[src: communications/communications_guide.md]
+* **Listen First:** Before you transmit, listen to make sure the channel is clear.
+* **Keep it Brief:** Be concise and to the point.
+* **Identify Yourself:** Use your call sign (for GMRS and Ham) or a nickname.
+* **Speak Clearly:** Use plain language. Avoid jargon.
+
+[src: communications/communications_guide.md]
+By having a solid family communication plan and a set of two-way radios, you can dramatically improve your ability to stay connected and informed during an emergency.
+
+[src: communications/communications_guide.md]
+**See also:** [REFERENCE_DOCUMENTS.md](../reference/REFERENCE_DOCUMENTS.md) for Ready.gov templates and emergency resources.
+
+[src: evacuation/bug_out_bag_guide.md]
+This guide provides a comprehensive checklist for building a "bug-out bag" (also known as a Go Bag or 72-hour kit) tailored for an urban environment.
+
+[src: evacuation/bug_out_bag_guide.md]
+* **Discretion:** Your bag should not look "tactical." Use a common, nondescript backpack (like one a student or commuter would carry) to avoid drawing unwanted attention.
+* **Mobility:** You should be able to carry this bag comfortably for several miles. A general rule is that your bag should not weigh more than 25% of your body weight.
+* **Modularity:** Organize your supplies in smaller pouches or bags within your main backpack. This makes it easy to find what you need without unpacking everything.
+
+[src: evacuation/bug_out_bag_guide.md]
+* [ ] Water (1 liter per person, minimum)
+* [ ] Water Filter (e.g., Sawyer Mini, Lifestraw)
+* [ ] Water Purification Tablets
+* [ ] Metal Water Bottle (can be used to boil water)
+
+[src: evacuation/bug_out_bag_guide.md]
+* [ ] High-Calorie Energy Bars (3 days worth)
+* [ ] Dehydrated Meals
+* [ ] Spork or other utensil
+
+[src: evacuation/bug_out_bag_guide.md]
+* [ ] Emergency Bivvy or Space Blanket
+* [ ] Tarp with Grommets
+* [ ] Wool Blanket
+* [ ] Change of Clothes (in a waterproof bag)
+* [ ] Rain Poncho
+
+[src: evacuation/bug_out_bag_guide.md]
+* [ ] Individual First Aid Kit (IFAK)
+* [ ] Prescription Medications (7-day supply)
+* [ ] Pain Relievers
+* [ ] Hand Sanitizer
+* [ ] Toilet Paper (remove the cardboard tube to save space)
+* [ ] Wet Wipes
+* [ ] Toothbrush and Toothpaste
+
+[src: evacuation/bug_out_bag_guide.md]
+* [ ] Multi-tool
+* [ ] Fixed-Blade Knife
+* [ ] Headlamp with Extra Batteries
+* [ ] Lighter and Ferro Rod
+* [ ] Duct Tape (wrap 10 feet around your water bottle)
+* [ ] Work Gloves
+* [ ] N95/P100 Dust Masks
+
+[src: evacuation/bug_out_bag_guide.md]
+* [ ] Hand-Crank Emergency Radio (NOAA weather alerts)
+* [ ] Power Bank for your phone
+* [ ] Whistle
+* [ ] Paper Map of Your City and State
+* [ ] Compass
+
+[src: evacuation/bug_out_bag_guide.md]
+* [ ] Cash (small bills)
+* [ ] Copies of Important Documents (in a waterproof bag):
+ * [ ] ID / Passport
+ * [ ] Birth Certificates
+ * [ ] Social Security Cards
+ * [ ] Insurance Policies
+ * [ ] Deeds / Titles
+
+[src: evacuation/bug_out_bag_guide.md]
+**Action Item:** Build this bag *before* you need it. Check and rotate the supplies (especially food, water, and batteries) every six months.
+
+[src: advanced_skills/essential_knots_guide.md]
+This guide covers the most important knots for survival, rescue, and general utility. Knowing how to tie these few knots can solve a huge range of problems.
+
+[src: advanced_skills/essential_knots_guide.md]
+## The Core Four: Knots for Joining and Securing
+
+[src: advanced_skills/essential_knots_guide.md]
+These are the foundational knots that you will use most often.
+
+[src: advanced_skills/essential_knots_guide.md]
+1. **Bowline:**
+ * **What it does:** Creates a fixed loop at the end of a rope that will not slip or tighten.
+ * **Primary Use:** Rescue. You can tie it around yourself or someone else for hoisting to safety.
+ * **Mnemonic:** "The rabbit comes out of the hole, around the tree, and back into the hole."
+
+[src: advanced_skills/essential_knots_guide.md]
+2. **Clove Hitch:**
+ * **What it does:** Secures a rope to a post, tree, or other object.
+ * **Primary Use:** Quickly attaching a rope to something. Useful for setting up shelters or securing gear.
+
+[src: advanced_skills/essential_knots_guide.md]
+3. **Sheet Bend:**
+ * **What it does:** Joins two ropes together, even if they are of different thicknesses.
+ * **Primary Use:** Making a longer rope from two shorter ones.
+
+[src: advanced_skills/essential_knots_guide.md]
+4. **Figure-Eight Follow Through:**
+ * **What it does:** Creates a very strong, secure loop at the end of a rope.
+ * **Primary Use:** Climbing and rescue. It is the standard knot for tying into a harness.
+
+[src: advanced_skills/essential_knots_guide.md]
+These knots have more specific, but very important, uses.
+
+[src: advanced_skills/essential_knots_guide.md]
+* **Double Fisherman's Knot:**
+ * **What it does:** A very strong knot for joining two ropes of similar size.
+ * **Primary Use:** Creating a rope loop (prussik loop) or for situations where the knot must not fail.
+
+[src: advanced_skills/essential_knots_guide.md]
+* **Prusik Knot:**
+ * **What it does:** A friction hitch that can grip a rope. It will slide when not weighted, but will grip tightly when a load is applied.
+ * **Primary Use:** Ascending a rope, or as a "progress capture" device in a hauling system.
+
+[src: advanced_skills/essential_knots_guide.md]
+* **Water Knot (Tape Knot):**
+ * **What it does:** Joins two pieces of flat webbing together.
+ * **Primary Use:** Creating slings or anchor points from webbing.
+
+[src: advanced_skills/essential_knots_guide.md]
+Reading about knots is one thing, but you must practice them to learn them. Here are some excellent resources with visual guides:
+
+[src: advanced_skills/essential_knots_guide.md]
+* **Animated Knots by Grog:** [
+* **NetKnots:** [
+
+[src: advanced_skills/essential_knots_guide.md]
+**Action Item:** Choose one knot from the core four each week and practice tying it until you can do it with your eyes closed.
+
+[src: reference/REFERENCE_DOCUMENTS.md]
+A catalog of free preparedness and emergency reference materials. Links are to official sources; verify URLs and licensing before distribution.
+
+[src: reference/REFERENCE_DOCUMENTS.md]
+| Document | Source | Link/Notes |
+|----------|--------|------------|
+| Are You Ready? | FEMA | [fema.gov/are-you-ready-guide]( - Comprehensive preparedness guide |
+| Ready.gov | DHS | [ready.gov]( - Hazard-specific checklists and guides |
+| Emergency Supply List | Ready.gov | [ready.gov/kit]( - Basic emergency kit contents |
+| Flood Maps | FEMA | [msc.fema.gov]( - Flood map service center |
+| NOAA Weather Radio | NOAA | [weather.gov/nwr]( - All-hazards radio information |
+
+[src: reference/REFERENCE_DOCUMENTS.md]
+| Hazard | Source | Notes |
+|--------|--------|------|
+| Earthquakes | USGS | [usgs.gov/natural-hazards/earthquake-hazards]( |
+| Floods | FEMA/FloodSmart | [floodsmart.gov]( |
+| Hurricanes | NOAA | [noaa.gov/hurricane-preparedness]( |
+| Tornadoes | NOAA/NWS | [weather.gov/safety/tornado]( |
+| Wildfires | Ready.gov | [ready.gov/wildfires]( |
+| Extreme Heat | CDC | [cdc.gov/disasters/extremeheat]( |
+| Pandemics | CDC | [cdc.gov/flu/pandemic-resources]( |
+
+[src: reference/REFERENCE_DOCUMENTS.md]
+| Resource | Source |
+|----------|--------|
+| First Aid | Red Cross - [redcross.org/first-aid]( |
+| CPR/AED | American Heart Association - [cpr.heart.org]( |
+| Stop the Bleed | [stopthebleed.org]( |
+
+[src: reference/REFERENCE_DOCUMENTS.md]
+| Resource | Source |
+|----------|--------|
+| CISA Resources | [cisa.gov/uscert]( - Cybersecurity guidance |
+| Power Outage Tips | Ready.gov - [ready.gov/power-outages]( |
+
+[src: reference/REFERENCE_DOCUMENTS.md]
+* Check your state emergency management agency and county/city emergency services for local plans, evacuation routes, and shelter information.
+* Sign up for wireless emergency alerts (WEA) and local alert systems.
+
+[src: reference/REFERENCE_DOCUMENTS.md]
+* [scenario_specific_plans/](../scenario_specific_plans/) - Scenario-specific guides with before/during/after steps
+* [long_term_sustainability/financial_preparedness.md](../long_term_sustainability/financial_preparedness.md)
+* [medicine/first_aid_cpr_sources.md](../medicine/first_aid_cpr_sources.md)
+
+[src: security/security_guide.md]
+This guide provides actionable steps to enhance your home security and personal safety before, during, and after a disaster.
+
+[src: security/security_guide.md]
+## 1. Home Security: Hardening Your Castle
+
+[src: security/security_guide.md]
+Your goal is to make your home a less attractive target and more resilient to damage.
+
+[src: security/security_guide.md]
+* **Reinforce Entry Points:**
+ * **Doors:** Install heavy-duty deadbolts. Use longer screws (3 inches) for the strike plates so they anchor into the door frame itself, not just the trim.
+ * **Windows:** Apply security film to your windows. This makes them harder to break and can prevent shattering. For ground-floor windows, consider installing locks or grilles.
+ * **Sliding Doors:** Place a strong bar (like a cut broom handle) in the track to prevent it from being forced open.
+* **Control Your Environment:**
+ * **Lighting:** Install motion-sensor lights around the exterior of your home.
+ * **Landscaping:** Trim bushes and trees near windows and doors to eliminate hiding spots.
+ * **Fencing:** A good fence is a significant deterrent.
+* **Know Your Utilities:**
+ * Know the location of your main shut-offs for gas, water, and electricity.
+ * Keep the necessary tools (like a wrench for the gas meter) permanently stored next to the shut-offs.
+
+[src: security/security_guide.md]
+* **Shelter in Place:** If you are staying home, stay in an interior room away from windows.
+* **Low Profile:** Keep lights low and noise to a minimum, especially at night. You don't want to advertise that you have power or supplies when others don't.
+* **Evacuation:** If you must evacuate, lock your home. Turn off utilities only if you suspect damage or if instructed to by authorities.
+
+[src: security/security_guide.md]
+## 2. Personal Safety & Situational Awareness
+
+[src: security/security_guide.md]
+Your most important safety tool is your brain. Pay attention to your surroundings.
+
+[src: security/security_guide.md]
+* **Avoidance:** The best way to win a dangerous encounter is to not be in it in the first place. If a situation feels wrong, it probably is. Leave immediately.
+* **Gray Man Theory:** In a chaotic situation, your goal is to be uninteresting and unmemorable. Avoid wearing expensive clothes or flashy gear. Blend in.
+* **Trust Your Gut:** Intuition is your subconscious mind recognizing that something is wrong. Don't ignore that feeling.
+* **Travel in Groups:** There is safety in numbers. Avoid traveling alone, especially at night.
+
+[src: security/security_guide.md]
+* **Plan Your Routes:** Know multiple ways to get to and from important locations. If one route is blocked, you need an alternative.
+* **Vary Your Routine:** Don't be predictable. If you follow the same route at the same time every day, you make yourself an easy target.
+* **Stay Informed:** Use a battery-powered or hand-crank radio to monitor local news and emergency broadcasts.
+* **De-escalation:** If you are confronted, try to de-escalate the situation verbally. Comply with demands if your life is at risk. Your possessions are not worth your life.
+
+[src: security/security_guide.md]
+By taking these steps, you can significantly improve your security and safety in a chaotic urban environment.
+
+[src: modern_threats/nuclear/radiation_detection_equipment.md]
+## Overview
+Radiation detection is critical for nuclear emergency response. You cannot see, smell, taste, or feel ionizing radiation - only proper instruments can detect it. This guide covers essential detection equipment for family preparedness.
+
+[src: modern_threats/nuclear/radiation_detection_equipment.md]
+### **Geiger Counter (Survey Meter)**
+**Best for: General radiation detection and monitoring**
+
+[src: modern_threats/nuclear/radiation_detection_equipment.md]
+#### **How It Works**
+- Detects gamma and beta radiation
+- Produces audible clicks for radiation events
+- Displays readings in counts per minute (CPM) or dose rate
+
+[src: modern_threats/nuclear/radiation_detection_equipment.md]
+#### **Recommended Models**
+| Model | Price | Sensitivity | Best For |
+|-------|-------|-------------|----------|
+| RadAlert 100 | $150 | High | Basic monitoring |
+| Inspector Alert | $600 | Very High | Alpha/beta/gamma |
+| Digilert 100 | $350 | High | Digital accuracy |
+
+[src: modern_threats/nuclear/radiation_detection_equipment.md]
+### **Dosimeter**
+**Best for: Personal radiation exposure tracking**
+
+[src: modern_threats/nuclear/radiation_detection_equipment.md]
+#### **Types**
+- **Film badge** - Develops based on exposure
+- **TLD** - Thermoluminescent dosimeter
+- **Electronic** - Real-time dose display
+- **Pen dosimeter** - Pocket-sized, immediate reading
+
+[src: modern_threats/nuclear/radiation_detection_equipment.md]
+#### **Key Features**
+- Measures cumulative dose over time
+- Shows total exposure in mSv or mrem
+- Essential for tracking safe exposure limits
+
+[src: modern_threats/nuclear/radiation_detection_equipment.md]
+### **Radiation Spectrometer**
+**Best for: Identifying specific radioactive materials**
+
+[src: modern_threats/nuclear/radiation_detection_equipment.md]
+#### **Capabilities**
+- Identifies gamma-emitting isotopes
+- Shows energy spectrum
+- Helps determine contamination source
+- Professional-grade analysis
+
+[src: modern_threats/nuclear/radiation_detection_equipment.md]
+### **Family Emergency Kit ($200-400)**
+**Minimum Protection Setup**
+
+[src: modern_threats/nuclear/radiation_detection_equipment.md]
+#### **Essential Items**
+- [ ] **Basic Geiger Counter** ($150-250)
+ - RadAlert 100 or similar
+ - Detects gamma and beta radiation
+ - Battery life 2000+ hours
+ - Audio and visual alerts
+
+[src: modern_threats/nuclear/radiation_detection_equipment.md]
+- [ ] **Personal Dosimeters** ($25 each)
+ - One per family member
+ - Pen-type for immediate reading
+ - Track cumulative exposure
+
+[src: modern_threats/nuclear/radiation_detection_equipment.md]
+- [ ] **Calibration Check Source** ($40-60)
+ - Thorium mantle or similar
+ - Verify detector operation
+ - Required for confidence in readings
+
+[src: modern_threats/nuclear/radiation_detection_equipment.md]
+#### **Support Items**
+- [ ] Spare batteries (appropriate type)
+- [ ] Carrying case (protective)
+- [ ] Detection log book
+- [ ] Quick reference cards
+
+[src: modern_threats/nuclear/radiation_detection_equipment.md]
+### **Enhanced Protection Kit ($400-800)**
+**Comprehensive Detection Capability**
+
+[src: modern_threats/nuclear/radiation_detection_equipment.md]
+#### **Primary Detector**
+- [ ] **Multi-sensor Geiger Counter** ($400-600)
+ - Inspector Alert or equivalent
+ - Alpha, beta, gamma detection
+ - Digital display with dose rate
+ - Data logging capability
+
+[src: modern_threats/nuclear/radiation_detection_equipment.md]
+#### **Secondary Systems**
+- [ ] **Digital Personal Dosimeter** ($150-300)
+ - Real-time dose rate and cumulative
+ - Alarm settings for exposure limits
+ - Rechargeable battery
+
+[src: modern_threats/nuclear/radiation_detection_equipment.md]
+- [ ] **Air Particulate Monitor** ($200-400)
+ - Detects airborne contamination
+ - Critical for inhalation hazards
+ - Filter collection system
+
+[src: modern_threats/nuclear/radiation_detection_equipment.md]
+### **Professional Kit ($800-2000+)**
+**Complete Detection Suite**
+
+[src: modern_threats/nuclear/radiation_detection_equipment.md]
+- [ ] **Gamma Spectrometer** ($1000-3000)
+- [ ] **Neutron Detector** ($500-1000)
+- [ ] **Surface Contamination Meter** ($400-800)
+- [ ] **Multiple Personal Dosimeters** ($200-500)
+
+[src: modern_threats/nuclear/radiation_detection_equipment.md]
+### **Radiation Units**
+| Unit | Measures | Conversion |
+|------|----------|------------|
+| **CPM** | Counts per minute | Detector clicks |
+| **mR/hr** | Milliroentgen per hour | Exposure rate |
+| **Sv/hr** | Microsievert per hour | Dose rate |
+| **mSv** | Millisievert | Cumulative dose |
+
+[src: modern_threats/nuclear/radiation_detection_equipment.md]
+#### **Conversion Factors**
+- 1 mR/hr 10 Sv/hr (rough conversion)
+- 1000 Sv = 1 mSv
+- Background: 10-20 Sv/hr normal
+- Concern level: 100+ Sv/hr
+
+[src: modern_threats/nuclear/radiation_detection_equipment.md]
+### **Action Levels**
+| Reading | Action Required |
+|---------|----------------|
+| **0-50 Sv/hr** | Normal background |
+| **50-100 Sv/hr** | Monitor, investigate source |
+| **100-1000 Sv/hr** | Limit time, increase distance |
+| **1000+ Sv/hr** | Evacuate area immediately |
+| **10,000+ Sv/hr** | Extreme danger - flee |
+
+[src: modern_threats/nuclear/radiation_detection_equipment.md]
+### **Before First Use**
+1. **Read manual thoroughly** - Each detector is different
+2. **Install fresh batteries** - Check voltage requirements
+3. **Perform background check** - Establish normal readings
+4. **Test with check source** - Verify proper operation
+5. **Practice operation** - Become familiar with controls
+
+[src: modern_threats/nuclear/radiation_detection_equipment.md]
+### **Taking Readings**
+1. **Turn on detector** - Allow warm-up time if required
+2. **Check battery** - Low battery gives false readings
+3. **Hold properly** - Chest height, steady position
+4. **Wait for stability** - Readings may fluctuate initially
+5. **Record results** - Date, time, location, reading
+
+[src: modern_threats/nuclear/radiation_detection_equipment.md]
+### **Contamination Checking**
+- **1 inch from surface** - Standard measurement distance
+- **Systematic survey** - Cover all surfaces methodically
+- **Compare to background** - 2x background = possible contamination
+- **Multiple readings** - Confirm elevated readings
+- **Mark contaminated areas** - Prevent spread
+
+[src: modern_threats/nuclear/radiation_detection_equipment.md]
+### **Establish Baseline**
+Before emergency, measure:
+- [ ] Indoor background levels
+- [ ] Outdoor background levels
+- [ ] Different rooms and areas
+- [ ] Seasonal variations
+- [ ] Equipment check readings
+
+[src: modern_threats/nuclear/radiation_detection_equipment.md]
+### **Post-Emergency Monitoring**
+- [ ] **Outdoor first** - Check before going outside
+- [ ] **Entry points** - Doors, windows, vents
+- [ ] **Food and water** - Before consumption
+- [ ] **Clothing/shoes** - After being outside
+- [ ] **Family members** - Personal contamination
+
+[src: modern_threats/nuclear/radiation_detection_equipment.md]
+### **Create Monitoring Log**
+```
+Date/Time | Location | Reading | Notes
+----------|----------|---------|-------
+1/1 9:00 | Backyard | 15 Sv/hr | Normal background
+1/1 9:05 | Kitchen | 12 Sv/hr | Indoor baseline
+1/1 9:10 | Basement| 18 Sv/hr | Higher (concrete?)
+```
+
+[src: modern_threats/nuclear/radiation_detection_equipment.md]
+### **What Detectors CAN Do**
+ Detect presence of gamma/beta radiation
+ Measure dose rates and exposure
+ Alert to dangerous levels
+ Track contamination spread
+ Monitor personal exposure
+
+[src: modern_threats/nuclear/radiation_detection_equipment.md]
+### **What Detectors CANNOT Do**
+ Detect alpha radiation (most units)
+ Identify specific isotopes (basic units)
+ Predict health effects
+ Remove contamination
+ Provide medical treatment
+
+[src: modern_threats/nuclear/radiation_detection_equipment.md]
+### **False Readings**
+- **Low battery** - May read high or low
+- **Temperature** - Extreme heat/cold affects readings
+- **Humidity** - Can cause erratic readings
+- **Medical isotopes** - Patients with medical scans
+- **Smoke detectors** - Contain small radioactive sources
+
+[src: modern_threats/nuclear/radiation_detection_equipment.md]
+### **Time, Distance, Shielding**
+- **TIME** - Limit exposure duration
+- **DISTANCE** - Double distance = 1/4 radiation
+- **SHIELDING** - Dense materials block radiation
+
+[src: modern_threats/nuclear/radiation_detection_equipment.md]
+### **ALARA Principle**
+**As Low As Reasonably Achievable**
+- Even small doses have some risk
+- Minimize unnecessary exposure
+- Use detection to guide safety decisions
+
+[src: modern_threats/nuclear/radiation_detection_equipment.md]
+### **Maintenance**
+- **Monthly battery check** - Replace before low
+- **Annual calibration** - Professional calibration recommended
+- **Clean regularly** - Dust affects sensitive instruments
+- **Store properly** - Dry, temperature-controlled environment
+
+[src: modern_threats/nuclear/radiation_detection_equipment.md]
+### **Training**
+- **Practice regularly** - Familiarity saves time in emergency
+- **Know your normal** - Establish baseline readings
+- **Understand units** - Don't get confused by different scales
+- **Emergency contacts** - Know who to call with readings
+
+[src: modern_threats/nuclear/radiation_detection_equipment.md]
+### **Cost Savings**
+- **Used equipment** - Check calibration date
+- **Group purchase** - Split costs with neighbors
+- **Rental options** - For short-term needs
+- **Emergency services** - May provide detection in crisis
+
+[src: modern_threats/nuclear/radiation_detection_equipment.md]
+### **Professional Assessment Needed**
+- Readings above 1000 Sv/hr
+- Contamination that won't decontaminate
+- Exposure above annual limits
+- Instrument malfunction during emergency
+- Uncertainty about readings
+
+[src: modern_threats/nuclear/radiation_detection_equipment.md]
+### **Emergency Contacts**
+- **911** - Life-threatening exposure
+- **Poison Control** - 1-800-222-1222
+- **State Radiation Control** - Each state has program
+- **EPA Radiological Emergency** - Federal response
+
+[src: modern_threats/nuclear/radiation_detection_equipment.md]
+*"Radiation detection equipment is your early warning system - learn to use it before you need it."*
+
+[src: modern_threats/emp/faraday_cage_construction.md]
+# Faraday Cage Construction Guide - EMP Protection
+
+[src: modern_threats/emp/faraday_cage_construction.md]
+## Overview
+A Faraday cage is a metallic enclosure that protects electronic equipment from electromagnetic pulses (EMP) and solar flares by redirecting electrical energy around the contents rather than through them.
+
+[src: modern_threats/emp/faraday_cage_construction.md]
+### **Option 1: Metal Trash Can (45 dB protection)**
+**Cost: ~$50 | Time: 1 hour | Difficulty: 2/5**
+
+[src: modern_threats/emp/faraday_cage_construction.md]
+#### Materials Needed:
+- [ ] 31-gallon galvanized steel trash can (NOT aluminum)
+- [ ] Aluminum HVAC tape (not regular duct tape)
+- [ ] Cardboard or thick paper
+- [ ] Foam padding
+- [ ] Multimeter for testing
+
+[src: modern_threats/emp/faraday_cage_construction.md]
+#### Construction Steps:
+1. **Test the can** - Use magnet to verify it's steel
+2. **Clean thoroughly** - Remove all paint, rust, labels
+3. **Line interior** - Cardboard prevents metal contact with electronics
+4. **Add padding** - Foam protects from physical damage
+5. **Seal lid gaps** - Apply aluminum tape around rim when closing
+6. **Test effectiveness** - AM radio should go silent inside
+
+[src: modern_threats/emp/faraday_cage_construction.md]
+### **Option 2: Ammo Can (50 dB protection)**
+**Cost: ~$30 | Time: 30 minutes | Difficulty: 1/5**
+
+[src: modern_threats/emp/faraday_cage_construction.md]
+#### Materials Needed:
+- [ ] .50 cal metal ammo can
+- [ ] Conductive foam padding
+- [ ] Rubber gasket (if missing)
+- [ ] Anti-static bags
+
+[src: modern_threats/emp/faraday_cage_construction.md]
+#### Construction Steps:
+1. **Verify seal** - Should be watertight when closed
+2. **Add conductive foam** - Lines interior surfaces
+3. **Create compartments** - Organize with cardboard dividers
+4. **Wrap items** - Use anti-static bags for extra protection
+5. **Test seal** - Cell phone inside should lose all bars
+
+[src: modern_threats/emp/faraday_cage_construction.md]
+### **Option 3: Room-Sized Cage (60+ dB protection)**
+**Cost: ~$800 | Time: 2-3 days | Difficulty: 5/5**
+
+[src: modern_threats/emp/faraday_cage_construction.md]
+#### Materials Needed:
+- [ ] Copper mesh screen (6 feet wide)
+- [ ] Conductive copper tape (2-inch wide)
+- [ ] Aluminum foil (heavy duty)
+- [ ] Copper grounding wire
+- [ ] Conductive caulk
+
+[src: modern_threats/emp/faraday_cage_construction.md]
+#### Construction Steps:
+1. **Plan the room** - Interior room with fewest penetrations
+2. **Install mesh** - Cover all surfaces with 6-inch overlap
+3. **Seal seams** - Use conductive tape or solder joints
+4. **Address penetrations** - Seal electrical outlets, pipes
+5. **Create door seal** - Conductive gaskets around door frame
+6. **Ground the cage** - Connect to building ground system
+
+[src: modern_threats/emp/faraday_cage_construction.md]
+### **Attenuation Levels (dB)**
+- **20 dB** = 99% reduction (basic protection)
+- **40 dB** = 99.99% reduction (good protection)
+- **60 dB** = 99.9999% reduction (excellent protection)
+- **80+ dB** = Military-grade protection
+
+[src: modern_threats/emp/faraday_cage_construction.md]
+### **Material Effectiveness**
+| Material | Thickness | Attenuation |
+|----------|-----------|-------------|
+| Aluminum foil | 0.02mm | 20-30 dB |
+| Steel can | 1mm | 40-50 dB |
+| Copper mesh | Fine | 30-60 dB |
+| Aluminum screen | Standard | 20-40 dB |
+
+[src: modern_threats/emp/faraday_cage_construction.md]
+### **Critical Requirements**
+1. **Continuous conductive path** - No gaps > 1/10 wavelength
+2. **Metal-to-metal contact** - Paint/rust breaks continuity
+3. **Proper sealing** - Openings are weak points
+4. **Electrical isolation** - Contents don't touch cage walls
+
+[src: modern_threats/emp/faraday_cage_construction.md]
+### **Common Mistakes to Avoid**
+- Using aluminum trash cans (too thin)
+- Leaving gaps in coverage
+- Items touching cage walls directly
+- Using regular duct tape instead of conductive tape
+- Not testing effectiveness before storing items
+
+[src: modern_threats/emp/faraday_cage_construction.md]
+### **Priority 1 - Communication**
+- [ ] HAM radios (handheld and base)
+- [ ] CB radios
+- [ ] Weather radios
+- [ ] Two-way radios/walkie-talkies
+- [ ] Antenna analyzers
+
+[src: modern_threats/emp/faraday_cage_construction.md]
+### **Priority 2 - Power Systems**
+- [ ] Solar charge controllers
+- [ ] Inverters (small backup units)
+- [ ] Battery chargers
+- [ ] Power supplies
+- [ ] Voltage regulators
+
+[src: modern_threats/emp/faraday_cage_construction.md]
+### **Priority 3 - Computing**
+- [ ] Laptops with survival information
+- [ ] External hard drives with data
+- [ ] USB flash drives
+- [ ] Tablets with offline maps
+- [ ] E-readers with manuals
+
+[src: modern_threats/emp/faraday_cage_construction.md]
+### **Priority 4 - Tools & Instruments**
+- [ ] Multimeters
+- [ ] Radios for spare parts
+- [ ] Electronic ignition modules
+- [ ] Small power tools
+- [ ] Flashlights (LED)
+
+[src: modern_threats/emp/faraday_cage_construction.md]
+### **Radio Test Method**
+1. **Tune AM radio** to static between stations
+2. **Place radio inside** cage and seal
+3. **Static should disappear** completely
+4. **Cell phone test** - Should show "No Service"
+5. **Bluetooth test** - Should not connect to devices outside
+
+[src: modern_threats/emp/faraday_cage_construction.md]
+### **Professional Testing**
+- **Field strength meter** - Measures actual attenuation
+- **Spectrum analyzer** - Tests across frequencies
+- **Signal generator** - Provides known test signal
+
+[src: modern_threats/emp/faraday_cage_construction.md]
+### **EMP Threats**
+- **Solar flares** - 8-18 hours warning possible
+- **Nuclear EMP** - No warning, instant effect
+- **Local EMP** - Terrorist device, limited area
+
+[src: modern_threats/emp/faraday_cage_construction.md]
+### **Protection Limitations**
+- **Cage must be closed** - Open cage provides no protection
+- **Size matters** - Larger openings = less protection
+- **Frequency dependent** - Lower frequencies harder to stop
+- **Not 100%** - Very powerful EMPs may still cause damage
+
+[src: modern_threats/emp/faraday_cage_construction.md]
+### **Storage Tips**
+- **Rotate inventory** - Test stored electronics quarterly
+- **Multiple cages** - Don't put all items in one container
+- **Document contents** - Label what's inside each cage
+- **Include instructions** - How to deploy protected items
+
+[src: modern_threats/emp/faraday_cage_construction.md]
+### **Cost Savings**
+- **Military surplus** - Ammo cans often cheaper than new
+- **Aluminum foil** - Heavy-duty works for small items
+- **Mesh screen** - Hardware cloth cheaper than specialized mesh
+- **Group purchases** - Split costs with neighbors
+
+[src: modern_threats/emp/faraday_cage_construction.md]
+### **Deployment Strategy**
+- **Wait before opening** - EMP events may have multiple pulses
+- **Test environment** - Use sacrificial device first
+- **Gradual deployment** - Start with least critical items
+- **Keep some protected** - Always maintain emergency reserves
+
+[src: modern_threats/emp/faraday_cage_construction.md]
+### **Trash Can Cage Checklist**
+- [ ] Galvanized steel can (magnet test)
+- [ ] Clean of all paint/rust
+- [ ] Cardboard liner installed
+- [ ] Foam padding for protection
+- [ ] Aluminum tape for sealing
+- [ ] AM radio test passes
+- [ ] Contents properly wrapped
+- [ ] Inventory list attached
+
+[src: modern_threats/emp/faraday_cage_construction.md]
+### **Emergency Cage (10 minutes)**
+If you have warning of solar flare:
+1. **Aluminum foil** - Heavy duty, multiple layers
+2. **Wrap items** - No metal touching foil directly
+3. **Seal completely** - No gaps or openings
+4. **Place in center** - Away from walls/metal objects
+5. **Multiple wraps** - 2-3 layers minimum
+
+[src: modern_threats/emp/faraday_cage_construction.md]
+*"The best Faraday cage is the one you have ready BEFORE you need it."*
+
+[src: modern_threats/cyber/manual_operations.md]
+# Manual Operations Guide - When Digital Systems Fail
+
+[src: modern_threats/cyber/manual_operations.md]
+## Overview
+When cyber attacks cripple digital infrastructure, knowing how to operate manually can mean the difference between paralysis and productivity. This guide covers non-digital alternatives for critical systems.
+
+[src: modern_threats/cyber/manual_operations.md]
+#### **Manual Banking System**
+1. **Checkbook Management**
+ - Balance after EVERY transaction
+ - Carbon copy checks for records
+ - Register: Date | Check# | Payee | Amount | Balance
+ - Monthly reconciliation with statements
+
+[src: modern_threats/cyber/manual_operations.md]
+2. **Cash Management**
+ ```
+ Weekly Cash Envelope System:
+ - Groceries: $___
+ - Gas: $___
+ - Utilities: $___
+ - Emergency: $___
+ - Savings: $___
+ ```
+
+[src: modern_threats/cyber/manual_operations.md]
+3. **Payment Tracking**
+ - Receipt folder system
+ - Daily expense log
+ - Handwritten ledger
+ - Calculator verification
+
+[src: modern_threats/cyber/manual_operations.md]
+#### **Alternative Payment Methods**
+- **Money Orders** - Post office, grocery stores
+- **Cashier's Checks** - Bank issued, guaranteed
+- **Traveler's Checks** - Pre-paid, replaceable
+- **Barter System** - Goods/services exchange
+- **IOU System** - Community trust network
+
+[src: modern_threats/cyber/manual_operations.md]
+### **Manual Bookkeeping**
+```
+Simple Ledger Format:
+Date | Description | Income | Expense | Balance
+-----|-------------|--------|---------|--------
+1/1 | Starting | 1000 | | 1000
+1/2 | Groceries | | 150 | 850
+1/3 | Paycheck | 2000 | | 2850
+```
+
+[src: modern_threats/cyber/manual_operations.md]
+#### **Two-Way Radio Systems**
+| Type | Range | License | Cost | Best For |
+|------|-------|---------|------|----------|
+| FRS | 0.5-2 mi | No | $30 | Family |
+| GMRS | 5-30 mi | Yes | $50 | Community |
+| CB | 4-20 mi | No | $100 | Vehicles |
+| HAM | 10-1000+ mi | Yes | $200+ | Long range |
+
+[src: modern_threats/cyber/manual_operations.md]
+#### **Radio Communication Plan**
+```
+Primary Frequency: 146.520 MHz (2m calling)
+Backup: Channel 19 CB (27.185 MHz)
+Check-in Times: 9:00 AM & 6:00 PM
+Emergency Signal: 3 long, 3 short, 3 long
+```
+
+[src: modern_threats/cyber/manual_operations.md]
+#### **Physical Message Network**
+1. **Message Centers**
+ - Community bulletin boards
+ - Church/School locations
+ - Grocery store boards
+ - Library notices
+
+[src: modern_threats/cyber/manual_operations.md]
+2. **Runner System**
+ - Designated routes
+ - Scheduled times
+ - Message authentication
+ - Return receipt
+
+[src: modern_threats/cyber/manual_operations.md]
+3. **Signal Systems**
+ - Flag codes
+ - Mirror flashes
+ - Smoke signals
+ - Sound patterns (bells, horns)
+
+[src: modern_threats/cyber/manual_operations.md]
+#### **Essential Tools**
+- [ ] Local street maps
+- [ ] Topographic maps
+- [ ] Magnetic compass
+- [ ] Protractor
+- [ ] Ruler/Scale
+- [ ] Pencil (not pen)
+
+[src: modern_threats/cyber/manual_operations.md]
+#### **Basic Navigation**
+1. **Orient Map to North**
+ - Align compass with map north
+ - Identify landmarks
+ - Triangulate position
+
+[src: modern_threats/cyber/manual_operations.md]
+2. **Route Planning**
+ ```
+ Checkpoint System:
+ Start Landmark 1 Turn Landmark 2 Destination
+ Time: ___ Distance: ___ Alternate: ___
+ ```
+
+[src: modern_threats/cyber/manual_operations.md]
+3. **Dead Reckoning**
+ - Pace counting (steps per 100m)
+ - Time estimation
+ - Bearing following
+ - Back bearings
+
+[src: modern_threats/cyber/manual_operations.md]
+### **Celestial Navigation (Emergency)**
+- **North Star** - End of Big Dipper points to Polaris
+- **Sun Position** - Rises East, Sets West
+- **Watch Method** - Point hour hand at sun, South is halfway to 12
+- **Shadow Stick** - Track shadow movement for direction
+
+[src: modern_threats/cyber/manual_operations.md]
+#### **Essential Physical Books**
+1. **Encyclopedia** - General knowledge
+2. **Dictionary** - Definitions, spelling
+3. **Atlas** - Maps, geography
+4. **Phone Book** - Local contacts
+5. **Almanac** - Facts, data, weather
+6. **Medical Guide** - First aid, symptoms
+7. **Repair Manuals** - Home, auto, appliances
+8. **Cookbook** - Recipes, preservation
+
+[src: modern_threats/cyber/manual_operations.md]
+#### **Offline Digital Resources**
+- **Wikipedia Offline** - Kiwix app + database
+- **Medical Database** - UpToDate offline
+- **Maps** - HERE WeGo offline maps
+- **Books** - Project Gutenberg library
+- **Manuals** - PDF collections on USB
+
+[src: modern_threats/cyber/manual_operations.md]
+### **Information Networks**
+```
+Community Knowledge Map:
+- Medical: Dr. Smith (Retired) - 123 Main St
+- Electronics: Bob's Repair - 456 Oak Ave
+- Mechanical: Auto Shop - 789 First St
+- Agriculture: Community Garden - Park Rd
+- Communications: HAM Club - School Basement
+```
+
+[src: modern_threats/cyber/manual_operations.md]
+#### **Heating**
+- **Passive Solar** - Open south curtains day, close night
+- **Zone Heating** - Close unused rooms
+- **Thermal Mass** - Water jugs absorb/release heat
+- **Insulation** - Blankets on windows, doors
+- **Body Heat** - Family gathering space
+
+[src: modern_threats/cyber/manual_operations.md]
+#### **Cooling**
+- **Cross Ventilation** - Opposite windows open
+- **Thermal Chimney** - Hot air rises, exits high
+- **Evaporative** - Wet towels on windows
+- **Shade Creation** - External covers, awnings
+- **Night Flush** - Cool air overnight
+
+[src: modern_threats/cyber/manual_operations.md]
+### **Water Without Pumps**
+1. **Gravity Systems**
+ - Elevated storage
+ - Siphon principles
+ - Ram pumps
+
+[src: modern_threats/cyber/manual_operations.md]
+2. **Manual Pumps**
+ - Hand pump well
+ - Pitcher pump
+ - Hydraulic ram
+
+[src: modern_threats/cyber/manual_operations.md]
+3. **Collection Methods**
+ - Rain gutters barrels
+ - Dew collection
+ - Condensation capture
+
+[src: modern_threats/cyber/manual_operations.md]
+#### **Abacus Method**
+```
+Thousands | Hundreds | Tens | Ones
+ O | OO | O | OOO
+ 1 | 2 | 1 | 3 = 1,213
+```
+
+[src: modern_threats/cyber/manual_operations.md]
+#### **Paper Methods**
+- **Long Division** - Step by step process
+- **Multiplication** - Grid method
+- **Percentages** - Move decimal places
+- **Fractions** - Common denominator
+
+[src: modern_threats/cyber/manual_operations.md]
+### **Business Calculations**
+```
+Invoice Template:
+Item | Qty | Price | Total
+---------|-----|-------|-------
+Product | 5 | $10 | $50
+Service | 2 | $25 | $50
+Subtotal: | $100
+Tax (8%): | $8
+TOTAL: | $108
+```
+
+[src: modern_threats/cyber/manual_operations.md]
+### **Vehicle Operations**
+- **Manual Transmission** - No computer needed
+- **Carburetor Engines** - Pre-1980s vehicles
+- **Diesel Engines** - Mechanical injection
+- **Bicycles** - Ultimate manual transport
+- **Horse/Animal** - If available
+
+[src: modern_threats/cyber/manual_operations.md]
+### **Route Planning**
+```
+Trip Planning Sheet:
+Destination: ___________
+Distance: ___ miles
+Fuel Needed: ___ gallons
+Checkpoints:
+1. __________ (__ miles)
+2. __________ (__ miles)
+3. __________ (__ miles)
+Alternatives: __________
+```
+
+[src: modern_threats/cyber/manual_operations.md]
+### **Filing System**
+```
+Folder Structure:
+/Financial
+ /Banking
+ /Taxes
+ /Insurance
+/Medical
+ /Records
+ /Prescriptions
+/Legal
+ /Contracts
+ /Documents
+/Personal
+ /Correspondence
+ /Photos
+```
+
+[src: modern_threats/cyber/manual_operations.md]
+### **Indexing System**
+- **Alphabetical** - By name/topic
+- **Chronological** - By date
+- **Numerical** - Sequential filing
+- **Geographic** - By location
+- **Subject** - By category
+
+[src: modern_threats/cyber/manual_operations.md]
+### **Scheduling Tools**
+- **Wall Calendar** - Monthly view
+- **Desk Calendar** - Daily planning
+- **Pocket Planner** - Portable schedule
+- **Appointment Book** - Time slots
+- **Task Lists** - Paper to-do
+
+[src: modern_threats/cyber/manual_operations.md]
+### **Time Keeping**
+- **Mechanical Watch** - Wind daily
+- **Sundial** - Daylight hours
+- **Church Bells** - Community time
+- **Natural Rhythms** - Sun position
+
+[src: modern_threats/cyber/manual_operations.md]
+### **Emergency Conversion Chart**
+```
+Digital Manual
+-----------------
+Email Physical Mail
+GPS Map & Compass
+Calculator Abacus/Paper
+Online Banking Checkbook
+Cell Phone Radio/Landline
+Google Encyclopedia
+Kindle Physical Books
+Digital Camera Film/Drawing
+```
+
+[src: modern_threats/cyber/manual_operations.md]
+### **Priority Manual Skills**
+1. Basic math without calculator
+2. Check writing and balancing
+3. Map reading and compass use
+4. Radio operation basics
+5. Manual record keeping
+6. Cash management
+7. Letter writing
+8. Time telling (analog)
+
+[src: modern_threats/cyber/manual_operations.md]
+### **Weekly Drills**
+- **Monday** - Balance checkbook manually
+- **Tuesday** - Navigate with map only
+- **Wednesday** - Communicate via radio
+- **Thursday** - Calculate bills by hand
+- **Friday** - Write physical letters
+
+[src: modern_threats/cyber/manual_operations.md]
+### **Monthly Challenges**
+- Complete day without digital devices
+- Shop with cash only
+- Navigate new route with map
+- Organize files physically
+- Cook without electric appliances
+
+[src: modern_threats/cyber/manual_operations.md]
+*"The person who knows HOW will always have a job. The person who knows WHY will always be the boss."*
+
+[src: modern_threats/cyber/offline_backup_guide.md]
+# Offline Backup Guide - Cyber Attack Protection
+
+[src: modern_threats/cyber/offline_backup_guide.md]
+## Overview
+When cyber attacks strike, your digital life can be encrypted, deleted, or held hostage in seconds. Offline backups are your insurance policy against digital disasters.
+
+[src: modern_threats/cyber/offline_backup_guide.md]
+### **3 Copies of Important Data**
+- Original (on your device)
+- Local backup (external drive)
+- Remote backup (offsite/cloud)
+
+[src: modern_threats/cyber/offline_backup_guide.md]
+### **2 Different Storage Media Types**
+- Hard drive + USB flash drive
+- SSD + Optical disc (DVD/Blu-ray)
+- Physical paper + Digital file
+
+[src: modern_threats/cyber/offline_backup_guide.md]
+### **1 Offsite Backup**
+- Bank safe deposit box
+- Trusted relative's home
+- Cloud storage (encrypted)
+
+[src: modern_threats/cyber/offline_backup_guide.md]
+### **Priority 1 - Identity & Legal (Update Annually)**
+- [ ] Passports (color copies)
+- [ ] Birth certificates
+- [ ] Social Security cards
+- [ ] Driver's licenses
+- [ ] Marriage/Divorce certificates
+- [ ] Military discharge papers
+- [ ] Power of attorney documents
+- [ ] Will and estate documents
+
+[src: modern_threats/cyber/offline_backup_guide.md]
+### **Priority 2 - Financial (Update Monthly)**
+- [ ] Bank account numbers and routing info
+- [ ] Investment account statements
+- [ ] Credit card information
+- [ ] Loan documents
+- [ ] Tax returns (7 years)
+- [ ] Insurance policies
+- [ ] Property deeds/titles
+- [ ] Vehicle registrations
+
+[src: modern_threats/cyber/offline_backup_guide.md]
+### **Priority 3 - Medical (Update After Changes)**
+- [ ] Medical history summary
+- [ ] Current medications list
+- [ ] Allergy information
+- [ ] Insurance cards
+- [ ] Doctor contact information
+- [ ] Vaccination records
+- [ ] Emergency medical directives
+- [ ] Prescription copies
+
+[src: modern_threats/cyber/offline_backup_guide.md]
+### **Priority 4 - Digital Life (Update Weekly)**
+- [ ] Password manager backup
+- [ ] 2FA recovery codes
+- [ ] Cryptocurrency wallet keys
+- [ ] Software license keys
+- [ ] Email account recovery info
+- [ ] Website backups
+- [ ] Contact lists
+- [ ] Calendar data
+
+[src: modern_threats/cyber/offline_backup_guide.md]
+### **Paper Backups**
+1. **Print** important documents on acid-free paper
+2. **Laminate** critical one-page documents
+3. **Store** in waterproof/fireproof container
+4. **Organize** in labeled folders by category
+5. **Index** contents for quick access
+
+[src: modern_threats/cyber/offline_backup_guide.md]
+### **USB/External Drive Backups**
+1. **Use** quality drives from reputable manufacturers
+2. **Encrypt** drives with strong passwords
+3. **Label** with date and contents
+4. **Test** quarterly to ensure readability
+5. **Replace** every 3-5 years
+
+[src: modern_threats/cyber/offline_backup_guide.md]
+### **Optical Media Backups (DVD/Blu-ray)**
+1. **Burn** at slower speeds for reliability
+2. **Verify** data after burning
+3. **Store** in cases away from light/heat
+4. **Create** multiple copies
+5. **Re-burn** every 5-10 years
+
+[src: modern_threats/cyber/offline_backup_guide.md]
+### **Home Storage**
+- **Fireproof Safe**
+ - Minimum 1-hour fire rating
+ - Waterproof seal
+ - Bolt to floor/wall
+ - Hide in unexpected location
+
+[src: modern_threats/cyber/offline_backup_guide.md]
+- **Hidden Locations**
+ - Inside old product containers
+ - Behind picture frames
+ - Inside books (hollowed)
+ - Sealed in walls/floors (renovation)
+
+[src: modern_threats/cyber/offline_backup_guide.md]
+### **Offsite Storage**
+- **Bank Safe Deposit Box**
+ - Most secure option
+ - Climate controlled
+ - Requires bank access hours
+ - Annual fee ($30-200)
+
+[src: modern_threats/cyber/offline_backup_guide.md]
+- **Trusted Individual**
+ - Family member in different city
+ - Reciprocal storage agreement
+ - Sealed envelope system
+ - Annual verification
+
+[src: modern_threats/cyber/offline_backup_guide.md]
+- **Commercial Storage**
+ - Climate-controlled unit
+ - Security features
+ - 24/7 access available
+ - Insurance options
+
+[src: modern_threats/cyber/offline_backup_guide.md]
+### **Daily**
+- Password changes
+- Financial transactions
+- Important emails
+
+[src: modern_threats/cyber/offline_backup_guide.md]
+### **Weekly**
+- Digital files
+- Photos/videos
+- Work documents
+
+[src: modern_threats/cyber/offline_backup_guide.md]
+### **Monthly**
+- Financial statements
+- Account summaries
+- Contact lists
+
+[src: modern_threats/cyber/offline_backup_guide.md]
+### **Quarterly**
+- Full system backup
+- Verify all backups readable
+- Update storage locations
+
+[src: modern_threats/cyber/offline_backup_guide.md]
+### **Annually**
+- Replace old media
+- Update legal documents
+- Review and purge outdated
+
+[src: modern_threats/cyber/offline_backup_guide.md]
+### **Grab-and-Go USB Drive**
+Create a single encrypted USB with:
+- [ ] Identity document scans
+- [ ] Financial account list
+- [ ] Insurance information
+- [ ] Medical summary
+- [ ] Contact list
+- [ ] Recent photos
+- [ ] Password manager export
+- [ ] Recovery codes
+
+[src: modern_threats/cyber/offline_backup_guide.md]
+### **Paper Envelope System**
+Prepare sealed envelopes containing:
+- [ ] Account numbers (partial)
+- [ ] Emergency contacts
+- [ ] Medical information
+- [ ] Insurance policy numbers
+- [ ] Attorney contact
+- [ ] Next of kin info
+
+[src: modern_threats/cyber/offline_backup_guide.md]
+### **Immediate Actions**
+1. **DISCONNECT** - Unplug internet/network cables
+2. **DOCUMENT** - Photograph screens/messages
+3. **ISOLATE** - Separate backup drives
+4. **PRESERVE** - Don't modify anything
+5. **ACTIVATE** - Use offline backups only
+
+[src: modern_threats/cyber/offline_backup_guide.md]
+### **Recovery Process**
+1. **Clean System** - Complete OS reinstall
+2. **Verify Backups** - Check for infection
+3. **Restore Gradually** - Priority data first
+4. **Monitor Closely** - Watch for reinfection
+5. **Update Security** - Patch vulnerabilities
+
+[src: modern_threats/cyber/offline_backup_guide.md]
+### **Security Best Practices**
+- Never store passwords with backups
+- Use different passwords for each backup
+- Don't label drives obviously ("BACKUP")
+- Rotate storage locations periodically
+- Test restore process regularly
+
+[src: modern_threats/cyber/offline_backup_guide.md]
+### **Cost-Effective Solutions**
+- Share safe deposit box with family
+- Trade offsite storage with friend
+- Use free cloud storage (encrypted)
+- Repurpose old devices for storage
+- Print important docs at library
+
+[src: modern_threats/cyber/offline_backup_guide.md]
+### **Red Flags to Watch**
+- Backup drives running constantly
+- Files with strange extensions
+- Backup software warnings
+- Unusual network activity
+- System performance issues
+
+[src: modern_threats/cyber/offline_backup_guide.md]
+### **Monthly Check**
+- [ ] All drives readable
+- [ ] Encryption keys work
+- [ ] Paper copies legible
+- [ ] Offsite backups accessible
+- [ ] Cloud storage active
+
+[src: modern_threats/cyber/offline_backup_guide.md]
+### **Restore Test**
+- [ ] Pick random file
+- [ ] Attempt restoration
+- [ ] Verify integrity
+- [ ] Document issues
+- [ ] Update procedures
+
+[src: modern_threats/cyber/offline_backup_guide.md]
+**Remember: Backups are only useful if they:**
+1. **Exist** - Actually created
+2. **Work** - Tested regularly
+3. **Accessible** - Can retrieve when needed
+4. **Current** - Recently updated
+5. **Secure** - Protected from threats
+
+[src: modern_threats/cyber/offline_backup_guide.md]
+*"The best time to create backups was yesterday. The second best time is now."*
+
+[src: modern_threats/cyber/offline_backup_guide.md]
+**See also:** [REFERENCE_DOCUMENTS.md](../../reference/REFERENCE_DOCUMENTS.md) for CISA and cybersecurity resources. [financial_preparedness.md](../../long_term_sustainability/financial_preparedness.md) for protecting critical financial documents.
+
+[src: medicine/advanced_first_aid_guide.md]
+This guide covers more advanced first aid topics that are critical in a disaster when professional medical help is unavailable. This is not a substitute for professional medical training.
+
+[src: medicine/advanced_first_aid_guide.md]
+In a trauma situation, you must address the most life-threatening injuries first. The MARCH algorithm helps you prioritize:
+
+[src: medicine/advanced_first_aid_guide.md]
+* **M - Massive Hemorrhage:** Stop major bleeding. This is the first priority. Apply direct, firm pressure to the wound. If that doesn't work, use a tourniquet.
+* **A - Airway:** Ensure the person has a clear airway. If they are unconscious, tilt their head back and lift their chin to open the airway.
+* **R - Respirations:** Make sure the person is breathing. If not, begin CPR.
+* **C - Circulation:** Check for a pulse. Treat for shock by laying the person down, keeping them warm, and elevating their feet.
+* **H - Hypothermia/Head Injury:** Prevent hypothermia by keeping the person warm and dry. Check for signs of a head injury.
+
+[src: medicine/advanced_first_aid_guide.md]
+Proper wound care is essential to prevent infection.
+
+[src: medicine/advanced_first_aid_guide.md]
+* **Clean the Wound:**
+ 1. Wash your hands thoroughly with soap and water.
+ 2. Gently clean the wound with soap and purified water. Do not use hydrogen peroxide or iodine on the wound itself, as this can damage the tissue.
+ 3. Rinse the wound thoroughly.
+* **Dress the Wound:**
+ 1. Apply a thin layer of antibiotic ointment.
+ 2. Cover the wound with a sterile dressing.
+ 3. Change the dressing daily, or more often if it becomes wet or dirty.
+* **Monitor for Infection:** Watch for signs of infection, including:
+ * Redness and swelling around the wound.
+ * Pus or drainage.
+ * Increased pain.
+ * Fever.
+
+[src: medicine/advanced_first_aid_guide.md]
+* **Treatment:**
+ * Rest.
+ * Drink plenty of fluids.
+ * Take over-the-counter fever reducers like acetaminophen or ibuprofen.
+* **When to Worry:** A fever accompanied by a stiff neck, severe headache, or confusion can be a sign of a serious infection and requires immediate medical attention.
+
+[src: medicine/advanced_first_aid_guide.md]
+* **Treatment:**
+ * The biggest danger is dehydration. Drink plenty of fluids, especially water with a small amount of salt and sugar to replace lost electrolytes.
+ * Avoid dairy products and fatty foods.
+* **When to Worry:** If the diarrhea is bloody, or if it is accompanied by a high fever or severe abdominal pain, seek medical help.
+
+[src: medicine/advanced_first_aid_guide.md]
+### Respiratory Infections (Colds and Flu)
+
+[src: medicine/advanced_first_aid_guide.md]
+* **Treatment:**
+ * Rest.
+ * Drink plenty of fluids.
+ * Over-the-counter cold and flu medications can help manage symptoms.
+* **When to Worry:** If you have difficulty breathing, a persistent high fever, or chest pain, seek medical help.
+
+[src: medicine/advanced_first_aid_guide.md]
+This guide provides basic information. In a real emergency, you will have to make difficult decisions. The best thing you can do is get proper first aid training before a disaster strikes.
+
+[src: medicine/first_aid_cpr_sources.md]
+This guide lists reputable sources for first aid, CPR, and emergency medical training.
+
+[src: medicine/first_aid_cpr_sources.md]
+* **American Red Cross** - [redcross.org/take-a-class](
+ First Aid, CPR/AED, babysitting, lifeguarding. Online and in-person options.
+
+[src: medicine/first_aid_cpr_sources.md]
+* **American Heart Association** - [heart.org/cpr](
+ BLS, Heartsaver CPR/AED, First Aid. Widely accepted for workplace and healthcare.
+
+[src: medicine/first_aid_cpr_sources.md]
+* **National Safety Council** - [nsc.org/firstaid](
+ First Aid, CPR, workplace safety.
+
+[src: medicine/first_aid_cpr_sources.md]
+* **Stop the Bleed** - [stopthebleed.org](
+ Free training for controlling severe bleeding. Often offered by hospitals and emergency services.
+
+[src: medicine/first_aid_cpr_sources.md]
+* **CDC First Aid** - [cdc.gov/firstaid](
+ Basic first aid guidance.
+
+[src: medicine/first_aid_cpr_sources.md]
+* **Ready.gov First Aid** - [ready.gov/first-aid-kit](
+ Kit contents and basic use.
+
+[src: medicine/first_aid_cpr_sources.md]
+* **NIH MedlinePlus First Aid** - [medlineplus.gov/firstaid](
+ Condition-specific first aid information.
+
+[src: medicine/first_aid_cpr_sources.md]
+* Hands-on practice with manikins
+* Certification valid for 2 years (typical for CPR/AED)
+* Coverage of choking, bleeding, shock, and cardiac arrest
+* Pediatric module if you care for children
+
+[src: medicine/first_aid_cpr_sources.md]
+* [medicine/advanced_first_aid_guide.md](advanced_first_aid_guide.md)
+* [medicine/sprains_and_pain_guide.md](sprains_and_pain_guide.md)
+* [reference/REFERENCE_DOCUMENTS.md](../reference/REFERENCE_DOCUMENTS.md)
+
+[src: medicine/sprains_and_pain_guide.md]
+This guide covers the immediate first aid for sprains and the management of common aches and pains.
+
+[src: medicine/sprains_and_pain_guide.md]
+## 1. Treating Sprains: The R.I.C.E. Method
+
+[src: medicine/sprains_and_pain_guide.md]
+A sprain is an injury to a ligament (the tissue that connects bones to other bones). The most common location for a sprain is the ankle. For the first 24-48 hours after an injury, follow the R.I.C.E. method to reduce pain and swelling.
+
+[src: medicine/sprains_and_pain_guide.md]
+* **Rest:** Stop all activity and rest the injured joint. Do not put weight on it.
+* **Ice:** Apply a cold pack (a bag of frozen vegetables works well) to the injured area for 15-20 minutes at a time, every 2-4 hours. Wrap the cold pack in a towel to prevent frostbite.
+* **Compression:** Wrap the injured area with an elastic bandage (like an ACE bandage). It should be snug, but not so tight that it cuts off circulation.
+* **Elevation:** Keep the injured limb elevated above the level of your heart as much as possible.
+
+[src: medicine/sprains_and_pain_guide.md]
+### Things to Avoid for the First 48 Hours (H.A.R.M.)
+
+[src: medicine/sprains_and_pain_guide.md]
+* **Heat:** Avoid hot showers, heat packs, or saunas.
+* **Alcohol:** Alcohol can increase swelling and mask pain, which can lead to further injury.
+* **Running:** Or any other form of strenuous exercise.
+* **Massage:** Can increase swelling and bleeding in the injured tissue.
+
+[src: medicine/sprains_and_pain_guide.md]
+For common aches and pains (headaches, muscle soreness, etc.), over-the-counter pain relievers can be effective. **Always read the label and do not exceed the recommended dose.**
+
+[src: medicine/sprains_and_pain_guide.md]
+* **Acetaminophen (Tylenol):** A good choice for general pain relief.
+* **Ibuprofen (Advil, Motrin):** An anti-inflammatory, which makes it particularly good for sprains and other injuries where swelling is a factor.
+* **Naproxen (Aleve):** Another anti-inflammatory, similar to ibuprofen.
+
+[src: medicine/sprains_and_pain_guide.md]
+**Important Note:** Do not give aspirin to children or teenagers, as it has been linked to a rare but serious condition called Reye's syndrome.
+
+[src: medicine/sprains_and_pain_guide.md]
+This guide is for minor injuries. You should seek professional medical help if:
+
+[src: medicine/sprains_and_pain_guide.md]
+* You suspect a bone is broken.
+* The pain is severe and does not improve with over-the-counter medication.
+* The swelling does not go down after 48 hours.
+* You cannot put any weight on the injured limb.
+* The joint feels unstable or "wobbly."
+
+[src: scenario_specific_plans/active_shooter_response.md]
+This guide summarizes the **Run. Hide. Fight.** approach to surviving an active shooter incident. Based on [Ready.gov Active Shooter]( and [DHS guidance](
+
+[src: scenario_specific_plans/active_shooter_response.md]
+* **Getting away is the top priority.** Leave belongings behind. Evacuate if safe to do so.
+* **Warn others** nearby if you can do so safely.
+* **Call 911** once you reach safety.
+* **Know exits:** Before emergencies, identify two nearby exits when visiting buildings. Plan escape routes.
+
+[src: scenario_specific_plans/active_shooter_response.md]
+* **If you cannot escape safely,** find a secure hiding place out of the shooter's view.
+* **Lock and barricade** doors. Turn off lights. Silence electronic devices. Stay quiet.
+* **Spread out** - do not hide in groups; make it harder for the shooter to target multiple people.
+* **Communicate with police** silently (texts, window signs) if possible.
+* **Stay in place** until law enforcement confirms the danger has passed.
+
+[src: scenario_specific_plans/active_shooter_response.md]
+* **Last resort** - when in immediate danger and you cannot run or hide.
+* **Commit to your actions.** Act aggressively to stop the shooter.
+* **Use improvised weapons:** chairs, fire extinguishers, scissors, books - to distract and disarm.
+
+[src: scenario_specific_plans/active_shooter_response.md]
+* Familiarize yourself with emergency plans at locations you frequent.
+* Participate in active shooter drills.
+* Learn first aid and tourniquet training.
+* Report suspicious activity to authorities.
+
+[src: scenario_specific_plans/active_shooter_response.md]
+* **Keep hands visible and empty** when encountering law enforcement.
+* **Follow their instructions** immediately.
+* **Seek professional help** to cope with trauma.
+
+[src: scenario_specific_plans/active_shooter_response.md]
+**See also:** [Ready.gov Active Shooter]( [FBI Run.Hide.Fight. video]( [reference/REFERENCE_DOCUMENTS.md](../reference/REFERENCE_DOCUMENTS.md).
+
+[src: scenario_specific_plans/commuter_emergency_plan.md]
+Emergencies can occur without warning, and you may not be at home. This guide helps you plan for disasters while traveling between work, home, and other regularly visited locations.
+
+[src: scenario_specific_plans/commuter_emergency_plan.md]
+Document the following and keep a copy in your wallet or an accessible location:
+
+[src: scenario_specific_plans/commuter_emergency_plan.md]
+* **Normal and alternative routes** to home, work, school, and other frequent destinations.
+* **Public transportation options:** Bus, train, ferry - line numbers, stops, fares.
+* **Daily driving directions** and alternative routes to and from work.
+* **Transportation contacts:** Taxi companies, commuter rail, bus lines.
+* **Local traffic and transportation information** (radio stations, apps, websites).
+
+[src: scenario_specific_plans/commuter_emergency_plan.md]
+* **Go-bag or car kit:** Water, snacks, first aid, flashlight, phone charger, cash.
+* **Comfortable shoes** for walking if transit or roads are disrupted.
+* **Emergency contact list** (on paper, not only on your phone).
+
+[src: scenario_specific_plans/commuter_emergency_plan.md]
+* **Identify shelter locations** along your routes (schools, libraries, hospitals, stores).
+* **Coordinate with family** on meeting points if you cannot get home.
+* **Know your employer's emergency plan** - evacuation, lockdown, communication.
+* **Update your plan** when routes or schedules change.
+
+[src: scenario_specific_plans/commuter_emergency_plan.md]
+**See also:** [Ready.gov Plan for Locations]( [communications/communications_guide.md](../communications/communications_guide.md), [reference/REFERENCE_DOCUMENTS.md](../reference/REFERENCE_DOCUMENTS.md).
+
+[src: scenario_specific_plans/earthquake_plan.md]
+This guide provides an actionable checklist for what to do before, during, and after an earthquake.
+
+[src: scenario_specific_plans/earthquake_plan.md]
+* [ ] **Secure Your Space:**
+ * Anchor heavy furniture (bookshelves, dressers, etc.) to the walls.
+ * Secure your water heater to the wall studs.
+ * Use museum putty or earthquake straps to secure valuable objects on shelves.
+ * Install flexible gas and water lines.
+* [ ] **Create a Plan:**
+ * Identify safe spots in each room (under a sturdy table, against an interior wall).
+ * Establish a family meeting place outside your home.
+ * Know how to shut off your gas, water, and electricity.
+* [ ] **Build Your Kits:**
+ * Have a comprehensive first aid kit.
+ * Have a bug-out bag for each member of your family.
+ * Store at least one gallon of water per person, per day.
+
+[src: scenario_specific_plans/earthquake_plan.md]
+## During the Earthquake: Drop, Cover, and Hold On
+
+[src: scenario_specific_plans/earthquake_plan.md]
+* **If you are indoors:**
+ * **Drop** to the ground.
+ * **Cover** your head and neck with your arms and get under a sturdy table or desk.
+ * **Hold On** to your shelter until the shaking stops.
+ * Stay away from windows, bookcases, and other heavy objects that could fall.
+* **If you are outdoors:**
+ * Move to an open area away from buildings, trees, and power lines.
+ * Drop to the ground and stay there until the shaking stops.
+* **If you are in a car:**
+ * Pull over to a clear location, away from bridges and overpasses.
+ * Stay in the car with your seatbelt fastened until the shaking stops.
+
+[src: scenario_specific_plans/earthquake_plan.md]
+* [ ] **Check for Injuries:** Administer first aid as needed.
+* [ ] **Check for Hazards:**
+ * Look for fires.
+ * Smell for gas. If you smell gas, shut it off at the meter and open the windows.
+ * Look for structural damage.
+* [ ] **Communicate:**
+ * Listen to your emergency radio for instructions from local authorities.
+ * Use text messages to contact your out-of-state contact.
+* [ ] **Expect Aftershocks:** Be prepared for more shaking. Drop, cover, and hold on.
+* [ ] **Help Your Community:** Check on your neighbors, especially those who are elderly or have special needs.
+
+[src: scenario_specific_plans/earthquake_plan.md]
+This plan provides a basic framework. You should adapt it to your specific needs and location.
+
+[src: scenario_specific_plans/extreme_heat_preparedness.md]
+This guide provides actionable steps for what to do before, during, and after periods of extreme heat.
+
+[src: scenario_specific_plans/extreme_heat_preparedness.md]
+* [ ] **Stay Informed:** Know the heat index and heat advisory levels in your area.
+* [ ] **Cooling Plan:** Identify air-conditioned locations (libraries, malls, cooling centers) if you don't have AC.
+* [ ] **Hydration:** Have plenty of water. Avoid alcohol and caffeine during heat events.
+* [ ] **Vulnerable People:** Check on older adults, young children, and those with chronic conditions. Never leave anyone in a parked car.
+* [ ] **Home Prep:** Install window reflectors, use fans, ensure AC units are serviced.
+* [ ] **See also:** [Ready.gov Heat]( [CDC Extreme Heat](
+
+[src: scenario_specific_plans/extreme_heat_preparedness.md]
+## During Extreme Heat: Stay Cool and Hydrated
+
+[src: scenario_specific_plans/extreme_heat_preparedness.md]
+* **Indoors:**
+ * Stay in air conditioning when possible. Use fans to improve ventilation.
+ * Take cool showers or baths.
+ * Avoid using the stove or oven.
+* **Outdoors:**
+ * Limit outdoor activity to early morning or evening.
+ * Wear lightweight, light-colored, loose-fitting clothing.
+ * Wear sunscreen and a hat.
+ * Drink water frequently. Don't wait until you're thirsty.
+* **Know the Signs of Heat Illness:**
+ * Heat cramps, heat exhaustion (heavy sweating, weakness, dizziness, nausea), heat stroke (high body temp, confusion, loss of consciousness). Heat stroke is a medical emergency-call 911.
+
+[src: scenario_specific_plans/extreme_heat_preparedness.md]
+* [ ] **Continue to hydrate** and rest.
+* [ ] **Check on vulnerable neighbors.**
+* [ ] **Avoid sudden return to strenuous activity.**
+* [ ] **See also:** [REFERENCE_DOCUMENTS.md](../reference/REFERENCE_DOCUMENTS.md) for additional resources.
+
+[src: scenario_specific_plans/flood_safety.md]
+This guide provides actionable steps for what to do before, during, and after a flood.
+
+[src: scenario_specific_plans/flood_safety.md]
+* [ ] **Know Your Risk:** Check if you live in a flood zone. Visit [FEMA Flood Map Service Center]( to view flood maps.
+* [ ] **Create an Emergency Kit:** Water (1 gallon per person per day, 3+ days), non-perishable food, first aid kit, flashlight, batteries, important documents in waterproof container.
+* [ ] **Develop a Plan:** Identify evacuation routes to higher ground. Have a family meeting place and out-of-area contact.
+* [ ] **Protect Property:** Elevate utilities (furnace, water heater, electrical panel) if in a flood-prone area. Install sump pump with battery backup.
+* [ ] **Purchase Flood Insurance:** Standard homeowners insurance does not cover flooding. See [floodsmart.gov](
+
+[src: scenario_specific_plans/flood_safety.md]
+* **If flood watch or warning is issued:**
+ * Move to higher ground immediately. Do not wait.
+ * Avoid walking or driving through floodwaters. Six inches of moving water can knock you down; one foot can sweep away a vehicle.
+ * Turn around, don't drown.
+* **If you must evacuate:**
+ * Take your emergency kit. Shut off gas, electricity, and water if instructed.
+ * Follow designated evacuation routes.
+* **If trapped in a building:**
+ * Go to the highest level. Do not climb into a closed attic.
+ * Call 911 if possible and signal for help.
+
+[src: scenario_specific_plans/hurricane_preparedness.md]
+This guide provides actionable steps for what to do before, during, and after a hurricane.
+
+[src: scenario_specific_plans/landslide_preparedness.md]
+This guide provides actionable steps for what to do before, during, and after a landslide.
+
+[src: scenario_specific_plans/landslide_preparedness.md]
+## During a Landslide: Evacuate if Possible
+
