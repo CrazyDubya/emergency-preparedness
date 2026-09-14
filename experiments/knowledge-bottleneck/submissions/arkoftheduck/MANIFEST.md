@@ -11,6 +11,7 @@
 - Experiment seed branch: `experiment/knowledge-bottleneck-seed`
 - Experiment seed commit: `2d95e9546a7c6b61277bee766f5108b9f5767e8b`
 - Submission branch: `cursor/kb-arkoftheduck-ae18`
+- Artifact-freeze commit: `5dc87b4a582f1ceb859018a4aa266a823a4e06a3`
 
 ## Frozen artifacts
 
