@@ -1,0 +1,1739 @@
+EMERGENCY FIELD KNOWLEDGE - 100 KiB BUDGET
+
+PURPOSE
+For ordinary people facing prolonged failure of normal services. If reliable emergency services, evacuation orders, public-health guidance, utility instructions, poison control, or professional medical care exist, use them. This file emphasizes actions that are broadly safe under uncertainty. A precise instruction that is wrong for your situation can be worse than a general rule.
+
+HOW TO USE
+Stop immediate hazards first. Then: severe injury/breathing; safe water; fire/CO; temperature; sanitation; people/accountability; food; communications; power; recovery. Search plain text for: BLEEDING, CPR, WATER, DIARRHEA, FIRE, CO, COLD, HEAT, FOOD, TOILET, POWER, FLOOD, EARTHQUAKE, RADIO, EVACUATION, MEDICINE, REPAIR, GARDEN.
+
+============================================================
+01 IMMEDIATE PRIORITIES
+============================================================
+Do not become the next casualty. Look before touching, entering, climbing, wading, driving, switching, digging, or rescuing.
+Leave fire, gas/chemical fumes, rapidly rising floodwater, obvious structural collapse, active violence, or an ordered evacuation. Property is replaceable. Close doors behind you during fire if safe. Once out of a burning building, stay out.
+Treat downed electrical lines as live. Stay away from lines, wet ground around them, fences/rails touching them, and water that may be energized. Do not enter standing water to reach an electrical panel. If a line contacts a vehicle, occupants generally remain inside unless fire forces exit; avoid simultaneous contact with vehicle and ground.
+Suspected gas leak: do not light flames, smoke, operate switches, start engines, or deliberately create sparks. Leave and contact the utility/fire service from a safe location if available.
+Floodwater hides holes, debris, sewage, chemicals, and electricity. Do not drive, walk, or swim through moving floodwater merely because another vehicle crossed.
+Count people. Identify children, older adults, pregnant people, people with disabilities, people dependent on refrigerated or powered medical equipment, and anyone missing. Assign simple roles: safety, first aid, water, communications, supplies.
+
+============================================================
+02 LIFE-THREATENING MEDICAL PROBLEMS
+============================================================
+GENERAL ORDER: safe scene; severe bleeding; airway/breathing; circulation/shock; dangerous heat/cold; professional help.
+SEVERE BLEEDING: expose wound only as needed. Apply firm continuous pressure with gauze/clean cloth. Do not keep lifting the dressing. Add material on top if soaked. A deep compressible wound may be packed tightly with gauze/clean cloth and held under pressure. Do not pack open chest/abdomen or around embedded objects. For life-threatening arm/leg bleeding not controlled by pressure/packing, use a commercial tourniquet if available: above wound, not across a joint; tighten until bleeding stops; note time; do not periodically loosen. Do not remove deeply embedded objects.
+UNRESPONSIVE/NOT BREATHING NORMALLY: call/get help and AED. For sudden adult/teen collapse, hard-fast chest compressions in center chest about 100-120/min, allow recoil. Follow AED prompts. If trained in full CPR/rescue breathing use it; children, drowning, overdose and respiratory arrest especially benefit from ventilation.
+CHOKING: effective cough/speech -> encourage cough. Unable to breathe/speak/cough -> summon help and use trained choking first aid. Technique differs for infants and pregnancy/body shape. If unresponsive, CPR; remove only visible object, never blind-sweep.
+SHOCK: weakness, pale/cool/clammy skin, rapid breathing, confusion, faintness, deterioration after injury. Control bleeding, lie in tolerable position, protect from temperature, reassure, evacuate. No food/drink for severely injured, vomiting, poorly conscious, likely surgical patient.
+
+============================================================
+03 TRAUMA, BURNS, WOUNDS, FRACTURES, EYES
+============================================================
+HEAD/NECK/SPINE: major fall/crash/diving injury/head blow plus neck/back pain, weakness/numbness, confusion, repeated vomiting, worsening headache, seizure, unequal pupils, loss of consciousness -> minimize unnecessary movement and seek urgent care. Airway/breathing/bleeding/immediate hazards outrank perfect immobilization.
+BURNS: stop exposure safely. Thermal burn: cool with clean cool running water; avoid ice directly on significant burns and butter/grease/toothpaste. Remove rings/watches before swelling if not stuck. Cover loosely with clean non-stick material. Large/deep, electrical, chemical, inhalation, face/hands/genitals/joint/circumferential burns need urgent care. Chemical: protect yourself, remove contaminated clothing, brush off dry chemical before irrigation unless product instructions say otherwise, irrigate liquid exposure/eyes with lots of clean water. Do not neutralize acids/bases on body. Electrical injury may hide internal/heart damage; disconnect power first.
+WOUNDS: wash hands; rinse generously with safe water; remove only loose accessible dirt; mild soap around wound; no harsh household chemicals in tissue. Clean dressing changed wet/dirty. Bites, deep punctures, crush/dirty wounds, retained material, loss of function, spreading redness/swelling/pus/fever/red streaks need care; tetanus matters.
+FRACTURES: severe deformity/exposed bone/inability to use limb/major focal pain -> suspect fracture. Control bleeding. Do not force straight. Pad/splint in found position; support above/below; check color/warmth/sensation/circulation before/after. Open fracture: cover; do not push bone back.
+EYE: loose dust -> irrigate. Chemical -> immediate copious irrigation. Embedded/penetrating -> do not remove/press; shield without pressure; urgent care.
+POISON: protect rescuer; fresh air for inhalation if safe; remove contaminated clothes; do not automatically induce vomiting; keep label/container; use poison-control/emergency advice if available.
+
+============================================================
+04 ILLNESS, DEHYDRATION, MEDICINES
+============================================================
+DEHYDRATION: frequent small safe-fluid sips. Danger: very little urine, inability to keep fluids down, fainting/marked dizziness, confusion, lethargy, shock, infant/older adult severe dehydration.
+ORS if commercial solution unavailable: 1 liter safe water + 6 level teaspoons sugar + 1/2 level teaspoon salt. Measure carefully; excess salt is dangerous. Give small frequent portions after diarrhea/vomiting. Continue breastfeeding. Bloody diarrhea, severe abdominal pain, persistent high fever, shock, severe dehydration -> professional care.
+RESPIRATORY ILLNESS: rest, fluids, ventilation when weather permits, hand hygiene, cough etiquette, separation from vulnerable people, well-fitting masks when appropriate. Difficulty breathing, blue/gray lips, severe chest pain, new confusion, seizure, inability to stay awake, rapid worsening -> urgent.
+FEVER: fluids/rest/comfort; OTC medicines only by label/contraindications. Fever plus stiff neck, severe confusion/headache, severe breathing trouble, seizure, shock -> urgent.
+MEDICINES: record person/drug/strength/dose/schedule/reason/allergies/prescriber/storage. Keep original labels. Do not casually share prescriptions or double missed doses without instructions. Refrigerated drugs vary; cool without freezing and seek product-specific guidance.
+OTC: read active ingredient. Combination cold/flu products duplicate drugs. NSAIDs may be unsuitable with kidney disease, ulcers, bleeding/anticoagulants, severe dehydration and some pregnancy stages. Aspirin has special risks and is generally avoided in children/teens with viral illness. Do not use leftover antibiotics as universal disaster medicine.
+
+============================================================
+05 WATER: SOURCE, TREATMENT, STORAGE
+============================================================
+Known-safe stored water best. Common planning target ~1 US gallon/4 L person/day drinking/basic sanitation; more in heat, illness, pregnancy/lactation, heavy work, pets.
+POSSIBLE: sealed bottled/stored; clean ice; food liquids; conventional tank water heater if clean and safely isolated; potable plumbing. Toilet tank only if no cleaner/contamination; never bowl.
+AVOID drinking hydronic boiler/radiator water, waterbeds, chemically treated pools/spas, floodwater, seawater, industrial runoff, fuel/solvent/pesticide/firefighting-foam contamination. Boiling does not remove salt/fuel/metals/most chemicals and can concentrate some.
+BIOLOGICAL: cloudy -> settle/prefilter clean cloth. Rolling boil >=1 min; above ~6,500 ft/2,000 m use 3 min. Cool covered. Filters differ: many remove bacteria/protozoa, not viruses; particulate filtration not chemical purification; activated carbon is limited. Chemical disinfectants depend concentration/turbidity/temperature/contact time. Household bleach strength varies; only plain unscented disinfecting bleach with exact current instructions for that concentration, not one universal old recipe.
+RAIN: roofs/gutters add feces/ash/lead/chemicals. First-flush, screened covered storage, treatment. Post-fire/industrial event may be chemically unsafe.
+WELL: flood may contaminate; clear is not proof. Alternative safe source until inspected/disinfected/tested.
+STORAGE: food-grade never-toxic containers; close/protect opening; label SAFE/UNTREATED/NONPOTABLE; away from fuels/pesticides. Pour rather than dip.
+MASS: 1 L water ~1 kg; 1 gal ~8.34 lb. 55 gal ~459 lb water; do not overload floors/roofs.
+
+============================================================
+06 SANITATION, TOILETS, WASTE
+============================================================
+HANDS: soap+safe water after toilet/diaper/waste, before food/eating, before/after wound care, after raw animal product. Alcohol sanitizer >=60% useful when not visibly dirty but not universal for some diarrheal pathogens/chemicals.
+SEWER FAILURE: if warning/backup, stop flushing. Use lined sturdy bucket/disabled toilet with dry absorbent material. Close/isolate waste from food/water/children/animals. Wash hands. Separating urine can reduce volume but neither urine nor feces should be assumed harmless.
+DISPOSAL depends groundwater/soil/flood/density/rules. Keep human waste well away from wells, waterways, food gardens, flood zones, shallow groundwater. Prefer controlled collection when restored.
+GARBAGE: separate human waste, food, sharps, batteries/electronics, chemicals, ordinary trash. Secure rodents/insects. Do not burn plastics, electronics, batteries, treated/painted wood, unknown chemicals.
+DIAPERS/MENSTRUAL/CONTINENCE: sealed waste, handwashing, skin cleaning/barriers, extra supplies/water; prolonged skin breakdown becomes medical.
+
+============================================================
+07 FOOD SAFETY AND COOKING
+============================================================
+POWER OUT: keep fridge/freezer closed; thermometer if available. Perishables generally safest <=40 F/4 C. Time warm, ambient temperature, starting condition, food type matter. Uncertain prolonged warming -> discard high-risk perishables; smell/taste not proof. High-risk: meat/poultry/fish/eggs/dairy, cooked leftovers/rice/pasta, cut melon, sprouts, many prepared foods.
+CANS/JARS: discard bulging/leaking/bad seam/rust-through or suspicious spurting/foaming. Never taste suspicious canned food. Low-acid home canning requires validated pressure process; botulism may have no smell/taste.
+COOKING: outdoor combustion is default. Never charcoal/grill/generator/gasoline engine indoors/garage. Camp propane/butane only where manufacturer explicitly permits; open window does not make outdoor-only appliance safe. CO alarms.
+PANTRY: grains/oats/rice/pasta; beans/lentils; canned proteins/produce; nut/seed butter; shelf-stable milk; oils; salt/sugar/spices; medical/allergy needs. FIFO, dry/cool/pest-protected. Fats spoil faster than salt/sugar/white rice.
+NUTRITION: short term safe water/calories; longer protein, essential fats, vitamins/minerals, fiber, variety. Needs vary by age/work/illness/pregnancy/lactation.
+
+============================================================
+08 FIRE, CO, SMOKE, GENERATORS
+============================================================
+CO is colorless/odorless. Headache, nausea, dizziness, weakness, confusion, chest pain, collapse or several people/pets ill in same enclosed place -> fresh air immediately, emergency care, no re-entry until controlled.
+GENERATOR outdoors far from openings/crawlspaces/attached garages; exhaust away; never basement/garage/enclosed porch; weather protection without trapping exhaust; cool before fuel. Never backfeed house through outlet/male-male cord; proper transfer equipment/interlock required.
+FIRE: smoke alarms; leave early; close doors if safe; crawl low only as needed; no elevator unless directed; meet outside; stay out. Extinguisher for small contained fire only with escape behind; if not rapidly controlled, leave.
+CANDLES: LEDs preferred; if used, stable/attended/away from curtains/bedding/fuel/oxygen/children/pets.
+WILDFIRE SMOKE: cleaner indoor air/filtration where safe. N95/P100 reduces particles, not CO/most gases and supplies no oxygen.
+
+============================================================
+09 COLD, HEAT, SHELTER
+============================================================
+COLD: dry layers, block wind/rain, protect head/hands/feet, insulate beneath sleeping people. Smaller safe zone easier to warm.
+HYPOTHERMIA: shivering, clumsiness, confusion, slurred speech, drowsiness; severe may stop shivering. Handle gently, remove wet clothing, insulate, warm trunk gradually, help. Warm sweet fluid only if alert/swallowing. No alcohol.
+FROSTBITE: protect/refreezing; do not rub/snow. Avoid thaw if unavoidable refreezing likely; medical care.
+HEAT: shade, airflow, reduce exertion, fluids, wet/cool skin. Heat exhaustion: sweating/weak/dizzy/headache/nausea. Heat stroke: altered mental status/collapse/seizure/dangerous overheating -> immediate rapid cooling + emergency transport. Remove excess clothing, wet/fan; cold-water immersion can be highly effective if safe/monitored. Do not delay cooling.
+SHELTER: avoid flood channels, unstable trees/walls, avalanche/landslide paths, exposed ridges during lightning. Ventilation is necessary for permitted combustion; never makes generator/charcoal indoor-safe.
+
+============================================================
+10 ELECTRICITY, BATTERIES, SOLAR
+============================================================
+Prioritize medical equipment, communications/info, lighting, food preservation. Resistance heating/cooking drains batteries fast.
+FORMULAS simple DC/resistive: V=I*R; P=V*I; Wh=W*h. Nominal battery Wh ~V*Ah; usable depends chemistry/rate/temp/age/losses.
+12 V/LEAD-ACID: huge short-circuit current; fuse positive near source; avoid jewelry/tools bridging; polarity; ventilation; no sparks/flames.
+LITHIUM: stop using swollen/hissing/venting/smoking/hot/severely damaged pack; do not puncture; isolate from combustibles if safe; can reignite.
+SOLAR: panel -> compatible charge controller -> battery -> DC load/inverter. Do not connect arbitrary panel to bare lithium cells. Shade reduces output. Correct voltage/chemistry/current.
+WIRES/FUSES: undersized wire overheats; fuse protects conductor; long low-voltage runs lose voltage. Do not increase fuse rating just to stop trips.
+MAINS: do not infer live-mains safety from low-voltage formulas. Moisture, generators, neutral/ground faults, multiple sources are hidden hazards; de-energize/verify/qualified help.
+
+============================================================
+11 COMMUNICATION AND INFORMATION
+============================================================
+PAPER critical contacts, addresses, meds, meeting points, maps, out-of-area relay.
+MESSAGE: TIME / FROM / LOCATION / STATUS / NEED / NEXT ACTION. Exact units/numbers. Preserve source/time through relays.
+CELL: brief SMS may pass congestion better than voice. One status message to relay. Reduce brightness/searching; periodically check service.
+RADIO: listen first; identify as required; plain concise language; repeat critical numbers; log. FRS short range; GMRS/amateur rules vary; terrain/antenna height/repeaters dominate.
+RUMOR: label DIRECT/RELAYED/UNVERIFIED; timestamp; corroborate high-impact claims when safe; send correction on same channel.
+PHYSICAL: message board + runners + fixed check times. Message IDs; copies; runner not sole record.
+
+============================================================
+12 EVACUATION AND NAVIGATION
+============================================================
+Evacuate early for orders or clearly worsening fire/flood/chemical/structural threats. Take people, meds, IDs, water, clothes, mobility aids, communications, pets if possible. Do not delay for possessions.
+Primary+alternate+walking route. Avoid hazard chokepoints: low road/flood, coast/tsunami, damaged bridges/quake, fire corridors, unstable slopes, underground/flood.
+Meeting: near home, outside neighborhood, outside region. Note date/time/destination if leaving message.
+Paper map: north/scale/home/water/clinics/shelters/bridges/industrial hazards/high ground/alternates. Mark closures with time/source.
+Compass: magnetic vs true/grid north differs; local declination matters for precision; keep away from metal/magnets when reading.
+Lost: STOP; last known, route, daylight/weather/water/injury/search. Stay near known route if safe and rescuers expect it. Signal whistle/light/contrast/radio; leave dated note if moving.
+
+============================================================
+13 DISASTER-SPECIFIC FAST RULES
+============================================================
+EARTHQUAKE: Drop, Cover, Hold On; head/neck, away glass. Aftershocks, shoes/gloves, fire/gas/electric, leave serious damage.
+FLOOD: high ground early; never moving water; leave basement when rapid flood possible; after assume mud/well/food/electric contamination.
+HURRICANE/HIGH WIND: evacuate surge zones; upstairs not guaranteed against surge. Safe nonflooding building -> small interior room away windows; eye calm temporary.
+TORNADO: basement/storm shelter or small interior lowest safe floor, away windows; head/neck protection. Manufactured homes vulnerable.
+TSUNAMI: strong/long coastal quake or natural/official warning -> immediately inland/uphill; multiple waves hours; first not largest.
+WILDFIRE: leave early; mask/hose not fire-front protection; route away smoke/fire; N95 particle only.
+LANDSLIDE: move out of channel/path to stable higher ground; burn scar + heavy rain risk.
+LIGHTNING: substantial building/hard-topped vehicle; avoid isolated tree/ridge/open water/fence; tent not protection.
+WINTER VEHICLE: safe location + expected rescue -> vehicle shelter; clear exhaust before running engine; CO risk.
+CHEMICAL: follow shelter/evacuate; close openings/ventilation when ordered; remove/isolate contaminated outer clothing, rinse as appropriate; particle mask not toxic-gas protection.
+FALLOUT: substantial building, distance from exterior/roof, dense shielding; remove/bag outer clothing, shower gently; shelter until reliable instructions. Potassium iodide only when authorities recommend for radioactive iodine.
+OUTBREAK: ventilation/filtration, stay home sick, reduce close crowded exposure, masks where indicated, hygiene, protect high-risk; current pathogen guidance wins.
+
+============================================================
+14 HOUSE SYSTEMS AND BASIC REPAIR
+============================================================
+Know water main, gas control, electrical main, heating shutoff, sewer cleanout; label tools.
+GAS: odor/hissing/damage -> leave/no sparks/contact utility; many systems require qualified restart; never flame-test.
+BURST PIPE: safe -> nearest/main shutoff; keep water from energized systems; drain/relieve as appropriate; temporary clamp/patch monitored.
+ROOF: interior damage preferable to fall. No wet/icy/windy/dark/damaged-roof improvisation. Catch/move/protect; tarp only safe access/fall protection.
+STRUCTURE: major new cracks, lean, sag, foundation shift, fire/partial collapse, ongoing movement/noises -> leave if collapse plausible.
+TOOLS: adjustable wrench, pliers, screwdrivers, hammer, hand saw/hacksaw, knife, measure, fasteners, tape, cord/rope, buckets, shovel, pry bar, tarps, gloves, eye protection, headlamp, extinguisher.
+LADDER: stable base, correct angle/orientation, three points, no top misuse, no power lines/boxes/chairs.
+JACK: jack lifts; stands/cribbing support; never under load on jack alone; chock/stable/correct point.
+
+============================================================
+15 COMMUNITY OPERATIONS
+============================================================
+Map SKILLS: medical/nursing, first aid, electric, plumbing, mechanics, construction, radio, agriculture, cooking, childcare, elder/disability, languages, logistics, mediation, teaching.
+DAILY: people/medical; hazards/weather; water; sanitation; meds; food/fuel/power; communications; work+buddies; next check. Written log.
+ZONES: clean food/water, sleeping, sick care, toilets/waste, fuel/chemicals, repair/dust. Mark unsafe.
+SECURITY: locks, light, access, neighbor awareness, discretion, buddy travel, de-escalation. Avoid traps/electrified barriers/uncontrolled fire.
+RATIONING: measure first; consistent units; publish rules; protect life-critical needs/shared systems; recalc actual burn; secret arbitrary rationing destroys trust.
+GOVERNANCE: emergency authority limited/recorded/reviewable; separate custody/audit where possible; rotate roles; decision log/reasons; mediation/appeal; protect vulnerable/minority groups.
+HEALTH SURVEILLANCE: track counts/time/location of diarrhea, respiratory illness, fever/rash, injuries, animal die-offs, water failures; protect privacy; clusters may identify source.
+
+============================================================
+16 CHILDREN, PREGNANCY, OLDER ADULTS, DISABILITY
+============================================================
+INFANTS: established breastfeeding reduces water/equipment dependence where possible. Formula exact manufacturer dilution with safe water/clean preparation; never add extra water. Monitor feeding/wet diapers/alertness.
+CHILDREN: dehydrate/lose heat faster, smaller medication margins, choking/injury risk; assigned adult; no guessed adult drug doses.
+PREGNANCY: hydration/nutrition/infection/heat protection/obstetric access. Heavy bleeding, seizure, severe headache/vision change, severe abdominal pain, breathing difficulty, labor concern, marked reduction established fetal movement -> urgent evaluation.
+OLDER: acute confusion can be infection, dehydration, oxygen/glucose/temperature/medication/head injury/stroke; not "just age". Maintain mobility/glasses/hearing/fall prevention.
+DISABILITY: ask person what assistance works; preserve mobility aids, AAC, hearing batteries, chargers, service-animal, feeding/continence; accessible evacuation.
+
+============================================================
+17 FOOD PRODUCTION AND PRESERVATION
+============================================================
+Garden is future resilience, not today's calories. Stabilize water/sanitation/shelter first.
+CROPS: local season. Mix calorie crops (potato/sweet potato/corn where suitable), legumes, quick greens, roots, squash/storage, herbs, perennials. Diversity reduces single failure.
+SOIL: avoid industrial/fuel/sewage/flood unknown/lead debris/fire ash contamination until assessed. Raised clean soil helps but water/dust pathways remain.
+FERTILITY: plants need N-P-K plus other nutrients/pH/structure. Organic matter improves water/soil. Excess fertilizer harms/pollutes; test/observe.
+COMPOST: plant/food materials, air/moisture, carbon/nitrogen balance. Keep hazardous chemicals, unknown ash, treated wood, pet/human feces out of ordinary food-garden compost.
+IRRIGATION: roots, lower evaporation times, drip/mulch; no fecally contaminated water on edible crops.
+SEED: cool/dry/dark/labeled crop-variety-year; preserve reserve; open-pollinated more predictable than hybrids but cross-pollination/biennials need species knowledge.
+PESTS: identify first; diversity/rotation/sanitation/row covers/hand removal/traps/beneficials/targeted controls. Pesticide label is law/safety; stronger not better.
+PRESERVATION: drying/ferment/freezing/water-bath/pressure canning are different. Low-acid food needs validated pressure-canning recipe/altitude/equipment. Never invent time/pressure.
+
+============================================================
+18 MECHANICS, MATERIALS, CONSTRUCTION
+============================================================
+Do not stand under suspended loads; unknown rope/anchor not for people.
+LEVER: torque=force*perpendicular distance; longer handle increases torque and break risk.
+PULLEY: ideal advantage ~supporting rope segments; friction reduces; more rope travel; anchor loads matter.
+ROPES: bowline fixed loop; figure-eight stopper/loop family; clove hitch temporary; two half-hitches secure; trucker's hitch tension. Knots reduce strength; practice; life safety rated gear/training.
+FASTENERS: correct driver/wrench; force gradual; multiple critical attachments; tape not sole structure; predrill wood near ends as appropriate; mark disassembly order.
+WOOD: moisture rot/mold; splits/knots affect strength; triangles brace; do not remove load-bearing parts blindly.
+MASONRY: strong compression, weak tension/out-of-plane; leaning/bulging/cracked damaged walls dangerous.
+CONCRETE: strength depends design/mix/compaction/curing/reinforcement; excess water weakens; structural concrete not improvised by generic recipe.
+METAL/HOT WORK: eye/face protection/fire watch; never weld/cut unknown sealed containers; coatings can release toxic fumes.
+CORROSION: dry/clean/protect; rinse salt; dissimilar metals+electrolyte can galvanically corrode.
+
+============================================================
+19 VEHICLES AND TRANSPORT
+============================================================
+Never idle engine in garage/enclosed area even door open.
+FUEL approved containers/lawful quantity/away ignition/living; no mouth siphon; rotate aging fuel.
+STRANDED: if safe known road/rescue likely, vehicle gives shelter/visibility; signal/insulate/conserve; snow -> clear tailpipe before engine. Flood/fire/unstable location -> leave.
+TIRE: stable away traffic; parking brake/chock; loosen lugs before lift; manufacturer jack point; no body under jack; hand-start; cross/star tighten; final torque spec/recheck.
+OVERHEAT: stop safely, shut down, cool; never remove hot radiator cap; inspect only cooled; severe overheating destroys engine.
+BICYCLE: tires within markings, brakes function, wheels secure, steering/bearings no dangerous play, chain lightly lubricated/wiped. Find tire cause before new tube.
+
+============================================================
+20 WATER SYSTEMS, PLUMBING, VENTILATION
+============================================================
+HEAD: ~2.31 ft water =1 psi; 10 m ~1 bar/100 kPa. Flow depends pipe diameter/length/roughness/valves/elevation.
+SIPHON: filled hose from higher source surface to lower outlet; no energy creation; no mouth-siphon fuel/chemicals.
+BACKFLOW: never connect unsafe water to potable plumbing without protection.
+FREEZE: protect pipes from cold airflow; maintain heat/drain when appropriate. Never thaw with open flame. Know shutoff because hidden split leaks on thaw.
+DRAINS: traps hold water against sewer gas; refill dry trap. Backup -> stop water use/flushing/isolate. No sewer/confined-space entry.
+VENTILATION: fresh air controls moisture/disease/pollutants, but smoke/chemical events may call isolation/filtration. Do not block required combustion vents.
+
+============================================================
+21 LOGISTICS, RECORDS, MONEY
+============================================================
+DAYS SUPPLY=usable amount/daily use. Track actual rolling average and reserve. Example 72 L/(4 people*3 L/day)=6 days drinking/cooking budget.
+WORK ORDER: problem/location/risk/result/responsible/tools/materials/isolation/start-finish/test/follow-up.
+HANDOFF: changed/unresolved hazards/people follow-up/inventory/equipment/messages/decisions.
+INCIDENT LOG: time/source/observation/decision/action/result/next check. Separate direct observation/inference.
+MEDICAL LOG: person/allergies/baseline/event/symptoms-vitals/treatment/medicine-time/response/priority.
+SUPPLY LOG: item/unit/start/used/remain/rate/day/location.
+DOCUMENTS: IDs, prescriptions, insurance, deeds/leases, utility/account contacts, manuals/maps; paper+offline copies; sensitive credentials private.
+CASH/BARTER: date/parties/item/unit/amount/payment-credit/signatures for major exchanges; reconcile.
+SCAMS: verify independently; urgency+secrecy+irreversible payment/credentials warning.
+
+============================================================
+22 MATH, UNITS, PHYSICS
+============================================================
+1 L=1000 mL; 1 kg=1000 g; 1 m=100 cm.
+1 gal=3.785 L; 1 qt=0.946 L; 1 lb=0.454 kg; 1 oz mass=28.35 g; 1 in=2.54 cm; 1 ft=0.3048 m; 1 mi=1.609 km; acre=43,560 ft2~4047 m2.
+C=(F-32)*5/9; F=C*9/5+32. 0C=32F;20C=68F;37C=98.6F;100C=212F sea level.
+Rectangle area=L*W; triangle=b*h/2; circle=pi*r^2; circumference=2*pi*r; rectangular volume=L*W*H; cylinder=pi*r^2*h.
+Percent=value/total*100; percent change=(new-old)/old*100; grade%=rise/run*100.
+Speed=distance/time; density=mass/volume; pressure=force/area; power=energy/time.
+Heat: conduction/convection/radiation. Insulation slows heat flow; wet insulation often poor; wind increases convective loss; evaporation cools, best dry air. Water expands freezing.
+Center of gravity beyond support footprint -> tip; heavy items low/wide/sealed.
+Energy cannot be created from nothing; efficiency<100%; perpetual-motion claims are error/fraud.
+
+============================================================
+23 CHEMICAL SAFETY
+============================================================
+Keep original labels; never drink bottles. Separate fuels/oxidizers/acids/bases/pesticides from food/water/meds.
+Never mix bleach with ammonia, acids/vinegar, toilet cleaners, unknown cleaners; toxic gases form. Bleach degrades/concentration varies; label instructions.
+Strong acids/bases burn. Do not neutralize chemical skin injury with opposite reagent; irrigate. Untrained people should avoid concentrated reagents.
+Solvents often flammable/toxic; ventilation/no ignition/compatible gloves; never gasoline as cleaner.
+Lead-acid battery: acid + hydrogen; lithium: thermal runaway; alkaline leak caustic. Chemistry-specific cleanup/protection.
+pH alone never proves drinking water safe.
+
+============================================================
+24 WORKSHOP DIAGNOSIS
+============================================================
+PROCESS: verify complaint -> inspect obvious power/fuel/damage -> isolate subsystem -> measure -> change one variable -> test -> document. Random part swapping consumes spares/creates faults.
+DISASSEMBLY: photo/draw, mark orientation, trays/bags, label fasteners, note shims/washers, clean work, preserve seals/gaskets.
+LOW-VOLT ELECTRIC: source voltage -> fuse -> connector/corrosion -> switch -> load. No-load voltage may hide high resistance; measure voltage drop under load. Know meter mode; current mode across voltage source can short.
+MECHANICAL: locate noise/heat/smell/vibration/leak/play/binding/load dependence; stop before catastrophic damage; compare known-good.
+PARTS: label machine/type/dimensions/thread/polarity/voltage; donor record; manuals/diagrams.
+
+============================================================
+25 INFORMATION PRESERVATION AND TEACHING
+============================================================
+Critical knowledge in multiple forms: printed quick cards, UTF-8 text, standard images/PDF, removable media, distributed copies. Cloud/proprietary-only can vanish.
+Plain text durable; CSV tables; PNG/JPEG diagrams; PDF fixed page. README + archive structure + checksums when tools exist.
+Index corpus alphabetically/by scenario/by skill/first-hour. Stable section IDs allow radio reference.
+LOCAL KNOWLEDGE: wells, shutoffs, bridges, clinics, skilled people, hazards, planting dates, equipment parts, channels, routes. Local often more valuable than generic.
+TEACH: purpose -> demonstrate -> learner performs -> correct -> learner teaches. Two people minimum for critical skill. Record competence.
+SCIENTIFIC METHOD: observe -> define -> hypothesize -> smallest safe discriminating test -> record -> update. Separate know/think. Preserve failed tests.
+
+============================================================
+26 WEATHER AND ENVIRONMENT
+============================================================
+LIGHTNING: if thunder, substantial building/hard-topped vehicle. Avoid isolated trees/ridges/fields/open water/metal fences; tent not protection.
+FLASH FLOOD: rain upstream can flood dry channel; no shelter in washes/culverts/underpasses when storms threaten.
+WINTER: avoid travel; stranded safe vehicle often visible shelter; tailpipe clear before periodic engine; CO.
+WIND: loose objects become projectiles; avoid windows/trees/unstable facades.
+AIR: dust masks/N95 protect particles only; unknown toxic gas or oxygen deficiency requires leaving/special respiratory equipment.
+
+============================================================
+27 HYGIENE, DENTAL, SKIN, PESTS
+============================================================
+FEET: dry, sock change, air footwear, treat hot spots early. Spreading redness/pus/fever/red streak -> infection.
+DENTAL: brush safe water/floss. Facial/neck swelling+fever/difficulty swallow/breathe/eye spread -> urgent. No aspirin/caustic chemicals on gum.
+SKIN: keep folds dry, change wet clothing, minor cuts clean, avoid shared razors/towels.
+RODENTS: secure food/waste; ventilate closed infestations; avoid dry sweeping droppings aerosol; wet/disinfect by public-health guidance, gloves/respiratory protection.
+MOSQUITO/TICK: eliminate standing water where possible; nets/repellent/protective clothes; check ticks; local disease guidance.
+
+============================================================
+28 STORAGE AND SIX-MONTH PLANNING
+============================================================
+Do not begin with a giant shopping list. Measure actual household consumption. Build layers: 3 days -> 2 weeks -> 1 month -> longer. Rotate what people eat/use.
+WATER long-term storage volume is heavy and often impractical; combine stored buffer with resilient treatment/source plans.
+FOOD: calculate calories/protein/fats and dietary constraints but avoid false precision. Test menus using stored food before crisis; include cooking fuel/water. A six-month pantry that requires grid power or huge cooking water is not six-month resilient.
+ZONE by frequency: daily kitchen, monthly pantry, deep storage, emergency reserve. Cool/dry/dark/pest-protected. Shelves rated for load; canned/water mass adds quickly.
+INVENTORY quarterly: damaged containers, pests/moisture, dates, actual counts, temperature, fuel, medicines, batteries. FIFO.
+NONFOOD: soap, toilet supplies, menstrual/continence, diapers, cleaners, trash bags, gloves, filters, lighting, repair consumables, batteries, pet supplies.
+
+============================================================
+29 LOCAL FOOD SYSTEM DEVELOPMENT
+============================================================
+Start small and measure yields. Sun hours, frost dates, water availability, soil, pests, labor decide more than internet yield claims.
+Intensive beds/containers/vertical supports can increase usable space but not create sunlight/water/nutrients. Containers dry fast and need drainage.
+Season extension: cold frames/row covers/hoop structures can protect crops but overheating/ventilation/wind anchoring matters.
+Perennials/orchards take years; plant early in recovery but do not count near-term calories before established.
+Livestock adds feed/water/waste/veterinary/predator work. Obtain only with sustainable inputs. Local law/animal welfare/disease control still matter.
+Community seed/tool libraries reduce duplication; preserve locally successful varieties and notes, not just seed packets.
+
+============================================================
+30 PASSIVE COMFORT, BUILDING ENVELOPE
+============================================================
+COLD: stop rain/wind leaks first; insulate occupied zone; curtains/blankets safely away heaters; insulation under bodies; sun gain day/cover night.
+HEAT: shade outside windows/roof where feasible; close hot-side coverings by day; ventilate when outside cooler; night flush; exhaust hot air high; minimize internal heat; lower/shaded floors.
+MOISTURE: cooking/breathing create humidity; condensation -> mold/rot. Vent when outdoor conditions allow. Do not seal combustion venting.
+WINDOW BREAK: remove people/glass hazard, gloves/eye protection; temporary board/plastic with secure perimeter, allowance for wind/water drainage; do not create trapped CO/egress hazard.
+
+============================================================
+31 COMMUNICATION PROTOCOLS
+============================================================
+CHECK-IN scheduled windows save battery. Example every even hour; local needs decide.
+NUMBER messages sequentially per household/station; acknowledgement by ID prevents duplicates.
+PRIORITY: P1 life threat; P2 evacuation/missing/injury; P3 water/medical/infrastructure; P4 welfare/logistics; P5 routine.
+RELAY unchanged core text; add RELAY BY/time. Do not silently paraphrase measurements/locations.
+LOCATION format standard: street/intersection/building-floor-room or map grid/GPS when available. Repeat digits.
+STATUS colors only if community defines them; plain words safer than ambiguous codes.
+
+============================================================
+32 SEARCH AND RESCUE BOUNDARIES
+============================================================
+Untrained people should not enter collapse, fire, confined spaces, swift water, chemical zones, live electrical areas. Mark last-known location, time, clothing, condition, intended route. Search in buddies with map, boundaries, check-ins. Do not create more missing people.
+Whistle less energy than shouting. Patterned repeated signal and visual contrast/light can attract searchers. Leave clues before moving.
+
+============================================================
+33 WORK SAFETY AND PPE
+============================================================
+Fatigue, hurry, darkness, dehydration and improvised tools cause injury. Stop when footing/light/attention poor.
+EYE protection for hammering/cutting/grinding; hearing around prolonged loud; gloves for sharp/dirty but loose gloves away rotating machinery; respirator matched to hazard.
+Knife: stable work, cut away, sheath; dull blade needs force.
+Hot work: clear combustibles, extinguisher/fire watch, ventilation, eye/skin protection; no unknown sealed containers.
+Dust: wet methods/HEPA where possible; silica/asbestos/lead require special controls, not ordinary dust mask.
+
+============================================================
+34 MAINTENANCE
+============================================================
+Preventive maintenance: inspect, clean, lubricate, tighten, dry, rotate, charge/test, exercise valves/generators where manufacturer allows, replace consumables. Record date/hour meter/condition/action/parts.
+Do not over-maintain safety devices: never block pressure relief, oversize fuses, defeat guards/interlocks, tape down switches.
+Spare strategy: common failure consumables (filters, belts, fuses, lamps, connectors, seal materials, tire repair, lubricants) chosen for actual equipment, not generic hoard.
+
+============================================================
+35 EDUCATION AND ROUTINE
+============================================================
+Children/adults need routine. Preserve literacy, arithmetic, practical science, history/records, vocational skill. Short daily lessons and apprentice work prevent knowledge loss.
+For each system create one-page: purpose; normal state; shutdown; restart; hazards; daily/weekly/monthly checks; spare parts; owner+backup.
+Teach by performance, not reading: learner demonstrates under supervision then teaches another.
+
+============================================================
+36 COMPUTING AND DIGITAL FALLBACK
+============================================================
+Conserve functioning devices for high-value tasks: records/search/maps/calculation/comms. Keep chargers/cables/adapters labeled. Prefer local/offline files over account-dependent cloud.
+Offline archive should have START.txt, keyword index, simple directory names, standard formats, duplicate media. Test on more than one device/OS.
+If one device can host local Wi-Fi/web server, browsers across mixed devices can access common library without app installs; but retain direct copies because server is single point.
+Power-cycle less when boot risk/storage corruption; make backups before experiments. Do not erase a working device to install untested system during crisis.
+
+============================================================
+37 SALVAGE AND CANNIBALIZATION
+============================================================
+Before dismantling: is donor repairable/useful? Is needed part obtainable elsewhere? Photograph/label. Preserve screws/connectors/cables/motors/switches/bearings/sensors only if recognizable and safely stored. Unknown lithium cells, capacitors, CRT/high-voltage gear, refrigerants, pressurized cylinders require caution.
+Cannibalize lowest-value failed assets before functioning multipurpose equipment. Keep donor log so future repairers know what disappeared.
+
+============================================================
+38 ENERGY BUDGET
+============================================================
+List loads: watts, hours/day, Wh/day, criticality, surge. Sum critical first. Example:
+radio 5W*4h=20Wh; phone charge ~15Wh; LED 5W*5h=25Wh; medical device label-specific. Compare with realistic battery usable Wh and daily solar/generator input.
+Energy hierarchy: eliminate load -> shorten runtime -> lower-power substitute -> schedule/batch -> generate/store more. Efficiency is often cheaper than generation.
+Fuel generator efficiency worsens at tiny/poorly matched load; batch charging may conserve fuel where equipment permits. Never compromise CO/exhaust safety for efficiency.
+
+============================================================
+39 WATER BUDGET
+============================================================
+Separate DRINK/COOK, MEDICAL, HAND/HYGIENE, DISH, LAUNDRY/CLEANING. Measure container volumes and actual daily use. Fix leaks. Use nonpotable water only for appropriate tasks and label clearly. Do not use contaminated graywater on wounds/food-contact surfaces.
+Source resilience: stored buffer + treatment method + collection/resupply plan + clean containers. One giant tank is a single failure; multiple containers improve portability/redundancy.
+
+============================================================
+40 FOOD BUDGET
+============================================================
+Inventory by calories/protein/fat, but also fuel/water/prep. Use perishables first while safe. Reserve no-cook food for evacuation/fuel failure. Track servings/day; do not let snack foods silently consume reserve.
+Test a 3-day stored-food menu during normal time: measure water, fuel, cleanup, waste, acceptance. Correct plan from evidence.
+
+============================================================
+41 MEDICAL RED-FLAG CARD
+============================================================
+URGENT/EMERGENCY where possible: severe breathing trouble; unresponsive/not breathing normally; uncontrolled major bleeding; stroke signs; severe chest pain/possible heart attack; anaphylaxis; prolonged/repeated seizure; major head/spine trauma with neurologic change; severe burn/electrical/chemical inhalation; poisoning; severe dehydration/shock; pregnancy heavy bleeding/seizure/severe symptoms; infant severe lethargy/breathing/dehydration; rapidly spreading infection with systemic illness.
+When professional care unavailable: stabilize airway/breathing/bleeding, prevent temperature extremes, safe fluids only when appropriate, document timing/treatments, arrange transport/communication. Do not let an improvised advanced procedure delay reachable skilled care.
+
+============================================================
+42 FOOD-SAFETY DECISION CARD
+============================================================
+Was food shelf-stable and package intact? Usually keep.
+Perishable continuously <=40F/4C? Usually keep.
+Temperature/time unknown after long outage, high-risk food? Discard.
+Bulging/leaking/damaged can/jar? Discard without tasting.
+Floodwater contacted food package? Discard porous/cardboard and many compromised containers; follow official guidance for intact commercial cans when available.
+Mold? Rules vary by food; soft/high-moisture foods generally discard rather than trimming; uncertain -> discard.
+Chemical contamination/smoke residues? Do not assume washing makes safe.
+
+============================================================
+43 WATER DECISION CARD
+============================================================
+Sealed known safe -> drink/store.
+Unknown clear natural source, no chemical suspicion -> treat biologically.
+Cloudy -> settle/prefilter then disinfect.
+Saltwater -> needs desalination, not ordinary filter/boil.
+Fuel/solvent/pesticide/industrial/firefighting contamination -> find another source/specialized treatment.
+Floodwater -> avoid; chemical+microbial risk.
+Fallout particles -> sealed source best; ordinary boiling not radiation removal.
+
+============================================================
+44 REPAIR DECISION CARD
+============================================================
+Can hazard be isolated/de-energized/depressurized? If no, stop.
+Does job involve height, collapse, confined space, live mains, gas, high pressure, unknown chemical, high-voltage battery? Seek trained help/defer.
+Can temporary repair fail safely/visibly? If yes, consider.
+Document temporary status; schedule inspection; do not hide with cosmetic cover.
+Test at reduced load first when possible.
+
+============================================================
+45 LOCAL ADAPTATION WORKSHEET
+============================================================
+LOCATION/CLIMATE: ____
+Top hazards by season: ____
+Evacuation zone/route A/B: ____
+Nearest high ground: ____
+Water stored/source/treatment: ____
+Gas/water/electric shutoffs: ____
+Shelter/cooling/heating fallback: ____
+Hospital/clinic/pharmacy: ____
+Family meeting points: ____
+Out-of-area contact: ____
+Radio/local alert sources: ____
+People with medical dependencies: ____
+Neighbors with key skills: ____
+Pets/livestock: ____
+Industrial/rail/flood/fire hazards nearby: ____
+Copies/maps location: ____
+Next drill/date: ____
+
+============================================================
+46 SKILL MATRIX
+============================================================
+Rows: CPR/AED; bleeding; water treatment; sanitation; fire extinguisher; generator; radio; map/compass; plumbing shutoff; electrical isolation; vehicle tire; bicycle repair; gardening; food preservation; childcare; elder/disability; records/logistics.
+Columns: PERSON / TRAINED? / PRACTICED DATE / CAN TEACH? / BACKUP.
+No critical row should depend on one person.
+
+============================================================
+47 WEEKLY/MONTHLY MAINTENANCE TEMPLATE
+============================================================
+WEEKLY during disruption: water level/quality; waste; meds; batteries; generator/fuel; perishable food; illness/injury; comms; weather/routes; structure leaks.
+MONTHLY normal preparedness: smoke/CO tests per manufacturer; extinguishers visual; water/food rotation; med expiration/resupply; power banks; radios; vehicle; tool rust; documents; contacts; pet/infant needs. Follow device-specific intervals where different.
+
+============================================================
+48 COMMUNITY MESSAGE BOARD TEMPLATE
+============================================================
+DATE/TIME | TYPE(Hazard/Need/Offer/Person/Route) | LOCATION | MESSAGE | SOURCE | VERIFIED? | EXPIRES/NEXT CHECK | CONTACT.
+Never publish sensitive medical/security data beyond need. Cross out obsolete but preserve readable history. Assign moderator to remove rumor/duplicate and timestamp corrections.
+
+============================================================
+49 COMMUNITY RESOURCE MAP
+============================================================
+Map: potable/treatment water; toilets/waste; first-aid/medical; charging/power; cooking; food distribution; shelter/cooling/heating; communications; tools/workshop; transport; childcare; accessibility; fire equipment; hazardous/closed zones.
+Separate public locations from security-sensitive reserve storage.
+
+============================================================
+50 LOW-TECH FALLBACK
+============================================================
+No internet -> SMS/radio/runner/bulletin.
+No phones -> radio/whistle/runner/paper.
+No GPS -> paper map/compass/landmarks.
+No electronic inventory -> cards/ledger/tallies.
+No electric light -> daylight scheduling/LED battery; flame only controlled.
+No pump -> gravity/manual collection where safe.
+No refrigeration -> shelf-stable food, safe immediate use/preservation.
+No electronic payment -> cash/paper ledger.
+No printer -> hand-copy priority cards; assign proofreader.
+No calculator -> written arithmetic/unit analysis.
+The objective is graceful degradation, not preserving a particular device.
+
+============================================================
+51 REFERENCE FORMULAS
+============================================================
+Water mass: kg ~= liters; lb ~= gallons*8.34.
+Tank rectangular liters = L(m)*W(m)*H(m)*1000.
+Cylinder liters ~= pi*r(m)^2*h(m)*1000.
+Electrical: W=V*A; Wh=W*h; A=W/V.
+Battery approximate Wh=nominal V*Ah (usable less).
+Mechanical: work=force*distance; power=work/time; torque=force*lever arm; pressure=force/area.
+Flow average=volume/time.
+Days supply=stock/daily use.
+Cost/unit=total cost/usable units.
+Map real distance=map distance*scale.
+Do dimensional/unit checks.
+
+============================================================
+52 PROBLEM-SOLVING PROTOCOL
+============================================================
+1 define desired state;
+2 make scene/system safe;
+3 observe before changing;
+4 list plausible causes ranked simple/common/dangerous;
+5 test one discriminating variable safely;
+6 record;
+7 repair smallest confirmed cause;
+8 test under controlled load;
+9 monitor recurrence;
+10 update documentation.
+Avoid simultaneous changes because success/failure becomes uninterpretable.
+
+============================================================
+53 COMMUNITY CONFLICT RULES
+============================================================
+State facts and uncertainty. Separate person from problem. Use neutral mediator. Record resource rules before scarcity becomes acute. Decisions affecting many need more than one custodian/approver where feasible. No punishment without evidence/process. Correct public errors publicly. Private grievances not broadcast as hazard reports.
+
+============================================================
+54 AFTER-ACTION REVIEW
+============================================================
+Within safe period ask: What happened? What was expected? What worked? What failed? Near misses? Which supplies unused/critical? Which information late/wrong? Which single points failed? What training missing? Actions, owner, due date. Preserve review with archive; change plans rather than merely praising effort.
+
+============================================================
+55 PRE-EVENT HIGH-RETURN PREPARATION
+============================================================
+Learn CPR/AED/bleeding in person. Learn water/gas/electric controls. Maintain smoke/CO/extinguisher. Practice evacuation/communication. Paper maps/contacts. Medication buffer legally/medically feasible. Rotate food/water. Backup docs offline. Maintain vehicle/tools/batteries. Know neighbors.
+BASIC CACHE: water/containers/treatment; familiar shelf-stable food/opener; essential meds/list; first-aid/bleeding; headlamps; batteries/power bank; radio; smoke/CO alarms; extinguisher; seasonal clothes/blankets; sanitation bags/bucket/soap; gloves/eye/N95; tools/tarps/cord/tape; maps/contacts/cash; chargers; infant/pet/disability items.
+
+============================================================
+56 FINAL DECISION RULES
+============================================================
+1 Avoid the second casualty.
+2 Fast fatal threats first: scene, bleeding, breathing, fire/CO, drowning, lethal temperature.
+3 Safe water+sanitation outrank elaborate food acquisition.
+4 Keep clean and dirty physically separate.
+5 Smell/taste cannot prove safety for CO, microbes, chemicals, spoiled food.
+6 Invisible hazards: electricity, CO, structural instability, flood contamination, low oxygen.
+7 Property damage is preferable to risky roof/live wire/confined space/flood/fire entry.
+8 Timestamp observations; separate evidence from rumor.
+9 Redundancy beats one perfect tool.
+10 Under context-sensitive precision, stabilize/isolate/preserve options/seek qualified help rather than confident improvisation.
+
+============================================================
+INDEX
+============================================================
+AIR/CO/GENERATOR 08,26
+BATTERY/ELECTRIC/SOLAR/ENERGY 10,38,51
+BLEEDING/CPR/CHOKING/SHOCK 02,41
+BURNS/WOUNDS/FRACTURES/EYE 03
+CHILD/INFANT/OLDER/DISABILITY/PREGNANCY 16
+CHEMICAL/FALLOUT/OUTBREAK 13,23
+COLD/HEAT/SHELTER 09,30
+COMMUNICATION/RADIO/RUMOR 11,31,48
+COMMUNITY/GOVERNANCE/SECURITY 15,49,53
+COMPUTING/OFFLINE 25,36,50
+DOCUMENTS/MONEY/LOGS 21
+EARTHQUAKE/FLOOD/HURRICANE/TORNADO/TSUNAMI/WILDFIRE 13
+EVACUATION/MAP/LOST/SEARCH 12,32
+FOOD/FRIDGE/COOKING/STORAGE 07,28,40,42
+GARDEN/SEED/CANNING/FOOD PRODUCTION 17,29
+GAS/PIPE/ROOF/TOOLS/STRUCTURE 14,20,33,44
+HYGIENE/DENTAL/PESTS/CLEANING 06,27
+ILLNESS/ORS/MEDICINE 04,41
+LOGISTICS/RATIONING 21,28,39,40
+MATH/UNITS/PHYSICS 22,51
+MECHANICS/MATERIALS 18,24,33,34,37
+SANITATION/TOILET/WASTE 06
+VEHICLE/FUEL 19
+WATER 05,20,39,43
+WEATHER 13,26
+
+END
+
+============================================================
+PACKED REFERENCE LAYER
+============================================================
+The preceding CORE is the safety/priority layer. The material below preserves lower-priority source detail where the byte budget permits. When estimates conflict or local conditions differ, the CORE's conservative rules and current local/professional guidance take precedence.
+
+
+--- SOURCE REFERENCE: disaster/knowledge_base/long_term_sustainability/community_resilience_building.md ---
+#  Community Resilience Building - Network Development Guide
+
+##  Overview
+Individual preparedness has limits. True long-term resilience requires strong community networks that can coordinate resources, share knowledge, and provide mutual support during extended disruptions. This guide provides frameworks for building and maintaining resilient community networks.
+
+##  Community Network Types
+
+### **Primary Networks (Core Survival)**
+
+#### **Neighborhood Circles (15-25 People)**
+**Optimal Size**: 20 people (5-6 households)
+**Geographic Range**: 2-3 blocks or 0.5 mile radius
+**Meeting Frequency**: Weekly during normal times, daily during crises
+
+##### **Core Functions**
+- **Immediate Response**: First 24-48 hours of crisis
+- **Resource Sharing**: Daily needs and emergency supplies
+- **Security**: Neighborhood watch and protection
+- **Communication Hub**: Information relay point
+
+##### **Organization Structure**
+- **Circle Coordinator**: Rotating monthly role
+- **Resource Manager**: Tracks shared supplies
+- **Communications Lead**: Maintains contact systems
+- **Security Coordinator**: Organizes watch schedules
+
+##### **Formation Steps**
+1. **Week 1-2**: Identify interested neighbors
+2. **Week 3-4**: First informal gathering, gauge interest
+3. **Month 2**: Establish regular meeting schedule
+4. **Month 3**: Define roles and responsibilities
+5. **Month 4+**: Begin skill sharing and resource mapping
+
+#### **Skill Circles (10-15 People)**
+**Focus**: Specific skill development and sharing
+**Meeting Frequency**: Bi-weekly workshops/practice sessions
+
+##### **Medical Circle**
+- **Participants**: Medical professionals, first aid trained
+- **Resources**: Medical supplies, knowledge sharing
+- **Training**: CPR, first aid, emergency medicine
+- **Equipment**: Shared medical kit, emergency supplies
+
+##### **Food Production Circle**
+- **Participants**: Gardeners, farmers, food preservers
+- **Resources**: Seeds, tools, preservation equipment
+- **Training**: Gardening, preservation, nutrition
+- **Equipment**: Shared tools, processing equipment
+
+##### **Technical Circle**
+- **Participants**: Mechanics, electricians, engineers
+- **Resources**: Tools, repair knowledge, parts
+- **Training**: Repair skills, alternative energy
+- **Equipment**: Shared tool library, workshop space
+
+##### **Security Circle**
+- **Participants**: Military, police, security-minded civilians
+- **Resources**: Training, equipment, coordination
+- **Training**: Self-defense, situational awareness
+- **Equipment**: Communication gear, basic protection
+
+### **Secondary Networks (Extended Support)**
+
+#### **Resource Hubs (50-100 People)**
+**Geographic Range**: 1-2 mile radius
+**Function**: Larger resource pooling and distribution
+
+##### **Community Resource Center**
+- **Location**: Church, school, community center
+- **Storage**: Bulk supplies, shared equipment
+- **Distribution**: Coordinated resource sharing
+- **Governance**: Representative council from neighborhoods
+
+##### **Tool Library System**
+- **Inventory**: 200-500 tools and equipment pieces
+- **Check-out System**: Borrowing protocols
+- **Maintenance**: Repair and replacement fund
+- **Training**: Tool use and safety workshops
+
+##### **Seed Library**
+- **Collection**: Locally adapted varieties
+- **Exchange**: Annual seed swap events
+- **Education**: Growing and seed saving workshops
+- **Preservation**: Climate-controlled storage
+
+#### **Economic Cooperatives (30-75 People)**
+**Focus**: Alternative economic systems during disruption
+
+##### **Buying Cooperative**
+- **Bulk Purchasing**: Food, fuel, supplies at wholesale
+- **Cost Savings**: 20-40% savings through volume
+- **Quality Control**: Vetting of suppliers and products
+- **Distribution**: Coordinated pickup and delivery
+
+##### **Skill Exchange Network**
+- **Time Banking**: Hour-for-hour skill trading
+- **Service Directory**: Available skills and services
+- **Quality Assurance**: Feedback and rating system
+- **Coordination**: Central scheduling system
+
+##### **Local Currency System**
+- **Currency Design**: Community-specific exchange medium
+- **Acceptance Network**: Local businesses and individuals
+- **Backing System**: Hours, goods, or services backing
+- **Administration**: Elected oversight committee
+
+##  Network Building Process
+
+### **Phase 1: Foundation (Months 1-3)**
+
+#### **Community Assessment**
+**Goal**: Map existing networks and identify key people
+
+##### **Neighborhood Mapping Exercise**
+1. **Door-to-Door Survey**: Introduce yourself, gauge interest
+2. **Skills Inventory**: What can each person contribute?
+3. **Resource Mapping**: What does each household have to share?
+4. **Interest Assessment**: Willingness to participate level
+5. **Leadership Identification**: Natural leaders and organizers
+
+##### **Asset Mapping**
+- **Physical Assets**: Buildings, tools, equipment, land
+- **Human Assets**: Skills, knowledge, connections
+- **Institutional Assets**: Churches, schools, businesses
+- **Natural Assets**: Water sources, growing spaces
+
+##### **Communication Survey**
+- **Preferred Methods**: Phone, email, text, in-person
+- **Technology Access**: Internet, smartphones, radios
+- **Backup Systems**: Alternative communication plans
+- **Information Preferences**: Meeting style, frequency
+
+#### **Initial Network Formation**
+**Goal**: Establish first working groups
+
+##### **Introductory Community Meeting**
+- **Venue**: Neutral, accessible location
+- **Agenda**: Introductions, purpose discussion, next steps
+- **Outcome**: Interest groups formation
+- **Follow-up**: Contact information exchange
+
+##### **Working Groups Establishment**
+- **Communication Group**: Newsletter, phone tree, bulletin board
+- **Skills Group**: Workshops, training coordination
+- **Resources Group**: Sharing systems, bulk buying
+- **Emergency Group**: Preparedness planning, response protocols
+
+### **Phase 2: Development (Months 4-12)**
+
+#### **System Implementation**
+**Goal**: Put working systems in place
+
+##### **Communication Systems**
+1. **Phone Tree**: Rapid information dissemination
+2. **Newsletter**: Monthly community updates
+3. **Bulletin Boards**: Physical information posting
+4. **Digital Groups**: Email lists, social media groups
+5. **Emergency Protocols**: Crisis communication procedures
+
+##### **Resource Sharing Systems**
+1. **Tool Library**: Check-out system and storage
+2. **Bulk Buying**: Quarterly group orders
+3. **Skill Exchange**: Time bank or trading system
+4. **Emergency Cache**: Community emergency supplies
+5. **Transportation**: Ride sharing, emergency transport
+
+##### **Regular Activities**
+- **Monthly Meetings**: Community updates and planning
+- **Skill Workshops**: Monthly skill-sharing sessions
+- **Social Events**: Quarterly community building events
+- **Emergency Drills**: Annual preparedness exercises
+
+#### **Leadership Development**
+**Goal**: Develop sustainable leadership structure
+
+##### **Rotating Leadership**
+- **Term Length**: 6-month terms for key roles
+- **Succession Planning**: Leadership pipeline development
+- **Training Programs**: Leadership skill development
+- **Mentorship**: Experienced leaders guide new ones
+
+##### **Committee Structure**
+- **Steering Committee**: Overall coordination (5-7 people)
+- **Functional Committees**: Specific area focus (3-5 people each)
+- **Working Groups**: Task-specific teams (varies)
+- **Advisory Council**: Experienced advisors (no voting)
+
+### **Phase 3: Maturation (Year 2+)**
+
+#### **Network Expansion**
+**Goal**: Connect with broader networks
+
+##### **Inter-Community Connections**
+- **Neighboring Networks**: Exchange visits and coordination
+- **Regional Networks**: Broader area coordination
+- **Specialized Networks**: Connect to expertise networks
+- **Mutual Aid Agreements**: Formal support agreements
+
+##### **Institutional Partnerships**
+- **Local Government**: Emergency management coordination
+- **Businesses**: Resource and service partnerships
+- **Non-profits**: Skill and resource sharing
+- **Educational Institutions**: Training partnerships
+
+#### **Advanced Capabilities**
+**Goal**: Develop sophisticated response capabilities
+
+##### **Emergency Response Teams**
+- **Medical Response**: First aid and triage capabilities
+- **Search and Rescue**: Trained search teams
+- **Communications**: Ham radio and backup systems
+- **Logistics**: Resource coordination and distribution
+
+##### **Alternative Systems**
+- **Local Currency**: Full alternative economy
+- **Local Production**: Food and goods production
+- **Energy Systems**: Community renewable energy
+- **Governance**: Consensus decision-making systems
+
+##  Network Health Metrics
+
+### **Participation Metrics**
+
+#### **Engagement Levels**
+- **Core Participants**: 10-15% of community (daily engagement)
+- **Active Participants**: 25-35% of community (weekly engagement)
+- **Occasional Participants**: 40-50% of community (monthly engagement)
+- **Aware Non-participants**: 60-70% know about network
+
+#### **Activity Participation**
+- **Meeting Attendance**: 40-60% of active participants
+- **Skill Workshops**: 60-80% of interested participants
+- **Social Events**: 70-90% of community members
+- **Emergency Drills**: 50-70% of community members
+
+### **Functionality Metrics**
+
+#### **Communication Effectiveness**
+- **Information Reach**: 90%+ of community in 24 hours
+- **Accuracy Rate**: 95%+ of information accurate
+- **Response Time**: <2 hours for non-emergency information
+- **Feedback Loop**: 80%+ of messages acknowledge receipt
+
+#### **Resource Sharing**
+- **Tool Library Usage**: 60%+ utilization rate
+- **Skill Exchange**: 20+ hours per month community-wide
+- **Bulk Buying**: 30%+ participation rate
+- **Emergency Response**: <1 hour mobilization time
+
+##  Trust Building Strategies
+
+### **Social Capital Development**
+
+#### **Incremental Trust Building**
+1. **Low-Risk Interactions**: Social events, information sharing
+2. **Small Favors**: Minor assistance, skill sharing
+3. **Shared Projects**: Group activities with common goals
+4. **Crisis Response**: Support during small emergencies
+5. **Long-term Commitment**: Multi-year relationship building
+
+#### **Trust Indicators**
+- **Resource Sharing**: Willingness to lend valuable items
+- **Information Sharing**: Open communication about challenges
+- **Conflict Resolution**: Ability to resolve disputes internally
+- **Leadership Acceptance**: Community support for leaders
+- **Mutual Support**: Helping without expectation of return
+
+### **Conflict Resolution Systems**
+
+#### **Prevention Strategies**
+- **Clear Expectations**: Written agreements and protocols
+- **Regular Check-ins**: Monthly satisfaction surveys
+- **Early Intervention**: Address issues before escalation
+- **Mediation Training**: Multiple trained mediators available
+
+#### **Resolution Process**
+1. **Direct Communication**: Encourage direct resolution
+2. **Peer Mediation**: Neutral community member mediation
+3. **Committee Review**: Formal committee assessment
+4. **Community Decision**: Full community involvement if needed
+5. **External Mediation**: Professional mediation if required
+
+##  Emergency Response Protocols
+
+### **Communication Cascade**
+
+#### **Level 1: Neighborhood Alert**
+- **Trigger**: Local emergency or concern
+- **Method**: Phone tree, door-to-door
+- **Timeline**: 30 minutes for full neighborhood
+- **Response**: Neighborhood coordinator assessment
+
+#### **Level 2: Community Mobilization**
+- **Trigger**: Significant local emergency
+- **Method**: All communication channels
+- **Timeline**: 2 hours for full community
+- **Response**: Community emergency response activation
+
+#### **Level 3: Regional Coordination**
+- **Trigger**: Area-wide emergency
+- **Method**: Ham radio, emergency networks
+- **Timeline**: 4 hours for regional coordination
+- **Response**: Mutual aid agreements activation
+
+### **Resource Mobilization**
+
+#### **Emergency Resource Pool**
+- **Location**: Secure, accessible community storage
+- **Contents**: 72-hour supplies for 20% of community
+- **Access**: Emergency coordinator key holders
+- **Replenishment**: Quarterly inventory and restocking
+
+#### **Skill Mobilization**
+- **Medical Team**: Respond within 15 minutes
+- **Technical Team**: Infrastructure assessment and repair
+- **Communications Team**: Information management
+- **Logistics Team**: Resource coordination and distribution
+
+##  Funding and Sustainability
+
+### **Financial Models**
+
+#### **Membership Dues**
+- **Structure**: Sliding scale based on ability to pay
+- **Amount**: $20-50 per household annually
+- **Uses**: Communication, meeting space, emergency supplies
+- **Administration**: Elected treasurer oversight
+
+#### **Activity Fees**
+- **Skill Workshops**: $5-15 per workshop
+- **Social Events**: Break-even pricing
+- **Bulk Buying**: 5-10% markup for administrative costs
+- **Tool Library**: Annual membership fee
+
+#### **Fundraising Activities**
+- **Community Events**: Annual fundraising events
+- **Grants**: Apply for community development grants
+- **Donations**: Accept donations from supporters
+- **Services**: Provide services to broader community
+
+### **Resource Sustainability**
+
+#### **Renewable Resources**
+- **Skills**: Continuously developed and shared
+- **Knowledge**: Documented and preserved
+- **Relationships**: Maintained through regular interaction
+- **Systems**: Self-reinforcing and improving
+
+#### **Non-Renewable Management**
+- **Physical Resources**: Maintenance and replacement funds
+- **Leadership Energy**: Rotation and development systems
+- **Meeting Spaces**: Multiple options and relationships
+- **Communication Tools**: Backup systems and redundancy
+
+##  Implementation Checklist
+
+### **Month 1: Assessment**
+- [ ] Complete neighborhood mapping
+- [ ] Identify key people and assets
+- [ ] Assess communication preferences
+- [ ] Document existing networks
+
+### **Month 2: Initial Outreach**
+- [ ] Host introductory meeting
+- [ ] Form working groups
+- [ ] Establish communication systems
+- [ ] Plan regular activities
+
+### **Month 3: System Development**
+- [ ] Implement tool sharing
+- [ ] Start skill workshops
+- [ ] Establish meeting rhythm
+- [ ] Create emergency protocols
+
+### **Month 6: Network Strengthening**
+- [ ] Expand participation
+- [ ] Develop leadership
+- [ ] Connect with other networks
+- [ ] Plan emergency drill
+
+### **Year 1: System Maturation**
+- [ ] Conduct emergency drill
+- [ ] Evaluate and improve systems
+- [ ] Plan expansion activities
+- [ ] Document lessons learned
+
+### **Leadership Pitfalls**
+ **Single Point of Failure** - Avoid dependence on one leader
+ **Burnout** - Rotate responsibilities to prevent exhaustion
+ **Control Issues** - Share decision-making authority
+ **Lack of Succession** - Always develop next generation leaders
+
+### **Participation Pitfalls**
+ **Elite Capture** - Ensure broad community representation
+ **Exclusivity** - Keep networks open to new participants
+ **Free Riders** - Balance giving and receiving expectations
+ **Conflict Avoidance** - Address issues directly and quickly
+
+### **Sustainability Pitfalls**
+ **Over-ambition** - Start small and grow gradually
+ **Under-funding** - Plan for financial sustainability
+ **Activity Fatigue** - Balance activity level with participation
+ **Goal Drift** - Maintain focus on preparedness objectives
+
+*"Individual preparedness gets you through the first week. Community resilience gets you through the first year. Together, we thrive."*
+
+--- SOURCE REFERENCE: disaster/knowledge_base/long_term_sustainability/local_food_production_systems.md ---
+#  Local Food Production Systems - Self-Sufficiency Guide
+
+##  Overview
+True food security comes from local production capability. This comprehensive guide covers establishing sustainable food production systems that can provide 50-90% of a household's nutritional needs through multiple growing methods and preservation techniques.
+
+##  Production Planning Calculator
+
+### **Family of 4 - Annual Food Production Goals**
+
+#### **Vegetable Production Targets**
+| Vegetable Type | Annual Need (lbs) | Growing Space | Harvest Seasons | Storage Method |
+|----------------|-------------------|---------------|-----------------|----------------|
+| **Tomatoes** | 100 lbs | 100 sq ft | Summer | Canning, drying |
+| **Onions** | 40 lbs | 50 sq ft | Fall | Root cellar |
+| **Carrots** | 60 lbs | 40 sq ft | Fall/Winter | Root cellar |
+| **Potatoes** | 200 lbs | 100 sq ft | Fall | Root cellar |
+| **Beans** | 40 lbs | 60 sq ft | Summer | Drying |
+| **Squash** | 80 lbs | 80 sq ft | Fall | Root cellar |
+| **Greens** | 50 lbs | 40 sq ft | Spring/Fall | Fresh/frozen |
+| **Peppers** | 30 lbs | 40 sq ft | Summer | Drying, freezing |
+
+#### **Total Space Requirements**
+- **Minimum Garden**: 500 square feet (intensive methods)
+- **Optimal Garden**: 1,000 square feet (standard spacing)
+- **Maximum Production**: 2,000 square feet (surplus for storage)
+
+##  Property-Based Production Systems
+
+### **Urban/Suburban Properties (0.1-0.5 acres)**
+
+#### **Intensive Growing Methods**
+**Available Space: 2,000-10,000 sq ft**
+
+##### **Square Foot Gardening**
+- **Productivity**: 2-4x conventional gardening
+- **Space Needed**: 4x8 foot raised beds
+- **Yield Example**: 32 sq ft = 200 lbs vegetables annually
+- **Investment**: $200-300 per 32 sq ft bed
+
+##### **Vertical Growing Systems**
+- **Trellises**: Beans, peas, cucumbers, tomatoes
+- **Tower Gardens**: Strawberries, herbs, lettuce
+- **Wall Systems**: Herbs, microgreens
+- **Space Efficiency**: 3-5x ground space equivalent
+
+##### **Container Systems**
+- **Patio Containers**: 20-50 gallon containers
+- **Grow Bags**: 15-30 gallon fabric bags
+- **Window Boxes**: Herbs, microgreens
+- **Mobility**: Can relocate for optimal sun/protection
+
+#### **Small Livestock Options**
+**Space: 200-500 sq ft for housing**
+
+##### **Backyard Chickens**
+- **Space**: 4 sq ft per bird in coop, 10 sq ft in run
+- **Production**: 6 hens = 1,500 eggs annually
+- **Investment**: $500-800 initial setup
+- **Feed Cost**: $300-400 annually
+
+##### **Rabbits**
+- **Space**: 3x3 foot cage per breeding doe
+- **Production**: 3 does = 150 lbs meat annually
+- **Investment**: $400-600 initial setup
+- **Feed Cost**: $200-300 annually
+
+##### **Aquaponics Systems**
+- **Space**: 8x12 foot greenhouse setup
+- **Production**: Fish protein + vegetables
+- **Investment**: $2,000-3,000 complete system
+- **Operating Cost**: $200-400 annually
+
+### **Rural Properties (0.5+ acres)**
+
+#### **Expanded Production Capabilities**
+**Available Space: 10,000+ sq ft for cultivation**
+
+##### **Field Crop Production**
+- **Grains**: Wheat, corn, oats (1 acre = 30-50 bushels)
+- **Legumes**: Soybeans, field peas (nitrogen fixation)
+- **Root Crops**: Potatoes, sweet potatoes (high calorie yield)
+- **Forage Crops**: Feed for livestock
+
+##### **Orchard Development**
+- **Tree Spacing**: 20-30 trees per acre
+- **Production Timeline**: 3-5 years to significant production
+- **Yield**: Mature apple tree = 10-20 bushels annually
+- **Varieties**: Select for extended harvest season
+
+##### **Larger Livestock Systems**
+- **Goats**: 6-10 goats per acre, milk and meat
+- **Sheep**: 4-6 sheep per acre, meat and wool
+- **Pigs**: 2-4 pigs per acre with rotation
+- **Cattle**: 1-2 cattle per acre with good pasture
+
+##  Year-Round Growing Systems
+
+### **Season Extension Techniques**
+
+#### **Cold Frames**
+- **Construction**: Simple box with glass/plastic lid
+- **Extension**: Add 6-8 weeks to growing season
+- **Crops**: Lettuce, spinach, radishes, carrots
+- **Cost**: $50-100 per 4x4 frame
+
+#### **Hoop Houses/Low Tunnels**
+- **Construction**: PVC pipes with plastic covering
+- **Extension**: Add 8-12 weeks to growing season
+- **Crops**: Most vegetables with cold tolerance
+- **Cost**: $2-3 per linear foot
+
+#### **Greenhouse Systems**
+- **Small Greenhouse**: 8x10 foot hobby greenhouse
+- **Extension**: Year-round growing capability
+- **Crops**: Tomatoes, peppers, herbs, microgreens
+- **Cost**: $800-2,000 for kit, $2,000-5,000 built
+
+#### **Indoor Growing Systems**
+- **Microgreens**: 7-14 day harvest cycle
+- **Sprouts**: 3-7 day harvest cycle
+- **Herbs**: Year-round fresh herbs
+- **Investment**: $100-500 for LED grow systems
+
+### **Succession Planting Calendar**
+
+#### **Spring Succession (March-May)**
+| Week | Plant Type | Variety | Harvest Time |
+|------|------------|---------|--------------|
+| **Week 1** | Cool crops | Lettuce, spinach | 6-8 weeks |
+| **Week 3** | Root crops | Carrots, radishes | 8-12 weeks |
+| **Week 5** | Brassicas | Broccoli, cabbage | 10-14 weeks |
+| **Week 7** | Warm crops | Tomatoes, peppers | 12-20 weeks |
+
+#### **Summer Succession (June-August)**
+- **Continuous Harvest**: Plant lettuce every 2 weeks
+- **Bean Plantings**: Plant beans every 3 weeks
+- **Fall Crops**: Start fall crops in mid-summer
+
+#### **Fall Succession (September-November)**
+- **Cold Hardy**: Focus on cold-tolerant varieties
+- **Storage Crops**: Plant root vegetables for storage
+- **Cover Crops**: Plant soil-building crops
+
+##  Food Preservation Integration
+
+### **Preservation Method Planning**
+
+#### **Canning (Water Bath & Pressure)**
+**Suitable For**: Tomatoes, beans, corn, meat
+- **Equipment**: Pressure canner, jars, lids
+- **Capacity**: 7-quart canner processes 7 quarts
+- **Shelf Life**: 2-5 years properly stored
+- **Space**: Pantry shelving for jar storage
+
+#### **Dehydrating**
+**Suitable For**: Herbs, fruits, vegetables, meat
+- **Equipment**: Electric dehydrator or solar dryer
+- **Capacity**: 9-tray dehydrator = 15-20 lbs fresh
+- **Shelf Life**: 1-2 years in sealed containers
+- **Space**: Minimal storage space required
+
+#### **Fermentation**
+**Suitable For**: Cabbage, cucumbers, other vegetables
+- **Equipment**: Fermentation crocks or jars
+- **Capacity**: 5-gallon crock = 20 lbs vegetables
+- **Shelf Life**: 6 months refrigerated
+- **Benefits**: Probiotics, enhanced nutrition
+
+#### **Root Cellar Storage**
+**Suitable For**: Potatoes, carrots, apples, onions
+- **Requirements**: 32-40F, 85-90% humidity
+- **Capacity**: 10x10 root cellar = 500+ lbs storage
+- **Shelf Life**: 4-8 months depending on crop
+- **Construction**: Underground or insulated storage
+
+### **Preservation Schedule by Season**
+
+#### **Summer Preservation (June-August)**
+- **Week 1-4**: Strawberries, early berries  freezing, jam
+- **Week 5-8**: Summer vegetables  canning, dehydrating
+- **Week 9-12**: Tomato season  sauce, paste, whole canning
+- **Week 13-16**: Late summer  pickles, relishes
+
+#### **Fall Preservation (September-November)**
+- **Month 1**: Apple harvest  canning, drying, storage
+- **Month 2**: Root vegetable harvest  root cellar prep
+- **Month 3**: Final harvests  preservation completion
+
+##  Soil Building & Sustainability
+
+### **Composting Systems**
+
+#### **Hot Composting (Berkeley Method)**
+- **Materials**: 30:1 carbon to nitrogen ratio
+- **Timeline**: 18 days to finished compost
+- **Yield**: 3x3x3 pile = 1 cubic yard compost
+- **Management**: Turn every 6 days, monitor temperature
+
+#### **Cold Composting**
+- **Materials**: Kitchen scraps, yard waste
+- **Timeline**: 6-12 months to finished compost
+- **Yield**: Continuous addition system
+- **Management**: Minimal turning, longer process
+
+#### **Vermicomposting**
+- **Materials**: Kitchen scraps fed to worms
+- **Timeline**: 3-4 months to harvest castings
+- **Yield**: 1 lb worms process 3-4 lbs scraps weekly
+- **Output**: High-quality worm castings
+
+### **Cover Cropping**
+
+#### **Nitrogen-Fixing Covers**
+- **Crimson Clover**: Plant fall, harvest spring
+- **Field Peas**: Cool season nitrogen production
+- **Buckwheat**: Fast growing, attracts beneficial insects
+- **Benefits**: Add 40-150 lbs nitrogen per acre
+
+#### **Soil Building Covers**
+- **Winter Rye**: Prevents erosion, adds organic matter
+- **Crimson Clover**: Nitrogen fixation, soil aeration
+- **Mustard**: Natural biofumigation, pest control
+- **Management**: Plant after harvest, till before planting
+
+##  Integrated Pest Management
+
+### **Beneficial Insect Habitat**
+
+#### **Native Plant Integration**
+- **Pollinator Plants**: Flowers for beneficial insects
+- **Habitat Strips**: Undisturbed areas for overwintering
+- **Diverse Plantings**: Avoid monocultures
+- **Seasonal Blooms**: Flowers throughout growing season
+
+#### **Natural Predator Support**
+- **Ladybugs**: Aphid control, provide pollen sources
+- **Lacewings**: General pest control, avoid broad pesticides
+- **Parasitic Wasps**: Caterpillar control, plant diverse flowers
+- **Ground Beetles**: Soil pest control, maintain ground cover
+
+### **Organic Control Methods**
+
+#### **Physical Controls**
+- **Row Covers**: Exclude flying pests during vulnerable periods
+- **Copper Barriers**: Slug and snail control
+- **Sticky Traps**: Monitor and control flying pests
+- **Hand Picking**: Remove large pests and egg masses
+
+#### **Biological Controls**
+- **Bacillus thuringiensis**: Caterpillar control
+- **Neem Oil**: Soft-bodied insect control
+- **Diatomaceous Earth**: Crawling insect control
+- **Beneficial Nematodes**: Soil grub control
+
+##  Economic Analysis
+
+### **Investment Timeline & Returns**
+
+#### **Year 1: Foundation Investment**
+**Initial Costs: $2,000-3,500**
+- **Infrastructure**: Raised beds, tools, basic equipment
+- **Soil Preparation**: Compost, amendments
+- **Seeds/Plants**: First year's planting
+- **Basic Preservation**: Canner, dehydrator
+
+**Expected Production**: $800-1,200 value
+**Net Cost**: $800-2,700
+
+#### **Year 2-3: Expansion Phase**
+**Annual Costs: $500-800**
+- **Seeds/Plants**: Annual replacements
+- **Soil Amendments**: Compost, fertilizers
+- **Equipment Additions**: Specialized tools
+- **Preservation Supplies**: Jars, lids
+
+**Expected Production**: $1,500-2,200 value
+**Net Benefit**: $700-1,700 annually
+
+#### **Year 4+: Mature Production**
+**Annual Costs: $300-500**
+- **Seeds/Plants**: Reduced as perennials mature
+- **Maintenance**: Tool replacement, amendments
+- **Preservation**: Ongoing supplies
+
+**Expected Production**: $2,000-3,000 value
+**Net Benefit**: $1,500-2,700 annually
+
+### **Return on Investment Analysis**
+
+#### **5-Year Financial Summary**
+- **Total Investment**: $5,000-7,000
+- **Total Production Value**: $8,000-12,000
+- **Net Benefit**: $3,000-5,000
+- **Payback Period**: 2-3 years
+- **Ongoing Annual ROI**: 30-50%
+
+#### **Non-Financial Benefits**
+- **Food Security**: Independence from supply chains
+- **Nutrition Quality**: Fresh, organic produce
+- **Physical Activity**: Healthy outdoor exercise
+- **Mental Health**: Stress relief, connection to nature
+- **Skill Development**: Valuable self-sufficiency skills
+
+##  Production Milestones
+
+### **Beginner Goals (Year 1)**
+- [ ] **25% Fresh Vegetables**: Provide fresh vegetables 3 months/year
+- [ ] **Basic Preservation**: Learn 2-3 preservation methods
+- [ ] **Soil Building**: Establish composting system
+- [ ] **Season Extension**: Build 1-2 cold frames
+
+### **Intermediate Goals (Year 2-3)**
+- [ ] **50% Vegetable Needs**: Meet half of annual vegetable needs
+- [ ] **Protein Production**: Add small livestock (chickens/rabbits)
+- [ ] **Orchard Establishment**: Plant fruit trees
+- [ ] **Advanced Preservation**: Master all preservation methods
+
+### **Advanced Goals (Year 4+)**
+- [ ] **75% Food Production**: Produce majority of household food
+- [ ] **Surplus Generation**: Produce excess for trading/selling
+- [ ] **Seed Saving**: Maintain seed stock for independence
+- [ ] **Community Integration**: Share knowledge and resources
+
+##  Common Mistakes to Avoid
+
+### **Planning Mistakes**
+ **Overplanting First Year** - Start small and expand gradually
+ **Ignoring Soil Health** - Invest in soil before expecting production
+ **No Succession Planting** - Plan for continuous harvests
+ **Inadequate Water Access** - Ensure reliable irrigation
+
+### **Production Mistakes**
+ **Monoculture Planting** - Diversify for pest/disease resistance
+ **Poor Timing** - Follow local planting calendars
+ **Inadequate Spacing** - Follow spacing recommendations
+ **Neglecting Maintenance** - Regular weeding and care essential
+
+### **Preservation Mistakes**
+ **Inadequate Equipment** - Invest in proper preservation tools
+ **Poor Storage Conditions** - Control temperature and humidity
+ **No Processing Plan** - Plan preservation during growing season
+ **Safety Shortcuts** - Follow food safety guidelines strictly
+
+##  Troubleshooting Guide
+
+### **Low Production Issues**
+**Problem**: Poor yields despite good care
+- **Cause**: Poor soil, inadequate sunlight, wrong timing
+- **Solution**: Soil test, relocate beds, adjust planting schedule
+
+### **Pest Problems**
+**Problem**: Significant crop damage from pests
+- **Cause**: Lack of beneficial habitat, poor plant health
+- **Solution**: Diversify plantings, improve soil health, IPM
+
+### **Preservation Failures**
+**Problem**: Food spoilage during storage
+- **Cause**: Improper technique, poor storage conditions
+- **Solution**: Review methods, improve storage environment
+
+### **Seasonal Planning Issues**
+**Problem**: Food gaps between harvests
+- **Cause**: Poor succession planting, inadequate preservation
+- **Solution**: Stagger plantings, increase preservation capacity
+
+*"The best time to plant a tree was 20 years ago. The second best time is now. The same applies to food production systems."*
+
+--- SOURCE REFERENCE: disaster/knowledge_base/power_and_energy/power_and_energy_guide.md ---
+# Urban Power & Energy Guide
+
+This guide covers the essentials of backup power solutions and managing your energy consumption during a power outage.
+
+## 1. Backup Power Solutions
+
+Having a way to generate your own electricity is a major advantage in a disaster. Here are the most common options, from simplest to most complex.
+
+### Tier 1: Portable Power Banks
+
+*   **What they are:** Small, portable batteries for charging phones, tablets, and other USB-powered devices.
+*   **Pros:** Inexpensive, easy to use, portable.
+*   **Cons:** Limited capacity. They won't power large appliances.
+*   **Best For:** Keeping your communication devices charged.
+
+### Tier 2: Portable Power Stations (Solar Generators)
+
+*   **What they are:** Large, rechargeable battery packs with multiple outlets (AC, DC, USB). They can be recharged via a wall outlet, a car, or solar panels.
+*   **Pros:** Silent, no fumes (safe for indoor use), multiple charging options.
+*   **Cons:** More expensive than power banks, limited capacity (you can't run a refrigerator for days on end).
+*   **Best For:** Running small, essential devices like a laptop, a CPAP machine, or a few lights.
+
+### Tier 3: Gasoline Generators
+
+*   **What they are:** The traditional solution for backup power.
+*   **Pros:** Powerful (can run large appliances like refrigerators and freezers), relatively inexpensive for the amount of power they provide.
+*   **Cons:** **NEVER USE INDOORS.** They produce deadly carbon monoxide. They are loud, require a steady supply of gasoline (which can be hard to find in a disaster), and require regular maintenance.
+*   **Best For:** Powering essential large appliances.
+
+### Tier 4: Whole-Home Generators / Solar with Battery Backup
+
+*   **What they are:** Professionally installed systems that can power your entire home.
+*   **Pros:** Seamless, automatic power. High capacity.
+*   **Cons:** Very expensive.
+*   **Best For:** Long-term, whole-home power solutions.
+
+## 2. Energy Management: Powering Down
+
+During an outage, you need to be strategic about your energy use. Your goal is to make your stored power last as long as possible.
+
+*   **Know Your Needs:** Before a disaster, figure out which of your devices are essential. Make a list of their power requirements (in watts).
+*   **Turn Things Off:** Unplug any device you are not actively using. Even in standby mode, many electronics draw a small amount of power (this is called a "phantom load").
+*   **Use Manual Alternatives:** Use a hand-crank can opener instead of an electric one. Use a manual coffee grinder. Look for non-electric alternatives for your daily tasks.
+*   **Lighting:** Use flashlights, headlamps, or solar-powered lanterns for light. Avoid using the lights in your home, as they are a significant power drain.
+*   **Heating and Cooling:** Your home's heating and cooling systems are likely your biggest energy consumers. Do not attempt to run them on a portable generator. For warmth, focus on heating a single, small room and use blankets and warm clothing. For cooling, use passive methods like opening windows at night and closing them during the day.
+
+By having a modest backup power solution and being mindful of your energy consumption, you can maintain a degree of normalcy and safety during a power outage.
+
+--- SOURCE REFERENCE: disaster/knowledge_base/communications/communications_guide.md ---
+# Urban Communications Guide
+
+When a disaster strikes, communication networks are often the first casualty. This guide covers how to create a family communication plan and the basics of using radios to stay connected.
+
+## 1. Family Emergency Communication Plan
+
+A simple, clear plan is essential for reconnecting with loved ones.
+
+*   **Contact Information:**
+    *   Create a physical, waterproof list of all important phone numbers. Don't rely on your phone's contact list.
+    *   Include an **Out-of-Town Contact**. It is often easier to make long-distance calls than local ones during a regional disaster. This person can act as a central point of contact for your family.
+*   **Meeting Places:** Designate three specific locations:
+    1.  **Neighborhood Meeting Place:** A safe spot near your home (e.g., a specific tree, a neighbor's porch).
+    2.  **Regional Meeting Place:** A location outside your immediate neighborhood, in case you can't get home (e.g., a library, a friend's house).
+    3.  **Out-of-Town Meeting Place:** A location in another city or state, in case of a large-scale evacuation.
+*   **Communication Methods:**
+    *   **Text Messages First:** Text messages (SMS) often get through when voice calls fail because they use less network bandwidth.
+    *   **If You Must Call:** Keep calls brief to conserve your phone's battery and free up the network for others.
+*   **Practice the Plan:** Run through your plan with your family. Make sure everyone knows the meeting places and has the contact information.
+
+**Action Item:** Fill out a family communication plan. You can find excellent, free templates online from sources like Ready.gov.
+
+## 2. Two-Way Radio Communication
+
+When cell phones and the internet are down, radios are your best bet for staying in touch.
+
+*   **FRS (Family Radio Service):**
+    *   **License:** None required.
+    *   **Power:** Low power (max 2 watts).
+    *   **Range:** Short-range (typically 0.5 to 2 miles).
+    *   **Best For:** Communicating with family members within a small area (e.g., your neighborhood).
+    *   **Notes:** These are the common "walkie-talkies" you can buy in most stores. They are simple to use and a great starting point.
+
+*   **GMRS (General Mobile Radio Service):**
+    *   **License:** Required (one license covers your entire immediate family, no test required).
+    *   **Power:** Higher power (up to 50 watts).
+    *   **Range:** Medium-range (typically 5 to 25 miles).
+    *   **Best For:** Communicating over longer distances, like across a town.
+    *   **Notes:** GMRS radios can use repeaters, which can significantly extend their range.
+
+*   **Ham Radio (Amateur Radio):**
+    *   **License:** Required (must pass a test).
+    *   **Power:** High power.
+    *   **Range:** Long-range (can be global).
+    *   **Best For:** Communicating over very long distances, and for hobbyists who want to be part of a larger community.
+    *   **Notes:** Ham radio is the most powerful and versatile option, but it also has the highest barrier to entry.
+
+### Radio Etiquette:
+
+*   **Listen First:** Before you transmit, listen to make sure the channel is clear.
+*   **Keep it Brief:** Be concise and to the point.
+*   **Identify Yourself:** Use your call sign (for GMRS and Ham) or a nickname.
+*   **Speak Clearly:** Use plain language. Avoid jargon.
+
+By having a solid family communication plan and a set of two-way radios, you can dramatically improve your ability to stay connected and informed during an emergency.
+
+**See also:** REFERENCE_DOCUMENTS.md for Ready.gov templates and emergency resources.
+
+--- SOURCE REFERENCE: disaster/knowledge_base/home_repair/home_repair_guide.md ---
+# Post-Disaster Home Repair Guide
+
+This guide covers the most critical first steps for securing your home and preventing further damage after a disaster.
+
+## 1. Safety First: When in Doubt, Get Out
+
+Before you even think about repairs, assess the structural safety of your home.
+
+*   **Look for:**
+    *   Large cracks in the foundation or walls.
+    *   Sagging ceilings or roof.
+    *   The smell of gas or burning insulation.
+*   If you see any of these signs, **do not enter**. Have the home inspected by a professional when it is safe to do so.
+
+## 2. Utility Shut-Offs
+
+Knowing how to shut off your utilities is one of the most important post-disaster skills.
+
+*   **When to Shut it Off:** If you see sparks, frayed wires, the smell of burning insulation, or if your home has been flooded.
+*   **How to Shut it Off:**
+    1.  Locate your main electrical panel (usually in the garage, basement, or an outside closet).
+    2.  Turn off all the individual circuit breakers first.
+    3.  Flip the main breaker (the large one at the top) to the "Off" position.
+
+*   **When to Shut it Off:** **Only if you smell gas, hear a hissing sound, or see a broken gas line.**
+*   **How to Shut it Off:**
+    1.  Locate your gas meter on the exterior of your house.
+    2.  Use a crescent wrench or a specialized gas shut-off tool to turn the valve a quarter turn until it is perpendicular to the pipe.
+    3.  **NEVER** attempt to turn the gas back on yourself. This must be done by a qualified professional.
+
+*   **When to Shut it Off:** If you have a burst pipe or if local authorities have issued a boil water alert.
+*   **How to Shut it Off:**
+    1.  Locate your home's main water shut-off valve. This is usually where the main water pipe enters your house, often in a basement or on an exterior wall.
+    2.  Turn the valve clockwise to close it.
+
+## 3. Securing Your Home
+
+*   **Board Up Windows:** Use plywood or other sturdy material to cover broken windows. This will protect your home from the elements and from intruders.
+*   **Tarp Your Roof:** If your roof is damaged, a securely fastened tarp can prevent water from getting into your home.
+*   **Document Everything:** Before you make any repairs, take photos and videos of all the damage for your insurance claim.
+
+This guide covers the immediate, critical steps. For more complex repairs, always consult a professional when it is safe to do so.
+
+--- SOURCE REFERENCE: disaster/knowledge_base/long_term_sustainability/financial_preparedness.md ---
+# Financial Preparedness Guide
+
+This guide helps you build financial resilience for emergencies and extended disruptions.
+
+## Emergency Fund Basics
+
+*   **Goal:** 36 months of essential expenses in a liquid account (savings, money market).
+*   **Where:** FDIC-insured account, accessible without penalty.
+*   **What counts as essential:** Rent/mortgage, utilities, food, medications, insurance.
+
+## Emergency Budget Priorities
+
+1. **Shelter and utilities**
+2. **Food and water**
+3. **Medications and medical**
+4. **Insurance (health, home/renters)**
+5. **Communication (phone/internet if critical)**
+6. **Transportation (for work or evacuation)**
+
+*   Keep a small amount of cash at home for power outages or when ATMs/banks are unavailable.
+*   Consider small denominations for easier use during local disruptions.
+
+*   Keep copies of important documents in a safe, portable location (fireproof safe, safe deposit box, or digital backup).
+*   Include: IDs, insurance policies, property deeds, bank/account info, medical records, contact list.
+
+*   **Homeowners/Renters:** Verify coverage for disasters relevant to your area (flood, earthquake, etc.). Flood insurance is separate.
+*   **Health:** Understand deductibles, out-of-network care, and prescription coverage.
+*   **Auto:** Check comprehensive coverage for natural disasters.
+
+## Debt and Expenses
+
+*   Reduce nonessential debt to improve cash flow during emergencies.
+*   Know your options for forbearance or payment relief with lenders, insurers, and utilities.
+
+## Income Continuity
+
+*   Understand sick leave, remote work options, and unemployment eligibility.
+*   Have a backup plan if your primary income is disrupted.
+
+*   reference/REFERENCE_DOCUMENTS.md  Links to free financial and disaster prep resources
+*   barter_and_trade/barter_and_trade_guide.md  Alternative economy options
+*   scenario_specific_plans/pandemic_preparedness.md  Pandemic-specific financial impacts
+
+--- SOURCE REFERENCE: disaster/knowledge_base/long_term_sustainability/6_month_supply_planning_guide.md ---
+#  6-Month Supply Planning Guide - Long-Term Preparedness
+
+##  Overview
+Moving beyond the standard 72-hour emergency kit to true long-term sustainability requires systematic planning for 6+ months of self-sufficiency. This guide provides comprehensive frameworks for extended supply planning across all essential categories.
+
+##  6-Month Supply Calculator
+
+### **Family of 4 - Base Requirements**
+
+#### **Food Storage (6 Months = 180 Days)**
+| Category | Per Person/Day | Family/Day | 6-Month Total | Storage Method |
+|----------|----------------|------------|---------------|----------------|
+| **Calories** | 2,200 | 8,800 | 1,584,000 cal | Mixed storage |
+| **Protein** | 50g | 200g | 36 kg (79 lbs) | Freeze-dried, canned |
+| **Carbohydrates** | 275g | 1,100g | 198 kg (436 lbs) | Grains, pasta |
+| **Fats** | 78g | 312g | 56 kg (123 lbs) | Oils, nuts, seeds |
+| **Water** | 1 gallon | 4 gallons | 720 gallons | Tanks, barrels |
+
+#### **Essential Food Categories**
+- **Grains**: 300 lbs (rice, wheat, oats, quinoa)
+- **Legumes**: 100 lbs (beans, lentils, chickpeas)
+- **Proteins**: 80 lbs (canned meat, fish, freeze-dried)
+- **Dairy**: 60 lbs (powdered milk, cheese)
+- **Vegetables**: 120 lbs (canned, dehydrated, freeze-dried)
+- **Fruits**: 80 lbs (canned, dried, freeze-dried)
+- **Fats/Oils**: 40 lbs (coconut oil, olive oil, nuts)
+- **Seasonings**: 20 lbs (salt, spices, herbs)
+
+##  Seasonal Planning Strategy
+
+### **Quarterly Rotation System**
+
+#### **Q1 (Jan-Mar): Winter Deep Storage**
+- **Focus**: Calorie-dense foods, vitamin D supplements
+- **Menu Planning**: Hearty stews, soups, grains
+- **Special Needs**: Extra heating fuel, preserved vegetables
+- **Rotation**: Use oldest canned goods, refresh dried foods
+
+#### **Q2 (Apr-Jun): Spring Renewal**
+- **Focus**: Fresh supplement integration, seed starting
+- **Menu Planning**: Lighter meals, fresh sprouts
+- **Special Needs**: Garden preparation supplies
+- **Rotation**: Deep clean storage areas, inventory refresh
+
+#### **Q3 (Jul-Sep): Summer Preservation**
+- **Focus**: Fresh food preservation, dehydration
+- **Menu Planning**: Fresh integration with stored foods
+- **Special Needs**: Cooling/preservation equipment
+- **Rotation**: Process fresh harvest, update inventories
+
+#### **Q4 (Oct-Dec): Harvest Integration**
+- **Focus**: Final preservation, winter preparation
+- **Menu Planning**: Comfort foods, holiday considerations
+- **Special Needs**: Final harvest processing
+- **Rotation**: Prepare for winter deep storage cycle
+
+##  Storage System Design
+
+### **Zone-Based Storage Layout**
+
+#### **Zone 1: Daily Access (Kitchen)**
+- **Capacity**: 2-week rotating supply
+- **Temperature**: 65-75F
+- **Items**: Current consumption items
+- **Rotation**: Weekly from Zone 2
+
+#### **Zone 2: Monthly Access (Pantry)**
+- **Capacity**: 2-month supply
+- **Temperature**: 60-70F
+- **Items**: Canned goods, dry goods
+- **Rotation**: Monthly from Zone 3
+
+#### **Zone 3: Quarterly Access (Storage Room)**
+- **Capacity**: 6-month bulk storage
+- **Temperature**: 50-60F
+- **Items**: Bulk grains, long-term storage
+- **Rotation**: Quarterly inspection and rotation
+
+#### **Zone 4: Emergency Cache (Secure Area)**
+- **Capacity**: 1-month emergency only
+- **Temperature**: 40-60F
+- **Items**: Emergency rations, water
+- **Access**: Emergency situations only
+
+##  Progressive Supply Building
+
+### **Month 1-2: Foundation Phase**
+**Investment: $800-1,200**
+
+#### **Week 1-2: Water Security**
+- [ ] **Water Storage**: 55-gallon barrels (2-4 units)
+- [ ] **Water Treatment**: Filters, purification tablets
+- [ ] **Water Testing**: pH strips, bacteria tests
+
+#### **Week 3-4: Basic Food Storage**
+- [ ] **Grains**: 50 lbs rice, 25 lbs wheat
+- [ ] **Legumes**: 25 lbs beans, 10 lbs lentils
+- [ ] **Canned Goods**: 50 cans vegetables, 30 cans protein
+
+#### **Week 5-8: Storage Infrastructure**
+- [ ] **Containers**: Food-grade buckets with gamma lids
+- [ ] **Shelving**: Heavy-duty steel shelving units
+- [ ] **Climate Control**: Dehumidifiers, thermometers
+
+### **Month 3-4: Expansion Phase**
+**Investment: $600-900**
+
+#### **Diversification Strategy**
+- [ ] **Protein Variety**: Freeze-dried meats, fish
+- [ ] **Nutritional Balance**: Vitamins, supplements
+- [ ] **Cooking Fuel**: Propane, wood, charcoal
+- [ ] **Preservation Tools**: Dehydrator, vacuum sealer
+
+### **Month 5-6: Optimization Phase**
+**Investment: $400-600**
+
+#### **System Refinement**
+- [ ] **Inventory Management**: Spreadsheets, labeling
+- [ ] **Rotation Systems**: FIFO organization
+- [ ] **Quality Control**: Regular inspections
+- [ ] **Skill Development**: Food preservation training
+
+##  Quality Control Systems
+
+### **Monthly Inspection Protocol**
+
+#### **Visual Inspection Checklist**
+- [ ] **Containers**: Check for damage, pest intrusion
+- [ ] **Labels**: Verify dates, contents accuracy
+- [ ] **Environment**: Temperature, humidity readings
+- [ ] **Organization**: FIFO rotation compliance
+
+#### **Quality Indicators**
+| Food Type | Check For | Action If Found |
+|-----------|-----------|-----------------|
+| **Canned Goods** | Bulging, rust, dents | Discard immediately |
+| **Dried Foods** | Moisture, insects | Repackage or discard |
+| **Grains** | Weevils, rancidity | Freezer treatment or discard |
+| **Oils** | Rancid smell, cloudiness | Replace immediately |
+
+### **Quarterly Deep Assessment**
+- **Inventory Reconciliation**: Compare actual vs. recorded
+- **Nutritional Analysis**: Ensure balanced diet capability
+- **Shelf Life Review**: Identify items approaching expiration
+- **System Improvements**: Identify storage or rotation issues
+
+##  Cost Management Strategy
+
+### **Budget Allocation (6-Month Goal: $3,000-4,500)**
+
+#### **Phase 1: Water & Basics (33%)**
+- **Water Systems**: $400-600
+- **Basic Grains/Legumes**: $300-500
+- **Storage Infrastructure**: $300-500
+- **Total**: $1,000-1,600
+
+#### **Phase 2: Diversification (40%)**
+- **Protein Sources**: $500-700
+- **Vegetables/Fruits**: $400-600
+- **Cooking/Preservation**: $300-500
+- **Total**: $1,200-1,800
+
+#### **Phase 3: Optimization (27%)**
+- **Quality Improvements**: $300-400
+- **Inventory Systems**: $200-300
+- **Skill Development**: $200-400
+- **Total**: $700-1,100
+
+### **Cost-Saving Strategies**
+
+##  Menu Planning System
+
+### **6-Month Menu Framework**
+
+### **Seasonal Menu Adaptations**
+
+### **Preparedness Indicators**
