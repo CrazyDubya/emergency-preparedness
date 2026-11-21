@@ -338,15 +338,15 @@ async def update_profile(
     success_count = 0
     
     if update.family:
-        if system.profile_manager.save_family_info(update.family):
+        if system.profile_manager.update_profile('family', update.family, force=True):
             success_count += 1
     
     if update.location:
-        if system.profile_manager.save_location_info(update.location):
+        if system.profile_manager.update_profile('location', update.location, force=True):
             success_count += 1
     
     if update.preferences:
-        if system.profile_manager.save_preferences(update.preferences):
+        if system.profile_manager.update_profile('preferences', update.preferences, force=True):
             success_count += 1
     
     return {
