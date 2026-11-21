@@ -2115,11 +2115,11 @@ Examples:
     if args.supplies:
         if args.check_expiry:
             print("🔍 Checking supply expiry dates...")
-            expiring = system.supply_tracker.check_expiry_dates()
+            expiring = system.supply_tracker.check_expiration_alerts(30)
             if expiring:
                 print(f"⚠️ {len(expiring)} items expiring soon:")
                 for item in expiring[:5]:
-                    print(f"  • {item['name']}: expires {item['expiry_date']}")
+                    print(f"  • {item['item']}: expires {item['expiration']}")
             else:
                 print("✅ No items expiring soon")
         else:
