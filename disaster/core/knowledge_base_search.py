@@ -545,14 +545,23 @@ class KnowledgeBaseSearch:
         """Extract checklists from markdown content"""
         checklists = []
         current_checklist = None
+        checklist_level = None
         
         lines = content.split('\n')
         for i, line in enumerate(lines):
+            heading = re.match(r'^\s{0,3}(#{1,6})\s+', line)
+            if current_checklist and heading and len(heading.group(1)) <= checklist_level:
+                if current_checklist['items']:
+                    checklists.append(current_checklist)
+                current_checklist = None
+                checklist_level = None
+
             # Look for checklist headers
             if '## ' in line and ('checklist' in line.lower() or 'items' in line.lower()):
                 if current_checklist and current_checklist['items']:
                     checklists.append(current_checklist)
                 
+                checklist_level = len(heading.group(1)) if heading else 2
                 current_checklist = {
                     'title': line.replace('#', '').strip(),
                     'items': [],
